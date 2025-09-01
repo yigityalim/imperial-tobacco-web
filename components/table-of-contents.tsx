@@ -1,8 +1,8 @@
 "use client";
 
-import { Link } from "next-view-transitions";
 import * as React from "react";
 import { useCallback } from "react";
+import { Link } from "@/i18n/navigation";
 import type { TableOfContents as TOC } from "@/lib/toc";
 import { cn } from "@/lib/utils";
 

@@ -10,13 +10,13 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
-import { Link } from "next-view-transitions";
 import { BrandCard } from "@/components/brand-card";
 import { CategoryCard } from "@/components/catalog/category-card";
 import { ProductCard } from "@/components/catalog/product-card";
 import { QrcodeGenerator } from "@/components/qrcode-generator";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Link } from "@/i18n/navigation";
 
 export const metadata: Metadata = {
 	title: "Tütün Ürün Kataloğu | Premium Tütün Markaları",
