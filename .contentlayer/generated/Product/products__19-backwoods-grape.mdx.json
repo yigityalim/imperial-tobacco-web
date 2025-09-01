@@ -1,0 +1,150 @@
+{
+  "title": "Backwoods Grape - Yoğun Üzüm Aroması",
+  "description": "Backwoods Grape, tütünün kendine has tadını zengin ve tatlı üzüm notalarıyla harmanlar. Cesur ve lezzetli bir tercih.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "categoryName": "Backwoods Flavors",
+  "productName": "Grape",
+  "sku": "BWS-GRAPE-5",
+  "price": 150,
+  "currency": "TRY",
+  "cover": "/images/backwoods-grape-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/backwoods-grape-pack.jpg",
+      "alt": "Backwoods Grape paketi",
+      "caption": "Koyu mor ve yeşil tonlarıyla göz alıcı ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-grape-detail.jpg",
+      "alt": "Backwoods Grape puro detayı",
+      "caption": "Üzüm aromasının zenginliği",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Natural",
+  "nicotineLevel": "N/A",
+  "tarLevel": "N/A",
+  "packSize": 5,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "115 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "10 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Yok",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Tatlı Üzüm",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Yoğun ve Tatlı Aroma",
+      "description": "Üzümün zengin ve tatlı lezzetini her nefeste hissettirir.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Doğal Tütün Sargısı",
+      "description": "Gerçek tütün yaprağıyla sarılarak otantik bir deneyim sunar.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Cesur Lezzet",
+      "description": "Alışılmışın dışında, güçlü ve unutulmaz bir tat profili.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "backwoods",
+    "aromalı",
+    "grape",
+    "üzüm",
+    "tatlı"
+  ],
+  "sortOrder": 19,
+  "body": {
+    "raw": "\n# Backwoods Grape - Lezzetin Cesur Dokunuşu\n\n**Backwoods Grape**, klasik tütün deneyimine güçlü ve tatlı bir dokunuş katmak isteyenler için tasarlandı. Bu ürün, **doğal tütün yaprağının** rustik tadını, dolgun ve **yoğun üzüm aromasıyla** harmanlayarak cesur ve unutulmaz bir lezzet sunar.\n\n## Zengin ve Meyvemsi Bir Deneyim\n\nÜzümün tatlı ve karakteristik aroması, Backwoods'un otantik tütün harmanıyla buluşur. Bu birliktelik, içimi keyifli ve akılda kalıcı kılar. Üzüm aroması, tütünün doğal lezzetini mükemmel bir şekilde tamamlar ve her çekimde zengin bir lezzet katmanı hissi verir.\n\n## Yoğun ve Unutulmaz Aroma\n\n- **Güçlü Aroma:** Yoğun üzüm aroması, içim esnasında ve sonrasında kalıcı bir etki bırakır.\n- **Doğal Sargı:** Ürünün dışı, her zaman olduğu gibi doğal tütün yaprağıyla sarılmıştır.\n- **Cesur Karakter:** Alışılmışın dışında bir tat arayan kullanıcılar için ideal bir tercihtir.\n\n## Kimler İçin Tasarlandı?\n\nBackwoods Grape, güçlü ve belirgin aromaları seven, klasik tütün deneyimine meyvemsi bir tat katmak isteyen kullanıcılar için idealdir.\n* **Aroma Severler:** Yoğun ve tatlı lezzetlerden hoşlananlar.\n* **Maceraperestler:** Farklı ve cesur tatlar denemekten çekinmeyenler.\n* **Sosyal Ortamlar:** Arkadaş ortamında, eğlenceli ve lezzetli bir tercih arayanlar.\n\n---\n\n**Backwoods Grape** ile tütünün vahşi lezzetini üzümün tatlı dokunuşuyla keşfedin. Bu ürün, lezzet ve otantikliğin cesur bir birleşimidir.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var u=Object.create;var l=Object.defineProperty;var k=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var z=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),v=(n,e)=>{for(var r in e)l(n,r,{get:e[r],enumerable:!0})},o=(n,e,r,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of h(e))!g.call(n,i)&&i!==r&&l(n,i,{get:()=>e[i],enumerable:!(t=k(e,i))||t.enumerable});return n};var y=(n,e,r)=>(r=n!=null?u(p(n)):{},o(e||!n||!n.__esModule?l(r,\"default\",{value:n,enumerable:!0}):r,n)),b=n=>o(l({},\"__esModule\",{value:!0}),n);var c=z((N,s)=>{s.exports=_jsx_runtime});var w={};v(w,{default:()=>m,frontmatter:()=>f});var a=y(c()),f={title:\"Backwoods Grape - Yo\\u011Fun \\xDCz\\xFCm Aromas\\u0131\",description:\"Backwoods Grape, t\\xFCt\\xFCn\\xFCn kendine has tad\\u0131n\\u0131 zengin ve tatl\\u0131 \\xFCz\\xFCm notalar\\u0131yla harmanlar. Cesur ve lezzetli bir tercih.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Backwoods\",categoryName:\"Backwoods Flavors\",productName:\"Grape\",sku:\"BWS-GRAPE-5\",price:150,currency:\"TRY\",cover:\"/images/backwoods-grape-cover.jpg\",gallery:[{src:\"/images/backwoods-grape-pack.jpg\",alt:\"Backwoods Grape paketi\",caption:\"Koyu mor ve ye\\u015Fil tonlar\\u0131yla g\\xF6z al\\u0131c\\u0131 ambalaj\"},{src:\"/images/backwoods-grape-detail.jpg\",alt:\"Backwoods Grape puro detay\\u0131\",caption:\"\\xDCz\\xFCm aromas\\u0131n\\u0131n zenginli\\u011Fi\"}],filterColor:\"Natural\",nicotineLevel:\"N/A\",tarLevel:\"N/A\",packSize:5,specifications:[{name:\"Uzunluk\",value:\"115 mm\"},{name:\"\\xC7ap\",value:\"10 mm\"},{name:\"Filtre Tipi\",value:\"Yok\"},{name:\"Aroma\",value:\"Tatl\\u0131 \\xDCz\\xFCm\"}],features:[{title:\"Yo\\u011Fun ve Tatl\\u0131 Aroma\",description:\"\\xDCz\\xFCm\\xFCn zengin ve tatl\\u0131 lezzetini her nefeste hissettirir.\",icon:\"capsule\"},{title:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131\",description:\"Ger\\xE7ek t\\xFCt\\xFCn yapra\\u011F\\u0131yla sar\\u0131larak otantik bir deneyim sunar.\",icon:\"flavor-twist\"},{title:\"Cesur Lezzet\",description:\"Al\\u0131\\u015F\\u0131lm\\u0131\\u015F\\u0131n d\\u0131\\u015F\\u0131nda, g\\xFC\\xE7l\\xFC ve unutulmaz bir tat profili.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"backwoods\",\"aromal\\u0131\",\"grape\",\"\\xFCz\\xFCm\",\"tatl\\u0131\"],sortOrder:19};function d(n){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h1,{id:\"backwoods-grape---lezzetin-cesur-dokunu\\u015Fu\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-grape---lezzetin-cesur-dokunu\\u015Fu\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Backwoods Grape - Lezzetin Cesur Dokunu\\u015Fu\"]}),`\n`,(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Backwoods Grape\"}),\", klasik t\\xFCt\\xFCn deneyimine g\\xFC\\xE7l\\xFC ve tatl\\u0131 bir dokunu\\u015F katmak isteyenler i\\xE7in tasarland\\u0131. Bu \\xFCr\\xFCn, \",(0,a.jsx)(e.strong,{children:\"do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131n\\u0131n\"}),\" rustik tad\\u0131n\\u0131, dolgun ve \",(0,a.jsx)(e.strong,{children:\"yo\\u011Fun \\xFCz\\xFCm aromas\\u0131yla\"}),\" harmanlayarak cesur ve unutulmaz bir lezzet sunar.\"]}),`\n`,(0,a.jsxs)(e.h2,{id:\"zengin-ve-meyvemsi-bir-deneyim\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#zengin-ve-meyvemsi-bir-deneyim\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Zengin ve Meyvemsi Bir Deneyim\"]}),`\n`,(0,a.jsx)(e.p,{children:\"\\xDCz\\xFCm\\xFCn tatl\\u0131 ve karakteristik aromas\\u0131, Backwoods'un otantik t\\xFCt\\xFCn harman\\u0131yla bulu\\u015Fur. Bu birliktelik, i\\xE7imi keyifli ve ak\\u0131lda kal\\u0131c\\u0131 k\\u0131lar. \\xDCz\\xFCm aromas\\u0131, t\\xFCt\\xFCn\\xFCn do\\u011Fal lezzetini m\\xFCkemmel bir \\u015Fekilde tamamlar ve her \\xE7ekimde zengin bir lezzet katman\\u0131 hissi verir.\"}),`\n`,(0,a.jsxs)(e.h2,{id:\"yo\\u011Fun-ve-unutulmaz-aroma\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yo\\u011Fun-ve-unutulmaz-aroma\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Yo\\u011Fun ve Unutulmaz Aroma\"]}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"G\\xFC\\xE7l\\xFC Aroma:\"}),\" Yo\\u011Fun \\xFCz\\xFCm aromas\\u0131, i\\xE7im esnas\\u0131nda ve sonras\\u0131nda kal\\u0131c\\u0131 bir etki b\\u0131rak\\u0131r.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Do\\u011Fal Sarg\\u0131:\"}),\" \\xDCr\\xFCn\\xFCn d\\u0131\\u015F\\u0131, her zaman oldu\\u011Fu gibi do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131yla sar\\u0131lm\\u0131\\u015Ft\\u0131r.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Cesur Karakter:\"}),\" Al\\u0131\\u015F\\u0131lm\\u0131\\u015F\\u0131n d\\u0131\\u015F\\u0131nda bir tat arayan kullan\\u0131c\\u0131lar i\\xE7in ideal bir tercihtir.\"]}),`\n`]}),`\n`,(0,a.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,a.jsx)(e.p,{children:\"Backwoods Grape, g\\xFC\\xE7l\\xFC ve belirgin aromalar\\u0131 seven, klasik t\\xFCt\\xFCn deneyimine meyvemsi bir tat katmak isteyen kullan\\u0131c\\u0131lar i\\xE7in idealdir.\"}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Aroma Severler:\"}),\" Yo\\u011Fun ve tatl\\u0131 lezzetlerden ho\\u015Flananlar.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Maceraperestler:\"}),\" Farkl\\u0131 ve cesur tatlar denemekten \\xE7ekinmeyenler.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Sosyal Ortamlar:\"}),\" Arkada\\u015F ortam\\u0131nda, e\\u011Flenceli ve lezzetli bir tercih arayanlar.\"]}),`\n`]}),`\n`,(0,a.jsx)(e.hr,{}),`\n`,(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Backwoods Grape\"}),\" ile t\\xFCt\\xFCn\\xFCn vah\\u015Fi lezzetini \\xFCz\\xFCm\\xFCn tatl\\u0131 dokunu\\u015Fuyla ke\\u015Ffedin. Bu \\xFCr\\xFCn, lezzet ve otantikli\\u011Fin cesur bir birle\\u015Fimidir.\"]}),`\n`,(0,a.jsx)(e.p,{children:(0,a.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(n={}){let{wrapper:e}=n.components||{};return e?(0,a.jsx)(e,{...n,children:(0,a.jsx)(d,{...n})}):d(n)}return b(w);})();\n;return Component;"
+  },
+  "_id": "products/19-backwoods-grape.mdx",
+  "_raw": {
+    "sourceFilePath": "products/19-backwoods-grape.mdx",
+    "sourceFileName": "19-backwoods-grape.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/19-backwoods-grape"
+  },
+  "type": "Product",
+  "slug": "/products/backwoods-grape",
+  "slugAsParams": "backwoods-grape",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#backwoods-grape-lezzetin-cesur-dokunusu",
+        "title": "Backwoods Grape - Lezzetin Cesur Dokunuşu",
+        "items": [
+          {
+            "url": "#zengin-ve-meyvemsi-bir-deneyim",
+            "title": "Zengin ve Meyvemsi Bir Deneyim"
+          },
+          {
+            "url": "#yogun-ve-unutulmaz-aroma",
+            "title": "Yoğun ve Unutulmaz Aroma"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "backwoods grape",
+      "href": "/products/backwoods-grape"
+    }
+  ]
+}

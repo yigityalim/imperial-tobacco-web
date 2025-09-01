@@ -1,0 +1,160 @@
+{
+  "title": "Davidoff Slims Gold - Altın Standart",
+  "description": "Davidoff Slims Gold, dengeli bir içim ve zengin tütün aromasıyla, kalite ve zarafeti bir arada arayanlar için ideal bir seçimdir.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Slims",
+  "productName": "Gold",
+  "sku": "DVF-SLIMS-GOLD-20",
+  "price": 195,
+  "currency": "TRY",
+  "cover": "/images/davidoff-slims-gold-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-slims-gold-pack.jpg",
+      "alt": "Davidoff Slims Gold paketi",
+      "caption": "Altın rengiyle lüks bir görünüm",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-slims-gold-detail.jpg",
+      "alt": "Davidoff Slims Gold filtre detayı",
+      "caption": "Özel altın bantlı filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Sarı",
+  "nicotineLevel": "0.5 mg",
+  "tarLevel": "6 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.5 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Tütün Karışımı",
+      "value": "Davidoff özel karışımı",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Yanma Süresi",
+      "value": "5-6 dakika",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Dengeli ve Zengin Lezzet",
+      "description": "Ne çok hafif, ne çok ağır; ideal denge",
+      "icon": "balance",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Premium Kalite",
+      "description": "Davidoff'un imzası niteliğinde zengin aroma",
+      "icon": "star",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Şık ve Modern Tasarım",
+      "description": "İnce yapısıyla zarif ve çağdaş bir duruş",
+      "icon": "sparkles",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": true,
+  "newProduct": false,
+  "tags": [
+    "slims",
+    "gold",
+    "dengeli",
+    "premium",
+    "zarif"
+  ],
+  "sortOrder": 5,
+  "body": {
+    "raw": "\n# Davidoff Slims Gold - Kalite ve Zarafetin Buluşması\n\nDavidoff Slims Gold, **mükemmel dengesi** ve **zengin tütün aromasıyla** sigara keyfini bir üst seviyeye taşıyor. Bu ürün, hem estetik hem de tat açısından beklentisi yüksek kullanıcılar için tasarlandı. Altın rengi detayları ve zarif ince yapısıyla öne çıkar.\n\n## Neden Davidoff Slims Gold?\n\n### ⚖️ Mükemmel Denge\n\n0.5 mg nikotin ve 6 mg katran seviyeleri ile dengeli ve tutarlı bir içim sunar.\n\n### ✨ Lüks Tasarım\n\nAltın rengi paketi ve ince yapısı, sofistike bir deneyim vaat eder.\n\n### 🍇 Zengin Aroma\n\nDavidoff'a özgü tütün karışımı, benzersiz ve dolgun bir tat bırakır.\n\n---\n\n### `06-davidoff-slims-classic.mdx`\n\nBu dosya, **Davidoff Slims Classic** ürünü için tüm gerekli alanları ve içeriği içerecek şekilde düzenlendi.\n\n```md\n---\ntitle: \"Davidoff Slims Classic - Zamansız Klasik\"\ndescription: \"Davidoff Slims Classic, geleneksel tütün lezzetini ince ve modern bir formatla sunarak, klasik sevenlerin vazgeçilmezi olur.\"\ndate: 2024-01-22T00:00:00.000Z\nauthors:\n  - name: \"Mehmet Yigit Yalim\"\n    role: \"Content Creator\"\n    avatar: \"/avatars/mehmetyigityalim.png\"\nbrandName: \"Davidoff\"\ncategoryName: \"Davidoff Slims\"\nproductName: \"Classic\"\nsku: \"DVF-SLIMS-CLASSIC-20\"\nprice: 190\ncurrency: \"TRY\"\ncover: \"/images/davidoff-slims-classic-cover.jpg\"\ngallery:\n  - src: \"/images/davidoff-slims-classic-pack.jpg\"\n    alt: \"Davidoff Slims Classic paketi\"\n    caption: \"Siyah ve gümüş renkli, klasik tasarım\"\n  - src: \"/images/davidoff-slims-classic-detail.jpg\"\n    alt: \"Davidoff Slims Classic ürün detayı\"\n    caption: \"Geleneksel lezzet için özel filtre\"\nfilterColor: \"Beyaz\"\nnicotineLevel: \"0.7 mg\"\ntarLevel: \"8 mg\"\npackSize: 20\nspecifications:\n  - name: \"Uzunluk\"\n    value: \"100 mm\"\n  - name: \"Çap\"\n    value: \"5.5 mm\"\n  - name: \"Aroma\"\n    value: \"Güçlü ve klasik tütün\"\n  - name: \"Filtre Tipi\"\n    value: \"Standart\"\nfeatures:\n  - title: \"Geleneksel Lezzet\"\n    description: \"Klasik bir sigaradan beklenen dolgun tat\"\n    icon: \"classic\"\n  - title: \"İnce ve Pratik\"\n    description: \"İnce yapısıyla kolay taşınabilirlik\"\n    icon: \"compact\"\n  - title: \"Tutarlı Kalite\"\n    description: \"Her zaman aynı, güvenilir deneyim\"\n    icon: \"quality\"\ninStock: true\nfeatured: false\nnewProduct: false\ntags:\n  - \"slims\"\n  - \"klasik\"\n  - \"classic\"\n  - \"güçlü\"\n  - \"premium\"\nsortOrder: 6\n---\n\n# Davidoff Slims Classic - Zamansız ve Güvenilir\n\nDavidoff Slims Classic, **geleneksel tütün aromasını** ince bir sigaranın rahatlığıyla birleştirir. Eğer dolgun ve tanıdık bir tat arıyorsanız, bu ürün tam size göre. Klasik siyah-gümüş ambalajı, zamansız kalitesini vurgular.\n\n## Neden Davidoff Slims Classic?\n\n### 💨 Dolgun Lezzet\n\n7 mg nikotin ve 8 mg katran seviyeleriyle güçlü bir içim sunar.\n\n### ⏱️ Güvenilir Deneyim\n\nHer pakette aynı tutarlı ve tatmin edici kaliteyi sunar.\n\n### 🚶 Pratik Tasarım\n\nİnce yapısı cebinizde veya çantanızda kolayca taşınır.",
+    "code": "var Component=(()=>{var f=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var h=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),p=(i,a)=>{for(var n in a)s(i,n,{get:a[n],enumerable:!0})},t=(i,a,n,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let l of v(a))!u.call(i,l)&&l!==n&&s(i,l,{get:()=>a[l],enumerable:!(r=g(a,l))||r.enumerable});return i};var y=(i,a,n)=>(n=i!=null?f(k(i)):{},t(a||!i||!i.__esModule?s(n,\"default\",{value:i,enumerable:!0}):n,i)),z=i=>t(s({},\"__esModule\",{value:!0}),i);var d=h((N,o)=>{o.exports=_jsx_runtime});var S={};p(S,{default:()=>c,frontmatter:()=>b});var e=y(d()),b={title:\"Davidoff Slims Gold - Alt\\u0131n Standart\",description:\"Davidoff Slims Gold, dengeli bir i\\xE7im ve zengin t\\xFCt\\xFCn aromas\\u0131yla, kalite ve zarafeti bir arada arayanlar i\\xE7in ideal bir se\\xE7imdir.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Slims\",productName:\"Gold\",sku:\"DVF-SLIMS-GOLD-20\",price:195,currency:\"TRY\",cover:\"/images/davidoff-slims-gold-cover.png\",gallery:[{src:\"/images/davidoff-slims-gold-pack.jpg\",alt:\"Davidoff Slims Gold paketi\",caption:\"Alt\\u0131n rengiyle l\\xFCks bir g\\xF6r\\xFCn\\xFCm\"},{src:\"/images/davidoff-slims-gold-detail.jpg\",alt:\"Davidoff Slims Gold filtre detay\\u0131\",caption:\"\\xD6zel alt\\u0131n bantl\\u0131 filtre\"}],filterColor:\"Sar\\u0131\",nicotineLevel:\"0.5 mg\",tarLevel:\"6 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.5 mm\"},{name:\"T\\xFCt\\xFCn Kar\\u0131\\u015F\\u0131m\\u0131\",value:\"Davidoff \\xF6zel kar\\u0131\\u015F\\u0131m\\u0131\"},{name:\"Yanma S\\xFCresi\",value:\"5-6 dakika\"}],features:[{title:\"Dengeli ve Zengin Lezzet\",description:\"Ne \\xE7ok hafif, ne \\xE7ok a\\u011F\\u0131r; ideal denge\",icon:\"balance\"},{title:\"Premium Kalite\",description:\"Davidoff'un imzas\\u0131 niteli\\u011Finde zengin aroma\",icon:\"star\"},{title:\"\\u015E\\u0131k ve Modern Tasar\\u0131m\",description:\"\\u0130nce yap\\u0131s\\u0131yla zarif ve \\xE7a\\u011Fda\\u015F bir duru\\u015F\",icon:\"sparkles\"}],inStock:!0,featured:!0,newProduct:!1,tags:[\"slims\",\"gold\",\"dengeli\",\"premium\",\"zarif\"],sortOrder:5};function m(i){let a={a:\"a\",code:\"code\",h1:\"h1\",h2:\"h2\",h3:\"h3\",hr:\"hr\",p:\"p\",pre:\"pre\",span:\"span\",strong:\"strong\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.h1,{id:\"davidoff-slims-gold---kalite-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-slims-gold---kalite-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Davidoff Slims Gold - Kalite ve Zarafetin Bulu\\u015Fmas\\u0131\"]}),`\n`,(0,e.jsxs)(a.p,{children:[\"Davidoff Slims Gold, \",(0,e.jsx)(a.strong,{children:\"m\\xFCkemmel dengesi\"}),\" ve \",(0,e.jsx)(a.strong,{children:\"zengin t\\xFCt\\xFCn aromas\\u0131yla\"}),\" sigara keyfini bir \\xFCst seviyeye ta\\u015F\\u0131yor. Bu \\xFCr\\xFCn, hem estetik hem de tat a\\xE7\\u0131s\\u0131ndan beklentisi y\\xFCksek kullan\\u0131c\\u0131lar i\\xE7in tasarland\\u0131. Alt\\u0131n rengi detaylar\\u0131 ve zarif ince yap\\u0131s\\u0131yla \\xF6ne \\xE7\\u0131kar.\"]}),`\n`,(0,e.jsxs)(a.h2,{id:\"neden-davidoff-slims-gold\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-davidoff-slims-gold\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Neden Davidoff Slims Gold?\"]}),`\n`,(0,e.jsxs)(a.h3,{id:\"\\uFE0F-m\\xFCkemmel-denge\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\uFE0F-m\\xFCkemmel-denge\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u2696\\uFE0F M\\xFCkemmel Denge\"]}),`\n`,(0,e.jsx)(a.p,{children:\"0.5 mg nikotin ve 6 mg katran seviyeleri ile dengeli ve tutarl\\u0131 bir i\\xE7im sunar.\"}),`\n`,(0,e.jsxs)(a.h3,{id:\"-l\\xFCks-tasar\\u0131m\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-l\\xFCks-tasar\\u0131m\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u2728 L\\xFCks Tasar\\u0131m\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Alt\\u0131n rengi paketi ve ince yap\\u0131s\\u0131, sofistike bir deneyim vaat eder.\"}),`\n`,(0,e.jsxs)(a.h3,{id:\"-zengin-aroma\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-zengin-aroma\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u{1F347} Zengin Aroma\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Davidoff'a \\xF6zg\\xFC t\\xFCt\\xFCn kar\\u0131\\u015F\\u0131m\\u0131, benzersiz ve dolgun bir tat b\\u0131rak\\u0131r.\"}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.h3,{id:\"06-davidoff-slims-classicmdx\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#06-davidoff-slims-classicmdx\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),(0,e.jsx)(a.code,{children:\"06-davidoff-slims-classic.mdx\"})]}),`\n`,(0,e.jsxs)(a.p,{children:[\"Bu dosya, \",(0,e.jsx)(a.strong,{children:\"Davidoff Slims Classic\"}),\" \\xFCr\\xFCn\\xFC i\\xE7in t\\xFCm gerekli alanlar\\u0131 ve i\\xE7eri\\u011Fi i\\xE7erecek \\u015Fekilde d\\xFCzenlendi.\"]}),`\n`,(0,e.jsx)(a.pre,{children:(0,e.jsx)(a.code,{className:\"language-md\",children:`---\ntitle: \"Davidoff Slims Classic - Zamans\\u0131z Klasik\"\ndescription: \"Davidoff Slims Classic, geleneksel t\\xFCt\\xFCn lezzetini ince ve modern bir formatla sunarak, klasik sevenlerin vazge\\xE7ilmezi olur.\"\ndate: 2024-01-22T00:00:00.000Z\nauthors:\n  - name: \"Mehmet Yigit Yalim\"\n    role: \"Content Creator\"\n    avatar: \"/avatars/mehmetyigityalim.png\"\nbrandName: \"Davidoff\"\ncategoryName: \"Davidoff Slims\"\nproductName: \"Classic\"\nsku: \"DVF-SLIMS-CLASSIC-20\"\nprice: 190\ncurrency: \"TRY\"\ncover: \"/images/davidoff-slims-classic-cover.jpg\"\ngallery:\n  - src: \"/images/davidoff-slims-classic-pack.jpg\"\n    alt: \"Davidoff Slims Classic paketi\"\n    caption: \"Siyah ve g\\xFCm\\xFC\\u015F renkli, klasik tasar\\u0131m\"\n  - src: \"/images/davidoff-slims-classic-detail.jpg\"\n    alt: \"Davidoff Slims Classic \\xFCr\\xFCn detay\\u0131\"\n    caption: \"Geleneksel lezzet i\\xE7in \\xF6zel filtre\"\nfilterColor: \"Beyaz\"\nnicotineLevel: \"0.7 mg\"\ntarLevel: \"8 mg\"\npackSize: 20\nspecifications:\n  - name: \"Uzunluk\"\n    value: \"100 mm\"\n  - name: \"\\xC7ap\"\n    value: \"5.5 mm\"\n  - name: \"Aroma\"\n    value: \"G\\xFC\\xE7l\\xFC ve klasik t\\xFCt\\xFCn\"\n  - name: \"Filtre Tipi\"\n    value: \"Standart\"\nfeatures:\n  - title: \"Geleneksel Lezzet\"\n    description: \"Klasik bir sigaradan beklenen dolgun tat\"\n    icon: \"classic\"\n  - title: \"\\u0130nce ve Pratik\"\n    description: \"\\u0130nce yap\\u0131s\\u0131yla kolay ta\\u015F\\u0131nabilirlik\"\n    icon: \"compact\"\n  - title: \"Tutarl\\u0131 Kalite\"\n    description: \"Her zaman ayn\\u0131, g\\xFCvenilir deneyim\"\n    icon: \"quality\"\ninStock: true\nfeatured: false\nnewProduct: false\ntags:\n  - \"slims\"\n  - \"klasik\"\n  - \"classic\"\n  - \"g\\xFC\\xE7l\\xFC\"\n  - \"premium\"\nsortOrder: 6\n---\n\n# Davidoff Slims Classic - Zamans\\u0131z ve G\\xFCvenilir\n\nDavidoff Slims Classic, **geleneksel t\\xFCt\\xFCn aromas\\u0131n\\u0131** ince bir sigaran\\u0131n rahatl\\u0131\\u011F\\u0131yla birle\\u015Ftirir. E\\u011Fer dolgun ve tan\\u0131d\\u0131k bir tat ar\\u0131yorsan\\u0131z, bu \\xFCr\\xFCn tam size g\\xF6re. Klasik siyah-g\\xFCm\\xFC\\u015F ambalaj\\u0131, zamans\\u0131z kalitesini vurgular.\n\n## Neden Davidoff Slims Classic?\n\n### \\u{1F4A8} Dolgun Lezzet\n\n7 mg nikotin ve 8 mg katran seviyeleriyle g\\xFC\\xE7l\\xFC bir i\\xE7im sunar.\n\n### \\u23F1\\uFE0F G\\xFCvenilir Deneyim\n\nHer pakette ayn\\u0131 tutarl\\u0131 ve tatmin edici kaliteyi sunar.\n\n### \\u{1F6B6} Pratik Tasar\\u0131m\n\n\\u0130nce yap\\u0131s\\u0131 cebinizde veya \\xE7antan\\u0131zda kolayca ta\\u015F\\u0131n\\u0131r.\n`})})]})}function c(i={}){let{wrapper:a}=i.components||{};return a?(0,e.jsx)(a,{...i,children:(0,e.jsx)(m,{...i})}):m(i)}return z(S);})();\n;return Component;"
+  },
+  "_id": "products/05-davidoff-slims-gold.mdx",
+  "_raw": {
+    "sourceFilePath": "products/05-davidoff-slims-gold.mdx",
+    "sourceFileName": "05-davidoff-slims-gold.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/05-davidoff-slims-gold"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-slims-gold",
+  "slugAsParams": "davidoff-slims-gold",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-slims-gold-kalite-ve-zarafetin-bulusmasi",
+        "title": "Davidoff Slims Gold - Kalite ve Zarafetin Buluşması",
+        "items": [
+          {
+            "url": "#neden-davidoff-slims-gold",
+            "title": "Neden Davidoff Slims Gold?",
+            "items": [
+              {
+                "url": "#mukemmel-denge",
+                "title": "⚖️ Mükemmel Denge"
+              },
+              {
+                "url": "#luks-tasarim",
+                "title": "✨ Lüks Tasarım"
+              },
+              {
+                "url": "#zengin-aroma",
+                "title": "🍇 Zengin Aroma"
+              },
+              {
+                "url": "#06-davidoff-slims-classicmdx",
+                "title": "06-davidoff-slims-classic.mdx"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff slims gold",
+      "href": "/products/davidoff-slims-gold"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Backwoods Silver - Pürüzsüz ve Hafif",
+  "description": "Backwoods Silver, tütünün en saf tadını arayanlar için hafif ve pürüzsüz bir içim sunar. Sade ve temiz bir deneyim.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "categoryName": "Backwoods Flavors",
+  "productName": "Silver",
+  "sku": "BWS-SILVER-5",
+  "price": 150,
+  "currency": "TRY",
+  "cover": "/images/backwoods-silver-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/backwoods-silver-pack.jpg",
+      "alt": "Backwoods Silver paketi",
+      "caption": "Modern ve minimalist gümüş rengi ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-silver-detail.jpg",
+      "alt": "Backwoods Silver puro detayı",
+      "caption": "Doğal tütün yaprağı ve sade içim",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Natural",
+  "nicotineLevel": "N/A",
+  "tarLevel": "N/A",
+  "packSize": 5,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "115 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "10 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Yok",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Hafif Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Pürüzsüz İçim",
+      "description": "Boğazı yormayan, son derece rahat bir içim sunar.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Doğal Tütün Sargısı",
+      "description": "Yapay katkı maddesi içermez, tütünün saf tadını korur.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Minimalist Lezzet",
+      "description": "Gereksiz aromalardan arındırılmış, temiz bir deneyim.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "backwoods",
+    "silver",
+    "hafif",
+    "sade",
+    "minimalist"
+  ],
+  "sortOrder": 18,
+  "body": {
+    "raw": "\n# Backwoods Silver - Sadeliğin Zirvesi\n\n**Backwoods Silver**, Backwoods ailesinin en saf ve en yalın üyesidir. Bu ürün, doğal tütün yaprağının kendine özgü lezzetini, herhangi bir aromayla karıştırmadan, **pürüzsüz ve hafif bir içimle** sunar. Tütünün özünü arayanlar için ideal bir seçimdir.\n\n## Doğal Tütünün En Yalın Hali\n\nSilver, Backwoods'un otantik karakterini korurken, sade bir içim deneyimi sunar. Üretim sürecinde yapay katkı maddelerinden kaçınılır. Sonuç olarak, tütünün kendi doğal ve hafif tadı ön plana çıkar. Bu yalınlık, ürünü hem klasik tütün sevenler hem de yeni başlayanlar için çekici kılar.\n\n## Pürüzsüz ve Ferahlatıcı Deneyim\n\n- **Yalın Tütün Lezzeti:** Başka hiçbir şeye benzemeyen saf ve temiz bir tat profili.\n- **Hafif ve Dengeli:** Yoğunluktan uzak, pürüzsüz bir içimle rahat bir deneyim sunar.\n- **Doğal Sargı:** Yüksek kaliteli tütün yaprağı sargısı, otantikliği garantiler.\n\n## Kimler İçin Tasarlandı?\n\nBackwoods Silver, sadelikten hoşlanan, doğal ve katkısız bir tütün deneyimi arayan kullanıcılar için özel olarak geliştirilmiştir.\n* **Sade Lezzet Arayanlar:** Lezzetlerin karmaşıklığından uzak duranlar.\n* **Hafif İçim Sevenler:** Yoğun ve ağır tütünlerden kaçınanlar.\n* **Otantik Deneyim İsteyenler:** Backwoods'un otantik ruhunu aromalar olmadan yaşamak isteyenler.\n\n---\n\n**Backwoods Silver** ile tütünün en yalın ve saf halini keşfedin. Bu ürün, doğallığın gücünü kanıtlar niteliktedir.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var k=Object.create;var l=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var y=(n,a)=>()=>(a||n((a={exports:{}}).exports,a),a.exports),z=(n,a)=>{for(var i in a)l(n,i,{get:a[i],enumerable:!0})},s=(n,a,i,t)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of u(a))!p.call(n,r)&&r!==i&&l(n,r,{get:()=>a[r],enumerable:!(t=h(a,r))||t.enumerable});return n};var f=(n,a,i)=>(i=n!=null?k(v(n)):{},s(a||!n||!n.__esModule?l(i,\"default\",{value:n,enumerable:!0}):i,n)),g=n=>s(l({},\"__esModule\",{value:!0}),n);var d=y((B,o)=>{o.exports=_jsx_runtime});var w={};z(w,{default:()=>m,frontmatter:()=>b});var e=f(d()),b={title:\"Backwoods Silver - P\\xFCr\\xFCzs\\xFCz ve Hafif\",description:\"Backwoods Silver, t\\xFCt\\xFCn\\xFCn en saf tad\\u0131n\\u0131 arayanlar i\\xE7in hafif ve p\\xFCr\\xFCzs\\xFCz bir i\\xE7im sunar. Sade ve temiz bir deneyim.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Backwoods\",categoryName:\"Backwoods Flavors\",productName:\"Silver\",sku:\"BWS-SILVER-5\",price:150,currency:\"TRY\",cover:\"/images/backwoods-silver-cover.jpg\",gallery:[{src:\"/images/backwoods-silver-pack.jpg\",alt:\"Backwoods Silver paketi\",caption:\"Modern ve minimalist g\\xFCm\\xFC\\u015F rengi ambalaj\"},{src:\"/images/backwoods-silver-detail.jpg\",alt:\"Backwoods Silver puro detay\\u0131\",caption:\"Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 ve sade i\\xE7im\"}],filterColor:\"Natural\",nicotineLevel:\"N/A\",tarLevel:\"N/A\",packSize:5,specifications:[{name:\"Uzunluk\",value:\"115 mm\"},{name:\"\\xC7ap\",value:\"10 mm\"},{name:\"Filtre Tipi\",value:\"Yok\"},{name:\"Aroma\",value:\"Hafif T\\xFCt\\xFCn\"}],features:[{title:\"P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im\",description:\"Bo\\u011Faz\\u0131 yormayan, son derece rahat bir i\\xE7im sunar.\",icon:\"capsule\"},{title:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131\",description:\"Yapay katk\\u0131 maddesi i\\xE7ermez, t\\xFCt\\xFCn\\xFCn saf tad\\u0131n\\u0131 korur.\",icon:\"flavor-twist\"},{title:\"Minimalist Lezzet\",description:\"Gereksiz aromalardan ar\\u0131nd\\u0131r\\u0131lm\\u0131\\u015F, temiz bir deneyim.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"backwoods\",\"silver\",\"hafif\",\"sade\",\"minimalist\"],sortOrder:18};function c(n){let a={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.h1,{id:\"backwoods-silver---sadeli\\u011Fin-zirvesi\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-silver---sadeli\\u011Fin-zirvesi\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Backwoods Silver - Sadeli\\u011Fin Zirvesi\"]}),`\n`,(0,e.jsxs)(a.p,{children:[(0,e.jsx)(a.strong,{children:\"Backwoods Silver\"}),\", Backwoods ailesinin en saf ve en yal\\u0131n \\xFCyesidir. Bu \\xFCr\\xFCn, do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131n\\u0131n kendine \\xF6zg\\xFC lezzetini, herhangi bir aromayla kar\\u0131\\u015Ft\\u0131rmadan, \",(0,e.jsx)(a.strong,{children:\"p\\xFCr\\xFCzs\\xFCz ve hafif bir i\\xE7imle\"}),\" sunar. T\\xFCt\\xFCn\\xFCn \\xF6z\\xFCn\\xFC arayanlar i\\xE7in ideal bir se\\xE7imdir.\"]}),`\n`,(0,e.jsxs)(a.h2,{id:\"do\\u011Fal-t\\xFCt\\xFCn\\xFCn-en-yal\\u0131n-hali\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#do\\u011Fal-t\\xFCt\\xFCn\\xFCn-en-yal\\u0131n-hali\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Do\\u011Fal T\\xFCt\\xFCn\\xFCn En Yal\\u0131n Hali\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Silver, Backwoods'un otantik karakterini korurken, sade bir i\\xE7im deneyimi sunar. \\xDCretim s\\xFCrecinde yapay katk\\u0131 maddelerinden ka\\xE7\\u0131n\\u0131l\\u0131r. Sonu\\xE7 olarak, t\\xFCt\\xFCn\\xFCn kendi do\\u011Fal ve hafif tad\\u0131 \\xF6n plana \\xE7\\u0131kar. Bu yal\\u0131nl\\u0131k, \\xFCr\\xFCn\\xFC hem klasik t\\xFCt\\xFCn sevenler hem de yeni ba\\u015Flayanlar i\\xE7in \\xE7ekici k\\u0131lar.\"}),`\n`,(0,e.jsxs)(a.h2,{id:\"p\\xFCr\\xFCzs\\xFCz-ve-ferahlat\\u0131c\\u0131-deneyim\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#p\\xFCr\\xFCzs\\xFCz-ve-ferahlat\\u0131c\\u0131-deneyim\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"P\\xFCr\\xFCzs\\xFCz ve Ferahlat\\u0131c\\u0131 Deneyim\"]}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Yal\\u0131n T\\xFCt\\xFCn Lezzeti:\"}),\" Ba\\u015Fka hi\\xE7bir \\u015Feye benzemeyen saf ve temiz bir tat profili.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Hafif ve Dengeli:\"}),\" Yo\\u011Funluktan uzak, p\\xFCr\\xFCzs\\xFCz bir i\\xE7imle rahat bir deneyim sunar.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Do\\u011Fal Sarg\\u0131:\"}),\" Y\\xFCksek kaliteli t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131, otantikli\\u011Fi garantiler.\"]}),`\n`]}),`\n`,(0,e.jsxs)(a.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Backwoods Silver, sadelikten ho\\u015Flanan, do\\u011Fal ve katk\\u0131s\\u0131z bir t\\xFCt\\xFCn deneyimi arayan kullan\\u0131c\\u0131lar i\\xE7in \\xF6zel olarak geli\\u015Ftirilmi\\u015Ftir.\"}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Sade Lezzet Arayanlar:\"}),\" Lezzetlerin karma\\u015F\\u0131kl\\u0131\\u011F\\u0131ndan uzak duranlar.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Hafif \\u0130\\xE7im Sevenler:\"}),\" Yo\\u011Fun ve a\\u011F\\u0131r t\\xFCt\\xFCnlerden ka\\xE7\\u0131nanlar.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Otantik Deneyim \\u0130steyenler:\"}),\" Backwoods'un otantik ruhunu aromalar olmadan ya\\u015Famak isteyenler.\"]}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[(0,e.jsx)(a.strong,{children:\"Backwoods Silver\"}),\" ile t\\xFCt\\xFCn\\xFCn en yal\\u0131n ve saf halini ke\\u015Ffedin. Bu \\xFCr\\xFCn, do\\u011Fall\\u0131\\u011F\\u0131n g\\xFCc\\xFCn\\xFC kan\\u0131tlar niteliktedir.\"]}),`\n`,(0,e.jsx)(a.p,{children:(0,e.jsx)(a.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(n={}){let{wrapper:a}=n.components||{};return a?(0,e.jsx)(a,{...n,children:(0,e.jsx)(c,{...n})}):c(n)}return g(w);})();\n;return Component;"
+  },
+  "_id": "products/18-backwoods-silver.mdx",
+  "_raw": {
+    "sourceFilePath": "products/18-backwoods-silver.mdx",
+    "sourceFileName": "18-backwoods-silver.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/18-backwoods-silver"
+  },
+  "type": "Product",
+  "slug": "/products/backwoods-silver",
+  "slugAsParams": "backwoods-silver",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#backwoods-silver-sadeligin-zirvesi",
+        "title": "Backwoods Silver - Sadeliğin Zirvesi",
+        "items": [
+          {
+            "url": "#dogal-tutunun-en-yalin-hali",
+            "title": "Doğal Tütünün En Yalın Hali"
+          },
+          {
+            "url": "#puruzsuz-ve-ferahlatici-deneyim",
+            "title": "Pürüzsüz ve Ferahlatıcı Deneyim"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "backwoods silver",
+      "href": "/products/backwoods-silver"
+    }
+  ]
+}

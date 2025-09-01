@@ -1,0 +1,145 @@
+{
+  "title": "Backwoods - Otantik ve Rustik Lezzet",
+  "description": "Doğal tütün yaprağı sargısıyla Backwoods, otantik ve vahşi bir deneyim sunar. Gelenekselden şaşmayanların tercihi.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Ürün Uzmanları",
+      "role": "Kategori Yöneticisi",
+      "avatar": "/avatars/product-expert.jpg",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "categoryName": "Backwoods",
+  "cover": "/images/backwoods-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/backwoods-1.jpg",
+      "alt": "Backwoods paketi",
+      "caption": "Doğal ve rustik tasarım",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-2.jpg",
+      "alt": "Backwoods detay",
+      "caption": "Doğal tütün yaprağı sargısı",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-3.jpg",
+      "alt": "Backwoods lifestyle",
+      "caption": "Açık havada rahat bir an",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Doğal Tütün Sargısı",
+      "description": "%100 doğal yaprakla sarılır",
+      "icon": "natural-leaf",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Rustik Görünüm",
+      "description": "Geleneksel ve özgün estetik",
+      "icon": "rustic",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Zengin Aroma",
+      "description": "Farklı lezzet seçenekleri sunar",
+      "icon": "flavor",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Dayanıklı Yapı",
+      "description": "Açık hava kullanımı için ideal",
+      "icon": "durable",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "targetAudience": "Otantik, doğal ve rustik bir deneyim arayan, açık hava yaşam tarzını seven ve farklı lezzetleri denemeyi seven sigara içicileri.",
+  "priceRange": "Orta-Ekonomik segment",
+  "body": {
+    "raw": "\n## Vahşi Ruhun Çağrısı\n\nBackwoods, geleneksel puro dünyasının katı kurallarından sıyrılarak, **otantik ve rustik bir deneyim** arayanlar için özel olarak tasarlandı. Doğal tütün yaprağı sargısı ve hafif konik şekliyle, bir tütün ürününden çok daha fazlasını sunar: bir yaşam tarzı ifadesidir.\n\n### Neden Backwoods?\n\n**Doğal Sargı** - %100 doğal tütün yaprağıyla sarılarak eşsiz bir lezzet sunar\n**Otantik Duruş** - Endüstriyel ürünlerden farklı, el yapımı hissi veren bir görünüm\n**Çeşitli Lezzetler** - Her damak tadına hitap eden zengin aroma yelpazesi\n**Dayanıklı Yapı** - Açık hava koşullarına dayanıklı, sağlam ve güvenilir\n\n## Ürün Detayları\n\nBackwoods'u benzersiz kılan şey, **doğal tütün sargısı** ve düzensiz dokusudur. İç harmanındaki kaliteli tütün, dış sargının zengin aromasıyla mükemmel bir uyum yakalar. Hafif konik yapısı, kullanım kolaylığı sağlarken, aynı zamanda kendine has bir estetik sunar.\n\n### Özel Özellikler\n\n- **Doğal tütün sargısı** - Otantik bir tat için işlenmemiş yaprak\n- **Konik şekil** - Eşsiz bir görünüm ve rahat bir tutuş\n- **Zengin aroma seçenekleri** - Orijinal, Sweet Aromatic, Honey Berry ve daha fazlası\n- **Hava geçirmez ambalaj** - Ürünün tazeliğini uzun süre korur\n\n## Kimler İçin Uygun?\n\nBackwoods özellikle şu kişiler için tasarlandı:\n\n- **Doğal** ve rustik bir görünümden hoşlananlar\n- **Açık havada** vakit geçirmeyi sevenler\n- **Farklı** lezzet profilleri arayanlar\n- **Geleneksel** puroya daha ulaşılabilir bir alternatif arayanlar\n\n## Satın Alma Önerileri\n\n### Deneyim Seviyesine Göre\n\n**Yeni Başlayanlar**: Pürüzsüz içimi ve hafif yapısı sayesinde ideal bir başlangıç\n**Deneyimli İçiciler**: Geleneksel puroya karşı farklı, otantik bir deneyim arayanlar için\n**Lezzet Arayanlar**: Geniş aroma yelpazesiyle farklı tatları keşfetmek isteyenler\n\n### Özel Durumlar\n\n- **Kamp ateşi** etrafındaki sohbetler için\n- **Doğa yürüyüşleri** veya balık tutma gibi açık hava etkinlikleri\n- **Sıcak ve samimi ortamlar** için ideal eşlikçi\n\n## Fark Yaratan Detaylar\n\nBackwoods'u özel kılan unsurlar:\n\n1. **%100 doğal tütün yaprağı** - Endüstriyel ürünlerden ayrılan ana unsur\n2. **Eşsiz konik formu** - Markanın simgesi haline gelen tasarım\n3. **Geniş aroma yelpazesi** - Her palete uygun bir seçenek\n4. **Rustik ve otantik duruş** - Gösterişten uzak, samimi bir kimlik\n\n---\n\n*Backwoods ile tütünün vahşi doğasını keşfedin. Otantik bir lezzetten daha fazlası.*",
+    "code": "var Component=(()=>{var k=Object.create;var l=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var p=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),b=(e,a)=>{for(var i in a)l(e,i,{get:a[i],enumerable:!0})},t=(e,a,i,s)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of u(a))!y.call(e,r)&&r!==i&&l(e,r,{get:()=>a[r],enumerable:!(s=m(a,r))||s.enumerable});return e};var z=(e,a,i)=>(i=e!=null?k(g(e)):{},t(a||!e||!e.__esModule?l(i,\"default\",{value:e,enumerable:!0}):i,e)),v=e=>t(l({},\"__esModule\",{value:!0}),e);var c=p((D,o)=>{o.exports=_jsx_runtime});var w={};b(w,{default:()=>h,frontmatter:()=>f});var n=z(c()),f={title:\"Backwoods - Otantik ve Rustik Lezzet\",description:\"Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131yla Backwoods, otantik ve vah\\u015Fi bir deneyim sunar. Gelenekselden \\u015Fa\\u015Fmayanlar\\u0131n tercihi.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"\\xDCr\\xFCn Uzmanlar\\u0131\",role:\"Kategori Y\\xF6neticisi\",avatar:\"/avatars/product-expert.jpg\"}],brandName:\"Backwoods\",categoryName:\"Backwoods\",cover:\"/images/backwoods-cover.jpg\",gallery:[{src:\"/images/backwoods-1.jpg\",alt:\"Backwoods paketi\",caption:\"Do\\u011Fal ve rustik tasar\\u0131m\"},{src:\"/images/backwoods-2.jpg\",alt:\"Backwoods detay\",caption:\"Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131\"},{src:\"/images/backwoods-3.jpg\",alt:\"Backwoods lifestyle\",caption:\"A\\xE7\\u0131k havada rahat bir an\"}],features:[{title:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131\",description:\"%100 do\\u011Fal yaprakla sar\\u0131l\\u0131r\",icon:\"natural-leaf\"},{title:\"Rustik G\\xF6r\\xFCn\\xFCm\",description:\"Geleneksel ve \\xF6zg\\xFCn estetik\",icon:\"rustic\"},{title:\"Zengin Aroma\",description:\"Farkl\\u0131 lezzet se\\xE7enekleri sunar\",icon:\"flavor\"},{title:\"Dayan\\u0131kl\\u0131 Yap\\u0131\",description:\"A\\xE7\\u0131k hava kullan\\u0131m\\u0131 i\\xE7in ideal\",icon:\"durable\"}],targetAudience:\"Otantik, do\\u011Fal ve rustik bir deneyim arayan, a\\xE7\\u0131k hava ya\\u015Fam tarz\\u0131n\\u0131 seven ve farkl\\u0131 lezzetleri denemeyi seven sigara i\\xE7icileri.\",priceRange:\"Orta-Ekonomik segment\",published:!0};function d(e){let a={a:\"a\",em:\"em\",h2:\"h2\",h3:\"h3\",hr:\"hr\",li:\"li\",ol:\"ol\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...e.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(a.h2,{id:\"vah\\u015Fi-ruhun-\\xE7a\\u011Fr\\u0131s\\u0131\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#vah\\u015Fi-ruhun-\\xE7a\\u011Fr\\u0131s\\u0131\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Vah\\u015Fi Ruhun \\xC7a\\u011Fr\\u0131s\\u0131\"]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Backwoods, geleneksel puro d\\xFCnyas\\u0131n\\u0131n kat\\u0131 kurallar\\u0131ndan s\\u0131yr\\u0131larak, \",(0,n.jsx)(a.strong,{children:\"otantik ve rustik bir deneyim\"}),\" arayanlar i\\xE7in \\xF6zel olarak tasarland\\u0131. Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131 ve hafif konik \\u015Fekliyle, bir t\\xFCt\\xFCn \\xFCr\\xFCn\\xFCnden \\xE7ok daha fazlas\\u0131n\\u0131 sunar: bir ya\\u015Fam tarz\\u0131 ifadesidir.\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"neden-backwoods\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-backwoods\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Neden Backwoods?\"]}),`\n`,(0,n.jsxs)(a.p,{children:[(0,n.jsx)(a.strong,{children:\"Do\\u011Fal Sarg\\u0131\"}),` - %100 do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131yla sar\\u0131larak e\\u015Fsiz bir lezzet sunar\n`,(0,n.jsx)(a.strong,{children:\"Otantik Duru\\u015F\"}),` - End\\xFCstriyel \\xFCr\\xFCnlerden farkl\\u0131, el yap\\u0131m\\u0131 hissi veren bir g\\xF6r\\xFCn\\xFCm\n`,(0,n.jsx)(a.strong,{children:\"\\xC7e\\u015Fitli Lezzetler\"}),` - Her damak tad\\u0131na hitap eden zengin aroma yelpazesi\n`,(0,n.jsx)(a.strong,{children:\"Dayan\\u0131kl\\u0131 Yap\\u0131\"}),\" - A\\xE7\\u0131k hava ko\\u015Fullar\\u0131na dayan\\u0131kl\\u0131, sa\\u011Flam ve g\\xFCvenilir\"]}),`\n`,(0,n.jsxs)(a.h2,{id:\"\\xFCr\\xFCn-detaylar\\u0131\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xFCr\\xFCn-detaylar\\u0131\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\xDCr\\xFCn Detaylar\\u0131\"]}),`\n`,(0,n.jsxs)(a.p,{children:[\"Backwoods'u benzersiz k\\u0131lan \\u015Fey, \",(0,n.jsx)(a.strong,{children:\"do\\u011Fal t\\xFCt\\xFCn sarg\\u0131s\\u0131\"}),\" ve d\\xFCzensiz dokusudur. \\u0130\\xE7 harman\\u0131ndaki kaliteli t\\xFCt\\xFCn, d\\u0131\\u015F sarg\\u0131n\\u0131n zengin aromas\\u0131yla m\\xFCkemmel bir uyum yakalar. Hafif konik yap\\u0131s\\u0131, kullan\\u0131m kolayl\\u0131\\u011F\\u0131 sa\\u011Flarken, ayn\\u0131 zamanda kendine has bir estetik sunar.\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"\\xF6zel-\\xF6zellikler\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-\\xF6zellikler\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\xD6zel \\xD6zellikler\"]}),`\n`,(0,n.jsxs)(a.ul,{children:[`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Do\\u011Fal t\\xFCt\\xFCn sarg\\u0131s\\u0131\"}),\" - Otantik bir tat i\\xE7in i\\u015Flenmemi\\u015F yaprak\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Konik \\u015Fekil\"}),\" - E\\u015Fsiz bir g\\xF6r\\xFCn\\xFCm ve rahat bir tutu\\u015F\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Zengin aroma se\\xE7enekleri\"}),\" - Orijinal, Sweet Aromatic, Honey Berry ve daha fazlas\\u0131\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Hava ge\\xE7irmez ambalaj\"}),\" - \\xDCr\\xFCn\\xFCn tazeli\\u011Fini uzun s\\xFCre korur\"]}),`\n`]}),`\n`,(0,n.jsxs)(a.h2,{id:\"kimler-i\\u0307\\xE7in-uygun\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-uygun\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Uygun?\"]}),`\n`,(0,n.jsx)(a.p,{children:\"Backwoods \\xF6zellikle \\u015Fu ki\\u015Filer i\\xE7in tasarland\\u0131:\"}),`\n`,(0,n.jsxs)(a.ul,{children:[`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Do\\u011Fal\"}),\" ve rustik bir g\\xF6r\\xFCn\\xFCmden ho\\u015Flananlar\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"A\\xE7\\u0131k havada\"}),\" vakit ge\\xE7irmeyi sevenler\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Farkl\\u0131\"}),\" lezzet profilleri arayanlar\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Geleneksel\"}),\" puroya daha ula\\u015F\\u0131labilir bir alternatif arayanlar\"]}),`\n`]}),`\n`,(0,n.jsxs)(a.h2,{id:\"sat\\u0131n-alma-\\xF6nerileri\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sat\\u0131n-alma-\\xF6nerileri\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Sat\\u0131n Alma \\xD6nerileri\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"deneyim-seviyesine-g\\xF6re\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#deneyim-seviyesine-g\\xF6re\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Deneyim Seviyesine G\\xF6re\"]}),`\n`,(0,n.jsxs)(a.p,{children:[(0,n.jsx)(a.strong,{children:\"Yeni Ba\\u015Flayanlar\"}),`: P\\xFCr\\xFCzs\\xFCz i\\xE7imi ve hafif yap\\u0131s\\u0131 sayesinde ideal bir ba\\u015Flang\\u0131\\xE7\n`,(0,n.jsx)(a.strong,{children:\"Deneyimli \\u0130\\xE7iciler\"}),`: Geleneksel puroya kar\\u015F\\u0131 farkl\\u0131, otantik bir deneyim arayanlar i\\xE7in\n`,(0,n.jsx)(a.strong,{children:\"Lezzet Arayanlar\"}),\": Geni\\u015F aroma yelpazesiyle farkl\\u0131 tatlar\\u0131 ke\\u015Ffetmek isteyenler\"]}),`\n`,(0,n.jsxs)(a.h3,{id:\"\\xF6zel-durumlar\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-durumlar\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\xD6zel Durumlar\"]}),`\n`,(0,n.jsxs)(a.ul,{children:[`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Kamp ate\\u015Fi\"}),\" etraf\\u0131ndaki sohbetler i\\xE7in\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Do\\u011Fa y\\xFCr\\xFCy\\xFC\\u015Fleri\"}),\" veya bal\\u0131k tutma gibi a\\xE7\\u0131k hava etkinlikleri\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"S\\u0131cak ve samimi ortamlar\"}),\" i\\xE7in ideal e\\u015Flik\\xE7i\"]}),`\n`]}),`\n`,(0,n.jsxs)(a.h2,{id:\"fark-yaratan-detaylar\",children:[(0,n.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#fark-yaratan-detaylar\",children:(0,n.jsx)(a.span,{className:\"icon icon-link\"})}),\"Fark Yaratan Detaylar\"]}),`\n`,(0,n.jsx)(a.p,{children:\"Backwoods'u \\xF6zel k\\u0131lan unsurlar:\"}),`\n`,(0,n.jsxs)(a.ol,{children:[`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"%100 do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131\"}),\" - End\\xFCstriyel \\xFCr\\xFCnlerden ayr\\u0131lan ana unsur\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"E\\u015Fsiz konik formu\"}),\" - Markan\\u0131n simgesi haline gelen tasar\\u0131m\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Geni\\u015F aroma yelpazesi\"}),\" - Her palete uygun bir se\\xE7enek\"]}),`\n`,(0,n.jsxs)(a.li,{children:[(0,n.jsx)(a.strong,{children:\"Rustik ve otantik duru\\u015F\"}),\" - G\\xF6steri\\u015Ften uzak, samimi bir kimlik\"]}),`\n`]}),`\n`,(0,n.jsx)(a.hr,{}),`\n`,(0,n.jsx)(a.p,{children:(0,n.jsx)(a.em,{children:\"Backwoods ile t\\xFCt\\xFCn\\xFCn vah\\u015Fi do\\u011Fas\\u0131n\\u0131 ke\\u015Ffedin. Otantik bir lezzetten daha fazlas\\u0131.\"})})]})}function h(e={}){let{wrapper:a}=e.components||{};return a?(0,n.jsx)(a,{...e,children:(0,n.jsx)(d,{...e})}):d(e)}return v(w);})();\n;return Component;"
+  },
+  "_id": "categories/07-backwoods.mdx",
+  "_raw": {
+    "sourceFilePath": "categories/07-backwoods.mdx",
+    "sourceFileName": "07-backwoods.mdx",
+    "sourceFileDir": "categories",
+    "contentType": "mdx",
+    "flattenedPath": "categories/07-backwoods"
+  },
+  "type": "Category",
+  "slug": "/categories/backwoods",
+  "slugAsParams": "backwoods",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#vahsi-ruhun-cagrisi",
+        "title": "Vahşi Ruhun Çağrısı",
+        "items": [
+          {
+            "url": "#neden-backwoods",
+            "title": "Neden Backwoods?"
+          }
+        ]
+      },
+      {
+        "url": "#urun-detaylari",
+        "title": "Ürün Detayları",
+        "items": [
+          {
+            "url": "#ozel-ozellikler",
+            "title": "Özel Özellikler"
+          }
+        ]
+      },
+      {
+        "url": "#kimler-icin-uygun",
+        "title": "Kimler İçin Uygun?"
+      },
+      {
+        "url": "#satin-alma-onerileri",
+        "title": "Satın Alma Önerileri",
+        "items": [
+          {
+            "url": "#deneyim-seviyesine-gore",
+            "title": "Deneyim Seviyesine Göre"
+          },
+          {
+            "url": "#ozel-durumlar",
+            "title": "Özel Durumlar"
+          }
+        ]
+      },
+      {
+        "url": "#fark-yaratan-detaylar",
+        "title": "Fark Yaratan Detaylar"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "categories",
+      "href": "/categories"
+    },
+    {
+      "label": "backwoods",
+      "href": "/categories/backwoods"
+    }
+  ]
+}

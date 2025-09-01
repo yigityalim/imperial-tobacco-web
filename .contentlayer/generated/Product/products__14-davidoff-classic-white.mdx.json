@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Classic White - Saflık ve Zarafet",
+  "description": "Davidoff Classic White, hafifletilmiş harmanıyla pürüzsüz ve rahat bir içim sunar. Tütünün en saf lezzetini arayanlar için.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Classic",
+  "productName": "White",
+  "sku": "DVF-CLASSIC-WHITE-20",
+  "price": 195,
+  "currency": "TRY",
+  "cover": "/images/davidoff-classic-white-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-classic-white-pack.jpg",
+      "alt": "Davidoff Classic White paketi",
+      "caption": "Sadelik ve saflığı yansıtan minimalist ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-classic-white-detail.jpg",
+      "alt": "Davidoff Classic White filtre detayı",
+      "caption": "Temizliği simgeleyen beyaz filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "White",
+  "nicotineLevel": "0.5 mg",
+  "tarLevel": "5 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "84 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "7.8 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Standart Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Hafif Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Hafifletilmiş Harman",
+      "description": "Davidoff kalitesinden ödün vermeden yumuşak bir içim sunar.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Pürüzsüz İçim",
+      "description": "Boğazı yormayan, son derece rahat bir deneyim.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Sade ve Şık Ambalaj",
+      "description": "Minimalist tasarımıyla modern estetiği yansıtır.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "classic",
+    "white",
+    "davidoff",
+    "hafif",
+    "minimalist"
+  ],
+  "sortOrder": 14,
+  "body": {
+    "raw": "\n# Davidoff Classic White - Hafifliğin Mükemmelliği\n\n**Davidoff Classic White**, tütünün doğal lezzetini arayan ancak daha hafif bir deneyim tercih edenler için ideal bir seçenektir. Bu ürün, Davidoff'un efsanevi harmanını korurken, **pürüzsüz ve yumuşak bir içim profili** sunar.\n\n## Hafifletilmiş Ama Etkileyici\n\nWhite, hafif ve dengeli bir tada sahip özel bir harmana sahiptir. Yoğunluktan uzak, sade bir lezzet arayanlar için mükemmel bir tercih olan bu sigara, her nefeste tütünün saf ve rafine tadını sunar. Ambalajının sadeliği, ürünün felsefesini yansıtarak, gereksiz her şeyden arınmış bir deneyime davet eder.\n\n## Yenilikçi Özellikler\n\n- **Hafifletilmiş Harman:** Yüksek kalite standartlarından ödün vermeden, daha az yoğunlukta bir tat profili sunar.\n- **Pürüzsüz İçim:** **5 mg katran** ve **0.5 mg nikotin** seviyeleri, boğazı yormadan rahat bir içim sağlar.\n- **Sade ve Şık Ambalaj:** Klasik Davidoff logosunu taşıyan minimalist beyaz paket, ürünün zarafetini vurgular.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Classic White, sadeliğe ve zarafete önem veren, hafif içimden hoşlanan sigara kullanıcıları için tasarlanmıştır.\n* **Hafif İçim Sevenler:** Yüksek katran ve nikotin seviyelerinden kaçınanlar.\n* **Sade Lezzet Arayanlar:** Tütünün kendi yalın tadını deneyimlemek isteyenler.\n* **Minimalist Tüketiciler:** Estetiği ve fonksiyonelliği bir arada arayanlar.\n\n---\n\n**Davidoff Classic White** ile tütünün en saf halini keşfedin. Bu ürün, Davidoff'un mükemmellik anlayışını hafiflikte yansıtan bir başyapıttır.\n\n*Hemen deneyin ve farkı hissedin.*\n",
+    "code": "var Component=(()=>{var f=Object.create;var r=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,v=Object.prototype.hasOwnProperty;var y=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),p=(e,i)=>{for(var n in i)r(e,n,{get:i[n],enumerable:!0})},s=(e,i,n,t)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let l of k(i))!v.call(e,l)&&l!==n&&r(e,l,{get:()=>i[l],enumerable:!(t=h(i,l))||t.enumerable});return e};var g=(e,i,n)=>(n=e!=null?f(u(e)):{},s(i||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>s(r({},\"__esModule\",{value:!0}),e);var c=y((W,d)=>{d.exports=_jsx_runtime});var D={};p(D,{default:()=>o,frontmatter:()=>z});var a=g(c()),z={title:\"Davidoff Classic White - Safl\\u0131k ve Zarafet\",description:\"Davidoff Classic White, hafifletilmi\\u015F harman\\u0131yla p\\xFCr\\xFCzs\\xFCz ve rahat bir i\\xE7im sunar. T\\xFCt\\xFCn\\xFCn en saf lezzetini arayanlar i\\xE7in.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Classic\",productName:\"White\",sku:\"DVF-CLASSIC-WHITE-20\",price:195,currency:\"TRY\",cover:\"/images/davidoff-classic-white-cover.png\",gallery:[{src:\"/images/davidoff-classic-white-pack.jpg\",alt:\"Davidoff Classic White paketi\",caption:\"Sadelik ve safl\\u0131\\u011F\\u0131 yans\\u0131tan minimalist ambalaj\"},{src:\"/images/davidoff-classic-white-detail.jpg\",alt:\"Davidoff Classic White filtre detay\\u0131\",caption:\"Temizli\\u011Fi simgeleyen beyaz filtre\"}],filterColor:\"White\",nicotineLevel:\"0.5 mg\",tarLevel:\"5 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"84 mm\"},{name:\"\\xC7ap\",value:\"7.8 mm\"},{name:\"Filtre Tipi\",value:\"Standart Filtre\"},{name:\"Aroma\",value:\"Hafif T\\xFCt\\xFCn\"}],features:[{title:\"Hafifletilmi\\u015F Harman\",description:\"Davidoff kalitesinden \\xF6d\\xFCn vermeden yumu\\u015Fak bir i\\xE7im sunar.\",icon:\"capsule\"},{title:\"P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im\",description:\"Bo\\u011Faz\\u0131 yormayan, son derece rahat bir deneyim.\",icon:\"flavor-twist\"},{title:\"Sade ve \\u015E\\u0131k Ambalaj\",description:\"Minimalist tasar\\u0131m\\u0131yla modern esteti\\u011Fi yans\\u0131t\\u0131r.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"classic\",\"white\",\"davidoff\",\"hafif\",\"minimalist\"],sortOrder:14};function m(e){let i={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(i.h1,{id:\"davidoff-classic-white---hafifli\\u011Fin-m\\xFCkemmelli\\u011Fi\",children:[(0,a.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-classic-white---hafifli\\u011Fin-m\\xFCkemmelli\\u011Fi\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})}),\"Davidoff Classic White - Hafifli\\u011Fin M\\xFCkemmelli\\u011Fi\"]}),`\n`,(0,a.jsxs)(i.p,{children:[(0,a.jsx)(i.strong,{children:\"Davidoff Classic White\"}),\", t\\xFCt\\xFCn\\xFCn do\\u011Fal lezzetini arayan ancak daha hafif bir deneyim tercih edenler i\\xE7in ideal bir se\\xE7enektir. Bu \\xFCr\\xFCn, Davidoff'un efsanevi harman\\u0131n\\u0131 korurken, \",(0,a.jsx)(i.strong,{children:\"p\\xFCr\\xFCzs\\xFCz ve yumu\\u015Fak bir i\\xE7im profili\"}),\" sunar.\"]}),`\n`,(0,a.jsxs)(i.h2,{id:\"hafifletilmi\\u015F-ama-etkileyici\",children:[(0,a.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#hafifletilmi\\u015F-ama-etkileyici\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})}),\"Hafifletilmi\\u015F Ama Etkileyici\"]}),`\n`,(0,a.jsx)(i.p,{children:\"White, hafif ve dengeli bir tada sahip \\xF6zel bir harmana sahiptir. Yo\\u011Funluktan uzak, sade bir lezzet arayanlar i\\xE7in m\\xFCkemmel bir tercih olan bu sigara, her nefeste t\\xFCt\\xFCn\\xFCn saf ve rafine tad\\u0131n\\u0131 sunar. Ambalaj\\u0131n\\u0131n sadeli\\u011Fi, \\xFCr\\xFCn\\xFCn felsefesini yans\\u0131tarak, gereksiz her \\u015Feyden ar\\u0131nm\\u0131\\u015F bir deneyime davet eder.\"}),`\n`,(0,a.jsxs)(i.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,a.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,a.jsxs)(i.ul,{children:[`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"Hafifletilmi\\u015F Harman:\"}),\" Y\\xFCksek kalite standartlar\\u0131ndan \\xF6d\\xFCn vermeden, daha az yo\\u011Funlukta bir tat profili sunar.\"]}),`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im:\"}),\" \",(0,a.jsx)(i.strong,{children:\"5 mg katran\"}),\" ve \",(0,a.jsx)(i.strong,{children:\"0.5 mg nikotin\"}),\" seviyeleri, bo\\u011Faz\\u0131 yormadan rahat bir i\\xE7im sa\\u011Flar.\"]}),`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"Sade ve \\u015E\\u0131k Ambalaj:\"}),\" Klasik Davidoff logosunu ta\\u015F\\u0131yan minimalist beyaz paket, \\xFCr\\xFCn\\xFCn zarafetini vurgular.\"]}),`\n`]}),`\n`,(0,a.jsxs)(i.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,a.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,a.jsx)(i.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,a.jsx)(i.p,{children:\"Davidoff Classic White, sadeli\\u011Fe ve zarafete \\xF6nem veren, hafif i\\xE7imden ho\\u015Flanan sigara kullan\\u0131c\\u0131lar\\u0131 i\\xE7in tasarlanm\\u0131\\u015Ft\\u0131r.\"}),`\n`,(0,a.jsxs)(i.ul,{children:[`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"Hafif \\u0130\\xE7im Sevenler:\"}),\" Y\\xFCksek katran ve nikotin seviyelerinden ka\\xE7\\u0131nanlar.\"]}),`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"Sade Lezzet Arayanlar:\"}),\" T\\xFCt\\xFCn\\xFCn kendi yal\\u0131n tad\\u0131n\\u0131 deneyimlemek isteyenler.\"]}),`\n`,(0,a.jsxs)(i.li,{children:[(0,a.jsx)(i.strong,{children:\"Minimalist T\\xFCketiciler:\"}),\" Esteti\\u011Fi ve fonksiyonelli\\u011Fi bir arada arayanlar.\"]}),`\n`]}),`\n`,(0,a.jsx)(i.hr,{}),`\n`,(0,a.jsxs)(i.p,{children:[(0,a.jsx)(i.strong,{children:\"Davidoff Classic White\"}),\" ile t\\xFCt\\xFCn\\xFCn en saf halini ke\\u015Ffedin. Bu \\xFCr\\xFCn, Davidoff'un m\\xFCkemmellik anlay\\u0131\\u015F\\u0131n\\u0131 hafiflikte yans\\u0131tan bir ba\\u015Fyap\\u0131tt\\u0131r.\"]}),`\n`,(0,a.jsx)(i.p,{children:(0,a.jsx)(i.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function o(e={}){let{wrapper:i}=e.components||{};return i?(0,a.jsx)(i,{...e,children:(0,a.jsx)(m,{...e})}):m(e)}return b(D);})();\n;return Component;"
+  },
+  "_id": "products/14-davidoff-classic-white.mdx",
+  "_raw": {
+    "sourceFilePath": "products/14-davidoff-classic-white.mdx",
+    "sourceFileName": "14-davidoff-classic-white.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/14-davidoff-classic-white"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-classic-white",
+  "slugAsParams": "davidoff-classic-white",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-classic-white-hafifligin-mukemmelligi",
+        "title": "Davidoff Classic White - Hafifliğin Mükemmelliği",
+        "items": [
+          {
+            "url": "#hafifletilmis-ama-etkileyici",
+            "title": "Hafifletilmiş Ama Etkileyici"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff classic white",
+      "href": "/products/davidoff-classic-white"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Backwoods Aromatic - Klasik ve Sıcak",
+  "description": "Backwoods Aromatic, tatlı ve baharatlı notalarıyla zengin bir koku ve lezzet sunar. Geleneksel aromatik tütün sevenlerin tercihi.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "categoryName": "Backwoods Flavors",
+  "productName": "Aromatic",
+  "sku": "BWS-AROMATIC-5",
+  "price": 150,
+  "currency": "TRY",
+  "cover": "/images/backwoods-aromatic-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/backwoods-aromatic-pack.jpg",
+      "alt": "Backwoods Aromatic paketi",
+      "caption": "Klasik ve sıcak kahverengi tonlarında ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-aromatic-detail.jpg",
+      "alt": "Backwoods Aromatic puro detayı",
+      "caption": "Zengin aromatik tütün harmanı",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Natural",
+  "nicotineLevel": "N/A",
+  "tarLevel": "N/A",
+  "packSize": 5,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "115 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "10 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Yok",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Tatlı ve Baharatlı",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Zengin ve Kompleks Aroma",
+      "description": "Vanilya, baharat ve tatlı notaların eşsiz birleşimi.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Doğal Tütün Sargısı",
+      "description": "Geleneksel puro deneyimini modern bir formda sunar.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Sıcak ve Rahatlatıcı",
+      "description": "Kalıcı ve hoş kokusuyla keyifli bir içim sağlar.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "backwoods",
+    "aromalı",
+    "aromatic",
+    "klasik",
+    "tatlı"
+  ],
+  "sortOrder": 20,
+  "body": {
+    "raw": "\n# Backwoods Aromatic - Geleneksel Zevklerin İmzası\n\n**Backwoods Aromatic**, tatlı ve baharatlı notalarıyla zengin bir koku ve lezzet profili sunar. Bu ürün, tütünün rustik karakterini, klasik aromatik harmanlarla birleştirerek **sıcak ve davetkar bir deneyim** yaratır. Geleneksel aromaları modern bir formatta arayanların ilk tercihi olacaktır.\n\n## Zengin ve Katmanlı Bir Aroma\n\nAromatic, vanilya ve hafif baharat notalarıyla zenginleştirilmiş özel bir harmana sahiptir. Bu kompleks yapı, içim esnasında farklı katmanların ortaya çıkmasını sağlar. Doğal tütün yaprağı sargısı, bu zengin aromayı mükemmel bir şekilde tamamlar ve otantik bir deneyim sunar.\n\n## Sıcak ve Kalıcı Bir Deneyim\n\n- **Derin Lezzet Profili:** Tatlı, baharatlı ve odunsu notaların dengeli birleşimi.\n- **Hoş Koku:** Kalıcı ve davetkar aromasıyla hem içen hem de çevresindekiler için keyif verir.\n- **Doğal Sargı:** Backwoods'a özgü doğal tütün yaprağı, ürünün otantik karakterini korur.\n\n## Kimler İçin Tasarlandı?\n\nBackwoods Aromatic, klasik puro ve pipo tütünü aromalarını seven, gelenekselden vazgeçemeyen ancak modern bir ürün arayan kullanıcılar için idealdir.\n* **Geleneksel Tütün Severler:** Klasik aromaları modern bir formatta deneyimlemek isteyenler.\n* **Duyusal Deneyim Arayanlar:** Lezzetin yanı sıra, kokunun da önemini bilenler.\n* **Rahatlama Amaçlı Kullanıcılar:** Yoğun bir günün sonunda rahatlatıcı bir keyif arayanlar.\n\n---\n\n**Backwoods Aromatic** ile tütünün en sıcak ve en samimi halini keşfedin. Bu ürün, gelenek ve modernliğin mükemmel bir sentezidir.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var d=Object.create;var l=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var p=(n,a)=>()=>(a||n((a={exports:{}}).exports,a),a.exports),b=(n,a)=>{for(var i in a)l(n,i,{get:a[i],enumerable:!0})},o=(n,a,i,t)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of u(a))!g.call(n,r)&&r!==i&&l(n,r,{get:()=>a[r],enumerable:!(t=h(a,r))||t.enumerable});return n};var y=(n,a,i)=>(i=n!=null?d(v(n)):{},o(a||!n||!n.__esModule?l(i,\"default\",{value:n,enumerable:!0}):i,n)),f=n=>o(l({},\"__esModule\",{value:!0}),n);var c=p((B,s)=>{s.exports=_jsx_runtime});var w={};b(w,{default:()=>k,frontmatter:()=>z});var e=y(c()),z={title:\"Backwoods Aromatic - Klasik ve S\\u0131cak\",description:\"Backwoods Aromatic, tatl\\u0131 ve baharatl\\u0131 notalar\\u0131yla zengin bir koku ve lezzet sunar. Geleneksel aromatik t\\xFCt\\xFCn sevenlerin tercihi.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Backwoods\",categoryName:\"Backwoods Flavors\",productName:\"Aromatic\",sku:\"BWS-AROMATIC-5\",price:150,currency:\"TRY\",cover:\"/images/backwoods-aromatic-cover.jpg\",gallery:[{src:\"/images/backwoods-aromatic-pack.jpg\",alt:\"Backwoods Aromatic paketi\",caption:\"Klasik ve s\\u0131cak kahverengi tonlar\\u0131nda ambalaj\"},{src:\"/images/backwoods-aromatic-detail.jpg\",alt:\"Backwoods Aromatic puro detay\\u0131\",caption:\"Zengin aromatik t\\xFCt\\xFCn harman\\u0131\"}],filterColor:\"Natural\",nicotineLevel:\"N/A\",tarLevel:\"N/A\",packSize:5,specifications:[{name:\"Uzunluk\",value:\"115 mm\"},{name:\"\\xC7ap\",value:\"10 mm\"},{name:\"Filtre Tipi\",value:\"Yok\"},{name:\"Aroma\",value:\"Tatl\\u0131 ve Baharatl\\u0131\"}],features:[{title:\"Zengin ve Kompleks Aroma\",description:\"Vanilya, baharat ve tatl\\u0131 notalar\\u0131n e\\u015Fsiz birle\\u015Fimi.\",icon:\"capsule\"},{title:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131\",description:\"Geleneksel puro deneyimini modern bir formda sunar.\",icon:\"flavor-twist\"},{title:\"S\\u0131cak ve Rahatlat\\u0131c\\u0131\",description:\"Kal\\u0131c\\u0131 ve ho\\u015F kokusuyla keyifli bir i\\xE7im sa\\u011Flar.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"backwoods\",\"aromal\\u0131\",\"aromatic\",\"klasik\",\"tatl\\u0131\"],sortOrder:20};function m(n){let a={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.h1,{id:\"backwoods-aromatic---geleneksel-zevklerin-i\\u0307mzas\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-aromatic---geleneksel-zevklerin-i\\u0307mzas\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Backwoods Aromatic - Geleneksel Zevklerin \\u0130mzas\\u0131\"]}),`\n`,(0,e.jsxs)(a.p,{children:[(0,e.jsx)(a.strong,{children:\"Backwoods Aromatic\"}),\", tatl\\u0131 ve baharatl\\u0131 notalar\\u0131yla zengin bir koku ve lezzet profili sunar. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn\\xFCn rustik karakterini, klasik aromatik harmanlarla birle\\u015Ftirerek \",(0,e.jsx)(a.strong,{children:\"s\\u0131cak ve davetkar bir deneyim\"}),\" yarat\\u0131r. Geleneksel aromalar\\u0131 modern bir formatta arayanlar\\u0131n ilk tercihi olacakt\\u0131r.\"]}),`\n`,(0,e.jsxs)(a.h2,{id:\"zengin-ve-katmanl\\u0131-bir-aroma\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#zengin-ve-katmanl\\u0131-bir-aroma\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Zengin ve Katmanl\\u0131 Bir Aroma\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Aromatic, vanilya ve hafif baharat notalar\\u0131yla zenginle\\u015Ftirilmi\\u015F \\xF6zel bir harmana sahiptir. Bu kompleks yap\\u0131, i\\xE7im esnas\\u0131nda farkl\\u0131 katmanlar\\u0131n ortaya \\xE7\\u0131kmas\\u0131n\\u0131 sa\\u011Flar. Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131, bu zengin aromay\\u0131 m\\xFCkemmel bir \\u015Fekilde tamamlar ve otantik bir deneyim sunar.\"}),`\n`,(0,e.jsxs)(a.h2,{id:\"s\\u0131cak-ve-kal\\u0131c\\u0131-bir-deneyim\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#s\\u0131cak-ve-kal\\u0131c\\u0131-bir-deneyim\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"S\\u0131cak ve Kal\\u0131c\\u0131 Bir Deneyim\"]}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Derin Lezzet Profili:\"}),\" Tatl\\u0131, baharatl\\u0131 ve odunsu notalar\\u0131n dengeli birle\\u015Fimi.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Ho\\u015F Koku:\"}),\" Kal\\u0131c\\u0131 ve davetkar aromas\\u0131yla hem i\\xE7en hem de \\xE7evresindekiler i\\xE7in keyif verir.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Do\\u011Fal Sarg\\u0131:\"}),\" Backwoods'a \\xF6zg\\xFC do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131, \\xFCr\\xFCn\\xFCn otantik karakterini korur.\"]}),`\n`]}),`\n`,(0,e.jsxs)(a.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Backwoods Aromatic, klasik puro ve pipo t\\xFCt\\xFCn\\xFC aromalar\\u0131n\\u0131 seven, gelenekselden vazge\\xE7emeyen ancak modern bir \\xFCr\\xFCn arayan kullan\\u0131c\\u0131lar i\\xE7in idealdir.\"}),`\n`,(0,e.jsxs)(a.ul,{children:[`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Geleneksel T\\xFCt\\xFCn Severler:\"}),\" Klasik aromalar\\u0131 modern bir formatta deneyimlemek isteyenler.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Duyusal Deneyim Arayanlar:\"}),\" Lezzetin yan\\u0131 s\\u0131ra, kokunun da \\xF6nemini bilenler.\"]}),`\n`,(0,e.jsxs)(a.li,{children:[(0,e.jsx)(a.strong,{children:\"Rahatlama Ama\\xE7l\\u0131 Kullan\\u0131c\\u0131lar:\"}),\" Yo\\u011Fun bir g\\xFCn\\xFCn sonunda rahatlat\\u0131c\\u0131 bir keyif arayanlar.\"]}),`\n`]}),`\n`,(0,e.jsx)(a.hr,{}),`\n`,(0,e.jsxs)(a.p,{children:[(0,e.jsx)(a.strong,{children:\"Backwoods Aromatic\"}),\" ile t\\xFCt\\xFCn\\xFCn en s\\u0131cak ve en samimi halini ke\\u015Ffedin. Bu \\xFCr\\xFCn, gelenek ve modernli\\u011Fin m\\xFCkemmel bir sentezidir.\"]}),`\n`,(0,e.jsx)(a.p,{children:(0,e.jsx)(a.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function k(n={}){let{wrapper:a}=n.components||{};return a?(0,e.jsx)(a,{...n,children:(0,e.jsx)(m,{...n})}):m(n)}return f(w);})();\n;return Component;"
+  },
+  "_id": "products/20-backwoods-aromatic.mdx",
+  "_raw": {
+    "sourceFilePath": "products/20-backwoods-aromatic.mdx",
+    "sourceFileName": "20-backwoods-aromatic.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/20-backwoods-aromatic"
+  },
+  "type": "Product",
+  "slug": "/products/backwoods-aromatic",
+  "slugAsParams": "backwoods-aromatic",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#backwoods-aromatic-geleneksel-zevklerin-imzasi",
+        "title": "Backwoods Aromatic - Geleneksel Zevklerin İmzası",
+        "items": [
+          {
+            "url": "#zengin-ve-katmanli-bir-aroma",
+            "title": "Zengin ve Katmanlı Bir Aroma"
+          },
+          {
+            "url": "#sicak-ve-kalici-bir-deneyim",
+            "title": "Sıcak ve Kalıcı Bir Deneyim"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "backwoods aromatic",
+      "href": "/products/backwoods-aromatic"
+    }
+  ]
+}

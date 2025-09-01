@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Classic Silver - Modern Zarafet",
+  "description": "Davidoff Classic Silver, sofistike tütün harmanı ve ultra pürüzsüz içim profiliyle modern bir dokunuş sunar. Zarif ve seçkin bir deneyim.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Classic",
+  "productName": "Silver",
+  "sku": "DVF-CLASSIC-SILVER-20",
+  "price": 205,
+  "currency": "TRY",
+  "cover": "/images/davidoff-classic-silver-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-classic-silver-pack.jpg",
+      "alt": "Davidoff Classic Silver paketi",
+      "caption": "Sofistike ve modern gümüş detaylar",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-classic-silver-detail.jpg",
+      "alt": "Davidoff Classic Silver filtre detayı",
+      "caption": "Pürüzsüzlüğü simgeleyen gümüş filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Silver",
+  "nicotineLevel": "0.6 mg",
+  "tarLevel": "6 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "84 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "7.8 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Standart Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Sofistike Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Sofistike Tütün Harmanı",
+      "description": "Davidoff'un rafine zevkler için hazırladığı özel karışım.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Ultra Pürüzsüz İçim",
+      "description": "Boğazda hiçbir rahatsızlık hissi bırakmayan yumuşak çekim.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Modern ve Şık Ambalaj",
+      "description": "Metalik gümüş detaylarla çağdaş bir estetik.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "classic",
+    "silver",
+    "davidoff",
+    "sofistike",
+    "modern"
+  ],
+  "sortOrder": 15,
+  "body": {
+    "raw": "\n# Davidoff Classic Silver - Pürüzsüzlüğün Zirvesi\n\n**Davidoff Classic Silver**, markanın klasik mirasından aldığı güçle modern bir zarafet arayışına cevap verir. Bu ürün, **sofistike harmanı** ve **ultra pürüzsüz içim profiliyle** sadece bir tütün deneyimi değil, aynı zamanda çağdaş bir stil beyanı sunar.\n\n## Seçkin Bir Dokunuş\n\nSilver, tütün yapraklarının en rafine notalarını barındıran özel bir harmana sahiptir. Lezzet, dengeli ve zengin olmasına rağmen, boğazda hiçbir rahatsızlık hissi bırakmayan olağanüstü yumuşak bir çekimle tamamlanır. Bu eşsiz pürüzsüzlük, Davidoff'un üretimdeki hassasiyetini ve uzmanlığını kanıtlar.\n\n## Yenilikçi Özellikler\n\n- **Sofistike Tütün Harmanı:** En seçkin tütünlerin ustalıkla harmanlanmasıyla elde edilen rafine ve zarif bir lezzet.\n- **Ultra Pürüzsüz İçim:** **6 mg katran** ve **0.6 mg nikotin** seviyeleri, tütünün tadını alırken yumuşak bir deneyim sağlar.\n- **Modern ve Şık Ambalaj:** Gümüş detaylar ve modern çizgilerle tasarlanmış ambalajı, ürüne çağdaş ve sofistike bir görünüm kazandırır.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Classic Silver, zevkine düşkün, modern ve şık bir deneyim arayan sigara kullanıcıları için idealdir.\n* **Modern Zevk Sahipleri:** Klasik lezzetleri çağdaş bir yaklaşımla deneyimlemek isteyenler.\n* **Pürüzsüzlük Arayanlar:** Boğazı rahatsız etmeyen, ultra yumuşak bir içim tercih edenler.\n* **Stil Sahibi Tüketiciler:** Ürünün estetiğini ve markasının prestijini önemseyenler.\n\n---\n\n**Davidoff Classic Silver** ile tütünün en pürüzsüz halini keşfedin. Bu ürün, Davidoff'un zarafet ve modernliği bir araya getiren başyapıtıdır.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var k=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var z=(a,i)=>()=>(i||a((i={exports:{}}).exports,i),i.exports),p=(a,i)=>{for(var n in i)l(a,n,{get:i[n],enumerable:!0})},t=(a,i,n,s)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let r of f(i))!u.call(a,r)&&r!==n&&l(a,r,{get:()=>i[r],enumerable:!(s=k(i,r))||s.enumerable});return a};var g=(a,i,n)=>(n=a!=null?h(v(a)):{},t(i||!a||!a.__esModule?l(n,\"default\",{value:a,enumerable:!0}):n,a)),y=a=>t(l({},\"__esModule\",{value:!0}),a);var o=z((C,d)=>{d.exports=_jsx_runtime});var S={};p(S,{default:()=>m,frontmatter:()=>b});var e=g(o()),b={title:\"Davidoff Classic Silver - Modern Zarafet\",description:\"Davidoff Classic Silver, sofistike t\\xFCt\\xFCn harman\\u0131 ve ultra p\\xFCr\\xFCzs\\xFCz i\\xE7im profiliyle modern bir dokunu\\u015F sunar. Zarif ve se\\xE7kin bir deneyim.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Classic\",productName:\"Silver\",sku:\"DVF-CLASSIC-SILVER-20\",price:205,currency:\"TRY\",cover:\"/images/davidoff-classic-silver-cover.png\",gallery:[{src:\"/images/davidoff-classic-silver-pack.jpg\",alt:\"Davidoff Classic Silver paketi\",caption:\"Sofistike ve modern g\\xFCm\\xFC\\u015F detaylar\"},{src:\"/images/davidoff-classic-silver-detail.jpg\",alt:\"Davidoff Classic Silver filtre detay\\u0131\",caption:\"P\\xFCr\\xFCzs\\xFCzl\\xFC\\u011F\\xFC simgeleyen g\\xFCm\\xFC\\u015F filtre\"}],filterColor:\"Silver\",nicotineLevel:\"0.6 mg\",tarLevel:\"6 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"84 mm\"},{name:\"\\xC7ap\",value:\"7.8 mm\"},{name:\"Filtre Tipi\",value:\"Standart Filtre\"},{name:\"Aroma\",value:\"Sofistike T\\xFCt\\xFCn\"}],features:[{title:\"Sofistike T\\xFCt\\xFCn Harman\\u0131\",description:\"Davidoff'un rafine zevkler i\\xE7in haz\\u0131rlad\\u0131\\u011F\\u0131 \\xF6zel kar\\u0131\\u015F\\u0131m.\",icon:\"capsule\"},{title:\"Ultra P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im\",description:\"Bo\\u011Fazda hi\\xE7bir rahats\\u0131zl\\u0131k hissi b\\u0131rakmayan yumu\\u015Fak \\xE7ekim.\",icon:\"flavor-twist\"},{title:\"Modern ve \\u015E\\u0131k Ambalaj\",description:\"Metalik g\\xFCm\\xFC\\u015F detaylarla \\xE7a\\u011Fda\\u015F bir estetik.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"classic\",\"silver\",\"davidoff\",\"sofistike\",\"modern\"],sortOrder:15};function c(a){let i={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...a.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(i.h1,{id:\"davidoff-classic-silver---p\\xFCr\\xFCzs\\xFCzl\\xFC\\u011F\\xFCn-zirvesi\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-classic-silver---p\\xFCr\\xFCzs\\xFCzl\\xFC\\u011F\\xFCn-zirvesi\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Davidoff Classic Silver - P\\xFCr\\xFCzs\\xFCzl\\xFC\\u011F\\xFCn Zirvesi\"]}),`\n`,(0,e.jsxs)(i.p,{children:[(0,e.jsx)(i.strong,{children:\"Davidoff Classic Silver\"}),\", markan\\u0131n klasik miras\\u0131ndan ald\\u0131\\u011F\\u0131 g\\xFC\\xE7le modern bir zarafet aray\\u0131\\u015F\\u0131na cevap verir. Bu \\xFCr\\xFCn, \",(0,e.jsx)(i.strong,{children:\"sofistike harman\\u0131\"}),\" ve \",(0,e.jsx)(i.strong,{children:\"ultra p\\xFCr\\xFCzs\\xFCz i\\xE7im profiliyle\"}),\" sadece bir t\\xFCt\\xFCn deneyimi de\\u011Fil, ayn\\u0131 zamanda \\xE7a\\u011Fda\\u015F bir stil beyan\\u0131 sunar.\"]}),`\n`,(0,e.jsxs)(i.h2,{id:\"se\\xE7kin-bir-dokunu\\u015F\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#se\\xE7kin-bir-dokunu\\u015F\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Se\\xE7kin Bir Dokunu\\u015F\"]}),`\n`,(0,e.jsx)(i.p,{children:\"Silver, t\\xFCt\\xFCn yapraklar\\u0131n\\u0131n en rafine notalar\\u0131n\\u0131 bar\\u0131nd\\u0131ran \\xF6zel bir harmana sahiptir. Lezzet, dengeli ve zengin olmas\\u0131na ra\\u011Fmen, bo\\u011Fazda hi\\xE7bir rahats\\u0131zl\\u0131k hissi b\\u0131rakmayan ola\\u011Fan\\xFCst\\xFC yumu\\u015Fak bir \\xE7ekimle tamamlan\\u0131r. Bu e\\u015Fsiz p\\xFCr\\xFCzs\\xFCzl\\xFCk, Davidoff'un \\xFCretimdeki hassasiyetini ve uzmanl\\u0131\\u011F\\u0131n\\u0131 kan\\u0131tlar.\"}),`\n`,(0,e.jsxs)(i.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,e.jsxs)(i.ul,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Sofistike T\\xFCt\\xFCn Harman\\u0131:\"}),\" En se\\xE7kin t\\xFCt\\xFCnlerin ustal\\u0131kla harmanlanmas\\u0131yla elde edilen rafine ve zarif bir lezzet.\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Ultra P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im:\"}),\" \",(0,e.jsx)(i.strong,{children:\"6 mg katran\"}),\" ve \",(0,e.jsx)(i.strong,{children:\"0.6 mg nikotin\"}),\" seviyeleri, t\\xFCt\\xFCn\\xFCn tad\\u0131n\\u0131 al\\u0131rken yumu\\u015Fak bir deneyim sa\\u011Flar.\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Modern ve \\u015E\\u0131k Ambalaj:\"}),\" G\\xFCm\\xFC\\u015F detaylar ve modern \\xE7izgilerle tasarlanm\\u0131\\u015F ambalaj\\u0131, \\xFCr\\xFCne \\xE7a\\u011Fda\\u015F ve sofistike bir g\\xF6r\\xFCn\\xFCm kazand\\u0131r\\u0131r.\"]}),`\n`]}),`\n`,(0,e.jsxs)(i.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,e.jsx)(i.p,{children:\"Davidoff Classic Silver, zevkine d\\xFC\\u015Fk\\xFCn, modern ve \\u015F\\u0131k bir deneyim arayan sigara kullan\\u0131c\\u0131lar\\u0131 i\\xE7in idealdir.\"}),`\n`,(0,e.jsxs)(i.ul,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Modern Zevk Sahipleri:\"}),\" Klasik lezzetleri \\xE7a\\u011Fda\\u015F bir yakla\\u015F\\u0131mla deneyimlemek isteyenler.\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"P\\xFCr\\xFCzs\\xFCzl\\xFCk Arayanlar:\"}),\" Bo\\u011Faz\\u0131 rahats\\u0131z etmeyen, ultra yumu\\u015Fak bir i\\xE7im tercih edenler.\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Stil Sahibi T\\xFCketiciler:\"}),\" \\xDCr\\xFCn\\xFCn esteti\\u011Fini ve markas\\u0131n\\u0131n prestijini \\xF6nemseyenler.\"]}),`\n`]}),`\n`,(0,e.jsx)(i.hr,{}),`\n`,(0,e.jsxs)(i.p,{children:[(0,e.jsx)(i.strong,{children:\"Davidoff Classic Silver\"}),\" ile t\\xFCt\\xFCn\\xFCn en p\\xFCr\\xFCzs\\xFCz halini ke\\u015Ffedin. Bu \\xFCr\\xFCn, Davidoff'un zarafet ve modernli\\u011Fi bir araya getiren ba\\u015Fyap\\u0131t\\u0131d\\u0131r.\"]}),`\n`,(0,e.jsx)(i.p,{children:(0,e.jsx)(i.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(a={}){let{wrapper:i}=a.components||{};return i?(0,e.jsx)(i,{...a,children:(0,e.jsx)(c,{...a})}):c(a)}return y(S);})();\n;return Component;"
+  },
+  "_id": "products/15-davidoff-classic-silver.mdx",
+  "_raw": {
+    "sourceFilePath": "products/15-davidoff-classic-silver.mdx",
+    "sourceFileName": "15-davidoff-classic-silver.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/15-davidoff-classic-silver"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-classic-silver",
+  "slugAsParams": "davidoff-classic-silver",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-classic-silver-puruzsuzlugun-zirvesi",
+        "title": "Davidoff Classic Silver - Pürüzsüzlüğün Zirvesi",
+        "items": [
+          {
+            "url": "#seckin-bir-dokunus",
+            "title": "Seçkin Bir Dokunuş"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff classic silver",
+      "href": "/products/davidoff-classic-silver"
+    }
+  ]
+}

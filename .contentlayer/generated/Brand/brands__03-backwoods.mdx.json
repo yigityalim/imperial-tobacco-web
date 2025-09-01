@@ -1,0 +1,125 @@
+{
+  "title": "Backwoods - Otantik ve Vahşi Lezzet",
+  "description": "1981'den beri, Backwoods, doğal tütün yaprağı sargısıyla otantik bir puro deneyimi sunuyor. Gelenekselden şaşmayanların tercihi.",
+  "date": "2024-01-15T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Ürün Uzmanları",
+      "role": "Pazarlama Departmanı",
+      "avatar": "/avatars/marketing-team.jpg",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "logo": "/images/brands/backwoods-logo.svg",
+  "foundedYear": 1981,
+  "headquarters": "Richmond, Virginia, ABD",
+  "website": "https://www.backwoodscigars.com",
+  "gallery": [
+    {
+      "src": "/images/brands/backwoods-original.jpg",
+      "alt": "Backwoods Original puro",
+      "caption": "Doğal yaprak sargılı ikonik görünüm",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/brands/backwoods-flavors.jpg",
+      "alt": "Backwoods aromalı çeşitleri",
+      "caption": "Zengin aroma seçenekleri",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/brands/backwoods-lifestyle.jpg",
+      "alt": "Backwoods keyfi",
+      "caption": "Açık havada rahat ve doğal bir deneyim",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/brands/backwoods-packaging.jpg",
+      "alt": "Backwoods paket tasarımı",
+      "caption": "Sert ve rustik ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "categories": [
+    "natural-leaf",
+    "flavored-cigarillos",
+    "rustic"
+  ],
+  "body": {
+    "raw": "\n# Backwoods: Vahşi Ruhun Çağrısı\n\n1981 yılında Amerika'da doğan **Backwoods**, tütün dünyasında kendine has bir yol çizerek otantik ve rustik bir deneyim arayanların vazgeçilmezi oldu. Doğal tütün yaprağı sargısı ve hafif konik şekliyle, bir purodan çok daha fazlasını sunar: **Özgürlüğün ve doğallığın sembolüdür.** Backwoods, geleneksel puro dünyasının katı kurallarından sıyrılarak, herkesin ulaşabileceği bir otantiklik sunar.\n\n## Eşsiz Yapı ve Otantik Lezzet\n\nBackwoods'u diğerlerinden ayıran en belirgin özellik, tamamen doğal tütün yaprağı kullanılarak sarılmasıdır. Bu düzensiz ve hafifçe pürüzlü sargı, ürünün rustik ve otantik karakterini vurgular. İç harmanındaki kaliteli tütün, dış sargının zengin aromasıyla mükemmel bir uyum yakalayarak, doyurucu ve pürüzsüz bir içim sağlar. Her bir Backwoods, el yapımı hissi veren özgün formuyla bir sanat eseri gibidir.\n\n## Geniş Aroma Yelpazesi: Her Palete Uygun Bir Seçenek\n\nBackwoods, sadece doğal lezzetiyle değil, aynı zamanda sunduğu zengin aroma çeşitliliğiyle de tanınır. Marka, tütünün kendi karakterini bozmadan, onu tamamlayan doğal tatlarla harmanlar. **Original**'den **Sweet Aromatic**'e, **Honey Berry**'den **Black N' Sweet**'e kadar uzanan geniş yelpazesiyle her kullanıcı, kendi damak tadına uygun bir seçeneği mutlaka bulur. Bu çeşitlilik, Backwoods'u hem yeni başlayanlar hem de deneyimli kullanıcılar için cazip kılar.\n\n## Neden Backwoods?\n\n### Aykırı Duruş\nBackwoods, gösterişli ve resmî puro kültürünün dışında, samimi ve rahat bir alternatif sunar. Kalabalığın arasından sıyrılarak kendi yolunu çizenlerin tercihidir.\n\n### Doğal Sargı\n%100 doğal tütün yaprağıyla sarılması, ona eşsiz bir tat ve koku profili kazandırır. Bu, hiçbir fabrikasyon üründe bulunamayacak bir otantiklik sağlar.\n\n### Erişilebilirlik\nPremium bir deneyimi daha ulaşılabilir bir fiyat noktasında sunarak, tütün keyfinin demokratikleşmesini sağlar. Lüksün herkes için erişilebilir olabileceğini gösterir.\n\n### Dayanıklılık\nSert ve sağlam yapısı sayesinde dış mekan kullanımı için idealdir. Yanınızda kolayca taşıyabilir ve doğada, kamp ateşi başında ya da bir nehir kenarında rahatça keyfini sürebilirsiniz.\n\n## Backwoods Deneyimi: Özgürlük ve Keşif\n\nBackwoods, sadece bir tütün ürünü değildir; bir maceranın başlangıcıdır. Açık havada, arkadaşlarınızla veya tek başınıza geçireceğiniz huzurlu bir anın en iyi eşlikçisidir. Stresten uzaklaşmak, doğayla yeniden bağ kurmak ve anın tadını çıkarmak için ideal bir seçimdir. Backwoods deneyimi, özgürlüğü ve sadeliği arayan ruhlar için bir davettir.\n\nBackwoods, lüks ve gösteriş yerine, otantiklik ve özgürlüğü tercih edenler için bir semboldür. Eğer siz de ruhunuzdaki vahşi sesi dinlemek ve gerçek bir tütün deneyimi yaşamak istiyorsanız, **Backwoods dünyasına adım atın.**",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var b=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var g=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),p=(i,a)=>{for(var n in a)l(i,n,{get:a[n],enumerable:!0})},o=(i,a,n,s)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let r of u(a))!y.call(i,r)&&r!==n&&l(i,r,{get:()=>a[r],enumerable:!(s=m(a,r))||s.enumerable});return i};var z=(i,a,n)=>(n=i!=null?h(b(i)):{},o(a||!i||!i.__esModule?l(n,\"default\",{value:i,enumerable:!0}):n,i)),v=i=>o(l({},\"__esModule\",{value:!0}),i);var t=g((N,d)=>{d.exports=_jsx_runtime});var f={};p(f,{default:()=>c,frontmatter:()=>w});var e=z(t()),w={title:\"Backwoods - Otantik ve Vah\\u015Fi Lezzet\",description:\"1981'den beri, Backwoods, do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131yla otantik bir puro deneyimi sunuyor. Gelenekselden \\u015Fa\\u015Fmayanlar\\u0131n tercihi.\",date:\"2024-01-15\",authors:[{name:\"\\xDCr\\xFCn Uzmanlar\\u0131\",role:\"Pazarlama Departman\\u0131\",avatar:\"/avatars/marketing-team.jpg\"}],brandName:\"Backwoods\",logo:\"/images/brands/backwoods-logo.svg\",foundedYear:1981,headquarters:\"Richmond, Virginia, ABD\",website:\"https://www.backwoodscigars.com\",published:!0,categories:[\"natural-leaf\",\"flavored-cigarillos\",\"rustic\"],gallery:[{src:\"/images/brands/backwoods-original.jpg\",alt:\"Backwoods Original puro\",caption:\"Do\\u011Fal yaprak sarg\\u0131l\\u0131 ikonik g\\xF6r\\xFCn\\xFCm\"},{src:\"/images/brands/backwoods-flavors.jpg\",alt:\"Backwoods aromal\\u0131 \\xE7e\\u015Fitleri\",caption:\"Zengin aroma se\\xE7enekleri\"},{src:\"/images/brands/backwoods-lifestyle.jpg\",alt:\"Backwoods keyfi\",caption:\"A\\xE7\\u0131k havada rahat ve do\\u011Fal bir deneyim\"},{src:\"/images/brands/backwoods-packaging.jpg\",alt:\"Backwoods paket tasar\\u0131m\\u0131\",caption:\"Sert ve rustik ambalaj\"}]};function k(i){let a={a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",p:\"p\",span:\"span\",strong:\"strong\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.h1,{id:\"backwoods-vah\\u015Fi-ruhun-\\xE7a\\u011Fr\\u0131s\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-vah\\u015Fi-ruhun-\\xE7a\\u011Fr\\u0131s\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Backwoods: Vah\\u015Fi Ruhun \\xC7a\\u011Fr\\u0131s\\u0131\"]}),`\n`,(0,e.jsxs)(a.p,{children:[\"1981 y\\u0131l\\u0131nda Amerika'da do\\u011Fan \",(0,e.jsx)(a.strong,{children:\"Backwoods\"}),\", t\\xFCt\\xFCn d\\xFCnyas\\u0131nda kendine has bir yol \\xE7izerek otantik ve rustik bir deneyim arayanlar\\u0131n vazge\\xE7ilmezi oldu. Do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131 ve hafif konik \\u015Fekliyle, bir purodan \\xE7ok daha fazlas\\u0131n\\u0131 sunar: \",(0,e.jsx)(a.strong,{children:\"\\xD6zg\\xFCrl\\xFC\\u011F\\xFCn ve do\\u011Fall\\u0131\\u011F\\u0131n sembol\\xFCd\\xFCr.\"}),\" Backwoods, geleneksel puro d\\xFCnyas\\u0131n\\u0131n kat\\u0131 kurallar\\u0131ndan s\\u0131yr\\u0131larak, herkesin ula\\u015Fabilece\\u011Fi bir otantiklik sunar.\"]}),`\n`,(0,e.jsxs)(a.h2,{id:\"e\\u015Fsiz-yap\\u0131-ve-otantik-lezzet\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#e\\u015Fsiz-yap\\u0131-ve-otantik-lezzet\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"E\\u015Fsiz Yap\\u0131 ve Otantik Lezzet\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Backwoods'u di\\u011Ferlerinden ay\\u0131ran en belirgin \\xF6zellik, tamamen do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131 kullan\\u0131larak sar\\u0131lmas\\u0131d\\u0131r. Bu d\\xFCzensiz ve hafif\\xE7e p\\xFCr\\xFCzl\\xFC sarg\\u0131, \\xFCr\\xFCn\\xFCn rustik ve otantik karakterini vurgular. \\u0130\\xE7 harman\\u0131ndaki kaliteli t\\xFCt\\xFCn, d\\u0131\\u015F sarg\\u0131n\\u0131n zengin aromas\\u0131yla m\\xFCkemmel bir uyum yakalayarak, doyurucu ve p\\xFCr\\xFCzs\\xFCz bir i\\xE7im sa\\u011Flar. Her bir Backwoods, el yap\\u0131m\\u0131 hissi veren \\xF6zg\\xFCn formuyla bir sanat eseri gibidir.\"}),`\n`,(0,e.jsxs)(a.h2,{id:\"geni\\u015F-aroma-yelpazesi-her-palete-uygun-bir-se\\xE7enek\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#geni\\u015F-aroma-yelpazesi-her-palete-uygun-bir-se\\xE7enek\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Geni\\u015F Aroma Yelpazesi: Her Palete Uygun Bir Se\\xE7enek\"]}),`\n`,(0,e.jsxs)(a.p,{children:[\"Backwoods, sadece do\\u011Fal lezzetiyle de\\u011Fil, ayn\\u0131 zamanda sundu\\u011Fu zengin aroma \\xE7e\\u015Fitlili\\u011Fiyle de tan\\u0131n\\u0131r. Marka, t\\xFCt\\xFCn\\xFCn kendi karakterini bozmadan, onu tamamlayan do\\u011Fal tatlarla harmanlar. \",(0,e.jsx)(a.strong,{children:\"Original\"}),\"'den \",(0,e.jsx)(a.strong,{children:\"Sweet Aromatic\"}),\"'e, \",(0,e.jsx)(a.strong,{children:\"Honey Berry\"}),\"'den \",(0,e.jsx)(a.strong,{children:\"Black N' Sweet\"}),\"'e kadar uzanan geni\\u015F yelpazesiyle her kullan\\u0131c\\u0131, kendi damak tad\\u0131na uygun bir se\\xE7ene\\u011Fi mutlaka bulur. Bu \\xE7e\\u015Fitlilik, Backwoods'u hem yeni ba\\u015Flayanlar hem de deneyimli kullan\\u0131c\\u0131lar i\\xE7in cazip k\\u0131lar.\"]}),`\n`,(0,e.jsxs)(a.h2,{id:\"neden-backwoods\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-backwoods\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Neden Backwoods?\"]}),`\n`,(0,e.jsxs)(a.h3,{id:\"ayk\\u0131r\\u0131-duru\\u015F\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#ayk\\u0131r\\u0131-duru\\u015F\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Ayk\\u0131r\\u0131 Duru\\u015F\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Backwoods, g\\xF6steri\\u015Fli ve resm\\xEE puro k\\xFClt\\xFCr\\xFCn\\xFCn d\\u0131\\u015F\\u0131nda, samimi ve rahat bir alternatif sunar. Kalabal\\u0131\\u011F\\u0131n aras\\u0131ndan s\\u0131yr\\u0131larak kendi yolunu \\xE7izenlerin tercihidir.\"}),`\n`,(0,e.jsxs)(a.h3,{id:\"do\\u011Fal-sarg\\u0131\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#do\\u011Fal-sarg\\u0131\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Do\\u011Fal Sarg\\u0131\"]}),`\n`,(0,e.jsx)(a.p,{children:\"%100 do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131yla sar\\u0131lmas\\u0131, ona e\\u015Fsiz bir tat ve koku profili kazand\\u0131r\\u0131r. Bu, hi\\xE7bir fabrikasyon \\xFCr\\xFCnde bulunamayacak bir otantiklik sa\\u011Flar.\"}),`\n`,(0,e.jsxs)(a.h3,{id:\"eri\\u015Filebilirlik\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#eri\\u015Filebilirlik\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Eri\\u015Filebilirlik\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Premium bir deneyimi daha ula\\u015F\\u0131labilir bir fiyat noktas\\u0131nda sunarak, t\\xFCt\\xFCn keyfinin demokratikle\\u015Fmesini sa\\u011Flar. L\\xFCks\\xFCn herkes i\\xE7in eri\\u015Filebilir olabilece\\u011Fini g\\xF6sterir.\"}),`\n`,(0,e.jsxs)(a.h3,{id:\"dayan\\u0131kl\\u0131l\\u0131k\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#dayan\\u0131kl\\u0131l\\u0131k\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Dayan\\u0131kl\\u0131l\\u0131k\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Sert ve sa\\u011Flam yap\\u0131s\\u0131 sayesinde d\\u0131\\u015F mekan kullan\\u0131m\\u0131 i\\xE7in idealdir. Yan\\u0131n\\u0131zda kolayca ta\\u015F\\u0131yabilir ve do\\u011Fada, kamp ate\\u015Fi ba\\u015F\\u0131nda ya da bir nehir kenar\\u0131nda rahat\\xE7a keyfini s\\xFCrebilirsiniz.\"}),`\n`,(0,e.jsxs)(a.h2,{id:\"backwoods-deneyimi-\\xF6zg\\xFCrl\\xFCk-ve-ke\\u015Fif\",children:[(0,e.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-deneyimi-\\xF6zg\\xFCrl\\xFCk-ve-ke\\u015Fif\",children:(0,e.jsx)(a.span,{className:\"icon icon-link\"})}),\"Backwoods Deneyimi: \\xD6zg\\xFCrl\\xFCk ve Ke\\u015Fif\"]}),`\n`,(0,e.jsx)(a.p,{children:\"Backwoods, sadece bir t\\xFCt\\xFCn \\xFCr\\xFCn\\xFC de\\u011Fildir; bir maceran\\u0131n ba\\u015Flang\\u0131c\\u0131d\\u0131r. A\\xE7\\u0131k havada, arkada\\u015Flar\\u0131n\\u0131zla veya tek ba\\u015F\\u0131n\\u0131za ge\\xE7irece\\u011Finiz huzurlu bir an\\u0131n en iyi e\\u015Flik\\xE7isidir. Stresten uzakla\\u015Fmak, do\\u011Fayla yeniden ba\\u011F kurmak ve an\\u0131n tad\\u0131n\\u0131 \\xE7\\u0131karmak i\\xE7in ideal bir se\\xE7imdir. Backwoods deneyimi, \\xF6zg\\xFCrl\\xFC\\u011F\\xFC ve sadeli\\u011Fi arayan ruhlar i\\xE7in bir davettir.\"}),`\n`,(0,e.jsxs)(a.p,{children:[\"Backwoods, l\\xFCks ve g\\xF6steri\\u015F yerine, otantiklik ve \\xF6zg\\xFCrl\\xFC\\u011F\\xFC tercih edenler i\\xE7in bir sembold\\xFCr. E\\u011Fer siz de ruhunuzdaki vah\\u015Fi sesi dinlemek ve ger\\xE7ek bir t\\xFCt\\xFCn deneyimi ya\\u015Famak istiyorsan\\u0131z, \",(0,e.jsx)(a.strong,{children:\"Backwoods d\\xFCnyas\\u0131na ad\\u0131m at\\u0131n.\"})]})]})}function c(i={}){let{wrapper:a}=i.components||{};return a?(0,e.jsx)(a,{...i,children:(0,e.jsx)(k,{...i})}):k(i)}return v(f);})();\n;return Component;"
+  },
+  "_id": "brands/03-backwoods.mdx",
+  "_raw": {
+    "sourceFilePath": "brands/03-backwoods.mdx",
+    "sourceFileName": "03-backwoods.mdx",
+    "sourceFileDir": "brands",
+    "contentType": "mdx",
+    "flattenedPath": "brands/03-backwoods"
+  },
+  "type": "Brand",
+  "slug": "/brands/backwoods",
+  "slugAsParams": "backwoods",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#backwoods-vahsi-ruhun-cagrisi",
+        "title": "Backwoods: Vahşi Ruhun Çağrısı",
+        "items": [
+          {
+            "url": "#essiz-yapi-ve-otantik-lezzet",
+            "title": "Eşsiz Yapı ve Otantik Lezzet"
+          },
+          {
+            "url": "#genis-aroma-yelpazesi-her-palete-uygun-bir-secenek",
+            "title": "Geniş Aroma Yelpazesi: Her Palete Uygun Bir Seçenek"
+          },
+          {
+            "url": "#neden-backwoods",
+            "title": "Neden Backwoods?",
+            "items": [
+              {
+                "url": "#aykiri-durus",
+                "title": "Aykırı Duruş"
+              },
+              {
+                "url": "#dogal-sargi",
+                "title": "Doğal Sargı"
+              },
+              {
+                "url": "#erisilebilirlik",
+                "title": "Erişilebilirlik"
+              },
+              {
+                "url": "#dayaniklilik",
+                "title": "Dayanıklılık"
+              }
+            ]
+          },
+          {
+            "url": "#backwoods-deneyimi-ozgurluk-ve-kesif",
+            "title": "Backwoods Deneyimi: Özgürlük ve Keşif"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "brands",
+      "href": "/brands"
+    },
+    {
+      "label": "backwoods",
+      "href": "/brands/backwoods"
+    }
+  ]
+}

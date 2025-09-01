@@ -1,0 +1,145 @@
+{
+  "title": "Riverstone - Doğal ve Özgün Lezzet",
+  "description": "Riverstone, doğadan ilham alan tütün harmanıyla, sade ve özgün bir deneyim sunar. Tütünün en saf haline yolculuk.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Ürün Uzmanları",
+      "role": "Kategori Yöneticisi",
+      "avatar": "/avatars/product-expert.jpg",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Riverstone",
+  "categoryName": "Riverstone",
+  "cover": "/images/riverstone-original-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/riverstone-1.jpg",
+      "alt": "Riverstone paketi",
+      "caption": "Minimalist ve doğal tasarım",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/riverstone-2.jpg",
+      "alt": "Riverstone detay",
+      "caption": "Pürüzsüz yapraklar",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/riverstone-3.jpg",
+      "alt": "Riverstone lifestyle",
+      "caption": "Doğayla iç içe bir an",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Doğal Harman",
+      "description": "Katkısız ve saf tütün karışımı",
+      "icon": "natural",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Hafif İçim",
+      "description": "Yumuşak ve rahat bir deneyim",
+      "icon": "light",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Minimalist Tasarım",
+      "description": "Sade ve şık estetik",
+      "icon": "minimalist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Özgün Tat",
+      "description": "Eşsiz ve otantik lezzet",
+      "icon": "authentic",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "targetAudience": "Sadelik ve doğallığı tercih eden, hafif içim arayan ve yapaylıktan uzak duran sigara içicileri.",
+  "priceRange": "Orta-Premium segment",
+  "body": {
+    "raw": "\n## Doğanın İçinden Bir Lezzet\n\nRiverstone, tütünün doğal ve sade lezzetini keşfetmek isteyenler için yaratıldı. **Katkısız ve hafif harmanıyla**, tütünün özünü en saf haliyle sunar. Bu, doğadan ilham alan, basit ama tatmin edici bir deneyimdir.\n\n### Neden Riverstone?\n\n**Saf Tütün** - Gereksiz katkılardan arındırılmış deneyim\n**Hafif Dokunuş** - Boğazı yormayan, pürüzsüz içim\n**Özgün Karakter** - Başka hiçbir yerde bulunmayan otantik lezzet\n**Sade Tasarım** - Doğal felsefesini yansıtan minimalist görünüm\n\n## Ürün Detayları\n\nRiverstone'un **özel harmanı**, tütün yapraklarının doğal aromasını koruyacak şekilde işlenir. **Hafif çekim** ve **yumuşak tat** profiliyle öne çıkarak, ferahlatıcı ve rahatlatıcı bir deneyim sunar.\n\n### Özel Özellikler\n\n- **Doğal harman** - Yapay aroma ve katkı maddesi içermez\n- **84mm uzunluk** - Standart ve rahat boyut\n- **Hafif güç** - Günlük kullanım için ideal\n- **Özel kağıt** - Yanma hızını optimize eden özel üretim\n\n## Kimler İçin Uygun?\n\nRiverstone özellikle şu kişiler için tasarlandı:\n\n- **Hafif** ve yumuşak içimden hoşlananlar\n- **Doğal** ve sade lezzet arayanlar\n- **Minimalist** ve özgün tasarıma önem verenler\n- **Doğayla** ve sadelikle bağ kurmak isteyenler\n\n## Satın Alma Önerileri\n\n### Deneyim Seviyesine Göre\n\n**Yeni Başlayanlar**: Yumuşak ve hafif yapısı sayesinde ideal başlangıç noktası\n**Deneyimli İçiciler**: Günlük kullanım için farklı, doğal bir alternatif\n**Doğallığı Tercih Edenler**: Piyasadaki en saf tütün deneyimlerinden biri\n\n### Özel Durumlar\n\n- **Sakin** ve huzurlu anlar için ideal\n- **Doğa yürüyüşleri** veya dış mekan etkinlikleri\n- **Farklı ve özgün** bir lezzet arandığında\n\n## Fark Yaratan Detaylar\n\nRiverstone'u özel kılan unsurlar:\n\n1. **Sadece Tütün** - En saf ve yalın hali\n2. **Doğal İşleme** - Lezzeti koruyan özel yöntemler\n3. **Hafif Profil** - Boğazı yormayan konfor\n4. **Eşsiz Duruş** - Kendi yolunda ilerleyen bir marka\n\n---\n\n*Riverstone ile tütünün en doğal haline dönün. Basit bir lezzetten daha fazlası.*",
+    "code": "var Component=(()=>{var m=Object.create;var l=Object.defineProperty;var k=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var z=(a,n)=>()=>(n||a((n={exports:{}}).exports,n),n.exports),f=(a,n)=>{for(var i in n)l(a,i,{get:n[i],enumerable:!0})},s=(a,n,i,t)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let r of u(n))!y.call(a,r)&&r!==i&&l(a,r,{get:()=>n[r],enumerable:!(t=k(n,r))||t.enumerable});return a};var v=(a,n,i)=>(i=a!=null?m(g(a)):{},s(n||!a||!a.__esModule?l(i,\"default\",{value:a,enumerable:!0}):i,a)),p=a=>s(l({},\"__esModule\",{value:!0}),a);var d=z((R,o)=>{o.exports=_jsx_runtime});var N={};f(N,{default:()=>h,frontmatter:()=>b});var e=v(d()),b={title:\"Riverstone - Do\\u011Fal ve \\xD6zg\\xFCn Lezzet\",description:\"Riverstone, do\\u011Fadan ilham alan t\\xFCt\\xFCn harman\\u0131yla, sade ve \\xF6zg\\xFCn bir deneyim sunar. T\\xFCt\\xFCn\\xFCn en saf haline yolculuk.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"\\xDCr\\xFCn Uzmanlar\\u0131\",role:\"Kategori Y\\xF6neticisi\",avatar:\"/avatars/product-expert.jpg\"}],brandName:\"Riverstone\",categoryName:\"Riverstone\",cover:\"/images/riverstone-original-cover.jpg\",gallery:[{src:\"/images/riverstone-1.jpg\",alt:\"Riverstone paketi\",caption:\"Minimalist ve do\\u011Fal tasar\\u0131m\"},{src:\"/images/riverstone-2.jpg\",alt:\"Riverstone detay\",caption:\"P\\xFCr\\xFCzs\\xFCz yapraklar\"},{src:\"/images/riverstone-3.jpg\",alt:\"Riverstone lifestyle\",caption:\"Do\\u011Fayla i\\xE7 i\\xE7e bir an\"}],features:[{title:\"Do\\u011Fal Harman\",description:\"Katk\\u0131s\\u0131z ve saf t\\xFCt\\xFCn kar\\u0131\\u015F\\u0131m\\u0131\",icon:\"natural\"},{title:\"Hafif \\u0130\\xE7im\",description:\"Yumu\\u015Fak ve rahat bir deneyim\",icon:\"light\"},{title:\"Minimalist Tasar\\u0131m\",description:\"Sade ve \\u015F\\u0131k estetik\",icon:\"minimalist\"},{title:\"\\xD6zg\\xFCn Tat\",description:\"E\\u015Fsiz ve otantik lezzet\",icon:\"authentic\"}],targetAudience:\"Sadelik ve do\\u011Fall\\u0131\\u011F\\u0131 tercih eden, hafif i\\xE7im arayan ve yapayl\\u0131ktan uzak duran sigara i\\xE7icileri.\",priceRange:\"Orta-Premium segment\",published:!0};function c(a){let n={a:\"a\",em:\"em\",h2:\"h2\",h3:\"h3\",hr:\"hr\",li:\"li\",ol:\"ol\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...a.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(n.h2,{id:\"do\\u011Fan\\u0131n-i\\u0307\\xE7inden-bir-lezzet\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#do\\u011Fan\\u0131n-i\\u0307\\xE7inden-bir-lezzet\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Do\\u011Fan\\u0131n \\u0130\\xE7inden Bir Lezzet\"]}),`\n`,(0,e.jsxs)(n.p,{children:[\"Riverstone, t\\xFCt\\xFCn\\xFCn do\\u011Fal ve sade lezzetini ke\\u015Ffetmek isteyenler i\\xE7in yarat\\u0131ld\\u0131. \",(0,e.jsx)(n.strong,{children:\"Katk\\u0131s\\u0131z ve hafif harman\\u0131yla\"}),\", t\\xFCt\\xFCn\\xFCn \\xF6z\\xFCn\\xFC en saf haliyle sunar. Bu, do\\u011Fadan ilham alan, basit ama tatmin edici bir deneyimdir.\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"neden-riverstone\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-riverstone\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Neden Riverstone?\"]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Saf T\\xFCt\\xFCn\"}),` - Gereksiz katk\\u0131lardan ar\\u0131nd\\u0131r\\u0131lm\\u0131\\u015F deneyim\n`,(0,e.jsx)(n.strong,{children:\"Hafif Dokunu\\u015F\"}),` - Bo\\u011Faz\\u0131 yormayan, p\\xFCr\\xFCzs\\xFCz i\\xE7im\n`,(0,e.jsx)(n.strong,{children:\"\\xD6zg\\xFCn Karakter\"}),` - Ba\\u015Fka hi\\xE7bir yerde bulunmayan otantik lezzet\n`,(0,e.jsx)(n.strong,{children:\"Sade Tasar\\u0131m\"}),\" - Do\\u011Fal felsefesini yans\\u0131tan minimalist g\\xF6r\\xFCn\\xFCm\"]}),`\n`,(0,e.jsxs)(n.h2,{id:\"\\xFCr\\xFCn-detaylar\\u0131\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xFCr\\xFCn-detaylar\\u0131\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xDCr\\xFCn Detaylar\\u0131\"]}),`\n`,(0,e.jsxs)(n.p,{children:[\"Riverstone'un \",(0,e.jsx)(n.strong,{children:\"\\xF6zel harman\\u0131\"}),\", t\\xFCt\\xFCn yapraklar\\u0131n\\u0131n do\\u011Fal aromas\\u0131n\\u0131 koruyacak \\u015Fekilde i\\u015Flenir. \",(0,e.jsx)(n.strong,{children:\"Hafif \\xE7ekim\"}),\" ve \",(0,e.jsx)(n.strong,{children:\"yumu\\u015Fak tat\"}),\" profiliyle \\xF6ne \\xE7\\u0131karak, ferahlat\\u0131c\\u0131 ve rahatlat\\u0131c\\u0131 bir deneyim sunar.\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"\\xF6zel-\\xF6zellikler\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-\\xF6zellikler\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xD6zel \\xD6zellikler\"]}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Do\\u011Fal harman\"}),\" - Yapay aroma ve katk\\u0131 maddesi i\\xE7ermez\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"84mm uzunluk\"}),\" - Standart ve rahat boyut\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Hafif g\\xFC\\xE7\"}),\" - G\\xFCnl\\xFCk kullan\\u0131m i\\xE7in ideal\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"\\xD6zel ka\\u011F\\u0131t\"}),\" - Yanma h\\u0131z\\u0131n\\u0131 optimize eden \\xF6zel \\xFCretim\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"kimler-i\\u0307\\xE7in-uygun\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-uygun\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Uygun?\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Riverstone \\xF6zellikle \\u015Fu ki\\u015Filer i\\xE7in tasarland\\u0131:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Hafif\"}),\" ve yumu\\u015Fak i\\xE7imden ho\\u015Flananlar\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Do\\u011Fal\"}),\" ve sade lezzet arayanlar\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Minimalist\"}),\" ve \\xF6zg\\xFCn tasar\\u0131ma \\xF6nem verenler\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Do\\u011Fayla\"}),\" ve sadelikle ba\\u011F kurmak isteyenler\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"sat\\u0131n-alma-\\xF6nerileri\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sat\\u0131n-alma-\\xF6nerileri\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Sat\\u0131n Alma \\xD6nerileri\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"deneyim-seviyesine-g\\xF6re\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#deneyim-seviyesine-g\\xF6re\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Deneyim Seviyesine G\\xF6re\"]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Yeni Ba\\u015Flayanlar\"}),`: Yumu\\u015Fak ve hafif yap\\u0131s\\u0131 sayesinde ideal ba\\u015Flang\\u0131\\xE7 noktas\\u0131\n`,(0,e.jsx)(n.strong,{children:\"Deneyimli \\u0130\\xE7iciler\"}),`: G\\xFCnl\\xFCk kullan\\u0131m i\\xE7in farkl\\u0131, do\\u011Fal bir alternatif\n`,(0,e.jsx)(n.strong,{children:\"Do\\u011Fall\\u0131\\u011F\\u0131 Tercih Edenler\"}),\": Piyasadaki en saf t\\xFCt\\xFCn deneyimlerinden biri\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"\\xF6zel-durumlar\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-durumlar\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xD6zel Durumlar\"]}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Sakin\"}),\" ve huzurlu anlar i\\xE7in ideal\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Do\\u011Fa y\\xFCr\\xFCy\\xFC\\u015Fleri\"}),\" veya d\\u0131\\u015F mekan etkinlikleri\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Farkl\\u0131 ve \\xF6zg\\xFCn\"}),\" bir lezzet arand\\u0131\\u011F\\u0131nda\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"fark-yaratan-detaylar\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#fark-yaratan-detaylar\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Fark Yaratan Detaylar\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Riverstone'u \\xF6zel k\\u0131lan unsurlar:\"}),`\n`,(0,e.jsxs)(n.ol,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Sadece T\\xFCt\\xFCn\"}),\" - En saf ve yal\\u0131n hali\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Do\\u011Fal \\u0130\\u015Fleme\"}),\" - Lezzeti koruyan \\xF6zel y\\xF6ntemler\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Hafif Profil\"}),\" - Bo\\u011Faz\\u0131 yormayan konfor\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"E\\u015Fsiz Duru\\u015F\"}),\" - Kendi yolunda ilerleyen bir marka\"]}),`\n`]}),`\n`,(0,e.jsx)(n.hr,{}),`\n`,(0,e.jsx)(n.p,{children:(0,e.jsx)(n.em,{children:\"Riverstone ile t\\xFCt\\xFCn\\xFCn en do\\u011Fal haline d\\xF6n\\xFCn. Basit bir lezzetten daha fazlas\\u0131.\"})})]})}function h(a={}){let{wrapper:n}=a.components||{};return n?(0,e.jsx)(n,{...a,children:(0,e.jsx)(c,{...a})}):c(a)}return p(N);})();\n;return Component;"
+  },
+  "_id": "categories/06-riverstone.mdx",
+  "_raw": {
+    "sourceFilePath": "categories/06-riverstone.mdx",
+    "sourceFileName": "06-riverstone.mdx",
+    "sourceFileDir": "categories",
+    "contentType": "mdx",
+    "flattenedPath": "categories/06-riverstone"
+  },
+  "type": "Category",
+  "slug": "/categories/riverstone",
+  "slugAsParams": "riverstone",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#doganin-icinden-bir-lezzet",
+        "title": "Doğanın İçinden Bir Lezzet",
+        "items": [
+          {
+            "url": "#neden-riverstone",
+            "title": "Neden Riverstone?"
+          }
+        ]
+      },
+      {
+        "url": "#urun-detaylari",
+        "title": "Ürün Detayları",
+        "items": [
+          {
+            "url": "#ozel-ozellikler",
+            "title": "Özel Özellikler"
+          }
+        ]
+      },
+      {
+        "url": "#kimler-icin-uygun",
+        "title": "Kimler İçin Uygun?"
+      },
+      {
+        "url": "#satin-alma-onerileri",
+        "title": "Satın Alma Önerileri",
+        "items": [
+          {
+            "url": "#deneyim-seviyesine-gore",
+            "title": "Deneyim Seviyesine Göre"
+          },
+          {
+            "url": "#ozel-durumlar",
+            "title": "Özel Durumlar"
+          }
+        ]
+      },
+      {
+        "url": "#fark-yaratan-detaylar",
+        "title": "Fark Yaratan Detaylar"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "categories",
+      "href": "/categories"
+    },
+    {
+      "label": "riverstone",
+      "href": "/categories/riverstone"
+    }
+  ]
+}

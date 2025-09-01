@@ -1,0 +1,126 @@
+# -----------------------------
+# Node.js / Next.js Temel
+# -----------------------------
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# -----------------------------
+# Build dosyaları / Geçici dosyalar
+# -----------------------------
+*.log
+*.tsbuildinfo
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.tgz
+*.cache/
+.cache-loader/
+coverage/
+*.pid
+*.seed
+*.pid.lock
+
+# -----------------------------
+# OS (İşletim Sistemi) Dosyaları
+# -----------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+*.lnk
+
+# Linux
+*~
+
+# -----------------------------
+# Git / Commit / Merge Dosyaları
+# -----------------------------
+*.orig
+*.rej
+*.sublime-workspace
+*.swp
+*.swo
+
+# -----------------------------
+# Editor / IDE Dosyaları
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# -----------------------------
+# Test / Coverage / Cypress
+# -----------------------------
+coverage/
+.nyc_output/
+cypress/screenshots/
+cypress/videos/
+test-output/
+playwright-report/
+test-results/
+
+# -----------------------------
+# Next.js Export (Statik HTML)
+# -----------------------------
+out/
+
+# -----------------------------
+# Docker
+# -----------------------------
+docker-compose.override.yml
+.docker/
+*.dockerfile
+*.env.docker
+
+# -----------------------------
+# Typescript
+# -----------------------------
+*.tsbuildinfo
+
+# -----------------------------
+# Paket Yöneticileri
+# -----------------------------
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+shrinkwrap.yaml
+
+# (isteğe bağlı olarak silebilirsiniz)
+
+# -----------------------------
+# ESLint / Prettier
+# -----------------------------
+.eslintcache
+.prettiercache
+
+# -----------------------------
+# Optional: Local veritabanı, cache, tmp, diğer
+# -----------------------------
+tmp/
+temp/
+logs/
+local.db
+sqlite.db
+*.sqlite

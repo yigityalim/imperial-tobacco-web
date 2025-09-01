@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Superslims Classic Magnum - Zamansız Miktar",
+  "description": "Davidoff Superslims Classic Magnum, geleneksel tütün lezzetini daha büyük ve ekonomik bir paketle sunarak, klasik sevenler için uzun süreli bir keyif sağlar.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Superslims",
+  "productName": "Classic Magnum",
+  "sku": "DVF-SSLIMS-CLASSIC-MAG-25",
+  "price": 240,
+  "currency": "TRY",
+  "cover": "/images/davidoff-superslims-classic-magnum-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-superslims-classic-magnum-pack.jpg",
+      "alt": "Davidoff Superslims Classic Magnum paketi",
+      "caption": "Ekonomik ve pratik 25'li paket",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-classic-magnum-detail.jpg",
+      "alt": "Davidoff Superslims Classic Magnum sigara detayı",
+      "caption": "İnce yapılı, klasik lezzet",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Beyaz",
+  "nicotineLevel": "0.7 mg",
+  "tarLevel": "7 mg",
+  "packSize": 25,
+  "specifications": [
+    {
+      "name": "Paket Tipi",
+      "value": "Magnum (25 adet)",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.0 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Tütün Tipi",
+      "value": "Klasik karışım",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Ekonomik ve Bol",
+      "description": "25 adet sigara ile daha uzun süren, kesintisiz bir deneyim.",
+      "icon": "magnum",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Zengin ve Klasik Aroma",
+      "description": "Yıllardır sevilen dolgun tütün lezzeti.",
+      "icon": "classic",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "İnce ve Şık",
+      "description": "Superslims formatı sayesinde zarif ve kolay taşınabilir.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "superslims",
+    "klasik",
+    "magnum",
+    "ince",
+    "ekonomik"
+  ],
+  "sortOrder": 10,
+  "body": {
+    "raw": "\n# Davidoff Superslims Classic Magnum - Geleneksel Lezzetin Büyük Hali\n\nDavidoff Superslims Classic Magnum, **klasik tütün aromasını** sevenler için hem dolgun bir lezzet hem de **daha fazla miktar** sunar. Standart Superslims Classic'in tanıdık tadını, 25'li Magnum paketiyle birleştirerek tütün keyfinizi daha uzun süre ve daha ekonomik bir şekilde yaşamanızı sağlar. Bu ürün, hem sofistike bir içim arayanlara hem de pratik çözümleri tercih edenlere hitap eder.\n\n## Magnum Paketin Avantajları\n\n- **Ekonomi ve Miktar:** 25 adet sigara içeren paket, standart 20'li paketlere göre fiyat-performans avantajı sunar. Sık tüketiciler için ideal bir çözümdür.\n- **Kesintisiz Keyif:** Daha uzun ömürlü paket, sık sık yeni paket alma ihtiyacını ortadan kaldırarak tütün keyfinizi kesintisiz sürdürmenize olanak tanır.\n- **Güvenilir Tat:** Yıllardır değişmeyen klasik Davidoff kalitesi, her sigarada aynı dolgun ve tutarlı lezzeti sunar.\n\n## Kalite ve Pratiklik Bir Arada\n\nSuperslims Classic Magnum, **0.7 mg nikotin** ve **7 mg katran** seviyeleriyle güçlü ve tatmin edici bir içime sahiptir. İnce ve uzun yapısı, zarif bir duruş sergilerken, Davidoff'a özgü klasik tütün karışımı her nefeste dolgun bir tat bırakır. Bu ürün, tütünün geleneksel lezzetini modern ve pratik bir formatta arayanlar için mükemmel bir tercihtir.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Superslims Classic Magnum, özellikle şu profillere hitap eder:\n* **Gelenekselciler:** Alışılagelmiş, dolgun tütün aromasını sevenler.\n* **Sık Tüketiciler:** Kaliteden ödün vermeden, daha uygun fiyatlı ve pratik bir çözüm arayanlar.\n* **Modern Kullanıcılar:** İnce ve şık tasarımıyla öne çıkan ürünleri tercih edenler.\n\n---\n\n**Davidoff Superslims Classic Magnum** ile hem ekonomik hem de kaliteli bir tütün deneyimine adım atın. Daha fazla sigara, daha fazla keyif.\n\n*Hemen deneyin ve pratikliğin lüksle nasıl birleştiğini görün.*",
+    "code": "var Component=(()=>{var k=Object.create;var l=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var f=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),v=(i,e)=>{for(var n in e)l(i,n,{get:e[n],enumerable:!0})},t=(i,e,n,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of h(e))!p.call(i,r)&&r!==n&&l(i,r,{get:()=>e[r],enumerable:!(s=u(e,r))||s.enumerable});return i};var z=(i,e,n)=>(n=i!=null?k(g(i)):{},t(e||!i||!i.__esModule?l(n,\"default\",{value:i,enumerable:!0}):n,i)),y=i=>t(l({},\"__esModule\",{value:!0}),i);var d=f((C,m)=>{m.exports=_jsx_runtime});var M={};v(M,{default:()=>o,frontmatter:()=>b});var a=z(d()),b={title:\"Davidoff Superslims Classic Magnum - Zamans\\u0131z Miktar\",description:\"Davidoff Superslims Classic Magnum, geleneksel t\\xFCt\\xFCn lezzetini daha b\\xFCy\\xFCk ve ekonomik bir paketle sunarak, klasik sevenler i\\xE7in uzun s\\xFCreli bir keyif sa\\u011Flar.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Superslims\",productName:\"Classic Magnum\",sku:\"DVF-SSLIMS-CLASSIC-MAG-25\",price:240,currency:\"TRY\",cover:\"/images/davidoff-superslims-classic-magnum-cover.png\",gallery:[{src:\"/images/davidoff-superslims-classic-magnum-pack.jpg\",alt:\"Davidoff Superslims Classic Magnum paketi\",caption:\"Ekonomik ve pratik 25'li paket\"},{src:\"/images/davidoff-superslims-classic-magnum-detail.jpg\",alt:\"Davidoff Superslims Classic Magnum sigara detay\\u0131\",caption:\"\\u0130nce yap\\u0131l\\u0131, klasik lezzet\"}],filterColor:\"Beyaz\",nicotineLevel:\"0.7 mg\",tarLevel:\"7 mg\",packSize:25,specifications:[{name:\"Paket Tipi\",value:\"Magnum (25 adet)\"},{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.0 mm\"},{name:\"T\\xFCt\\xFCn Tipi\",value:\"Klasik kar\\u0131\\u015F\\u0131m\"}],features:[{title:\"Ekonomik ve Bol\",description:\"25 adet sigara ile daha uzun s\\xFCren, kesintisiz bir deneyim.\",icon:\"magnum\"},{title:\"Zengin ve Klasik Aroma\",description:\"Y\\u0131llard\\u0131r sevilen dolgun t\\xFCt\\xFCn lezzeti.\",icon:\"classic\"},{title:\"\\u0130nce ve \\u015E\\u0131k\",description:\"Superslims format\\u0131 sayesinde zarif ve kolay ta\\u015F\\u0131nabilir.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"superslims\",\"klasik\",\"magnum\",\"ince\",\"ekonomik\"],sortOrder:10};function c(i){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...i.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h1,{id:\"davidoff-superslims-classic-magnum---geleneksel-lezzetin-b\\xFCy\\xFCk-hali\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-superslims-classic-magnum---geleneksel-lezzetin-b\\xFCy\\xFCk-hali\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Davidoff Superslims Classic Magnum - Geleneksel Lezzetin B\\xFCy\\xFCk Hali\"]}),`\n`,(0,a.jsxs)(e.p,{children:[\"Davidoff Superslims Classic Magnum, \",(0,a.jsx)(e.strong,{children:\"klasik t\\xFCt\\xFCn aromas\\u0131n\\u0131\"}),\" sevenler i\\xE7in hem dolgun bir lezzet hem de \",(0,a.jsx)(e.strong,{children:\"daha fazla miktar\"}),\" sunar. Standart Superslims Classic'in tan\\u0131d\\u0131k tad\\u0131n\\u0131, 25'li Magnum paketiyle birle\\u015Ftirerek t\\xFCt\\xFCn keyfinizi daha uzun s\\xFCre ve daha ekonomik bir \\u015Fekilde ya\\u015Faman\\u0131z\\u0131 sa\\u011Flar. Bu \\xFCr\\xFCn, hem sofistike bir i\\xE7im arayanlara hem de pratik \\xE7\\xF6z\\xFCmleri tercih edenlere hitap eder.\"]}),`\n`,(0,a.jsxs)(e.h2,{id:\"magnum-paketin-avantajlar\\u0131\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#magnum-paketin-avantajlar\\u0131\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Magnum Paketin Avantajlar\\u0131\"]}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Ekonomi ve Miktar:\"}),\" 25 adet sigara i\\xE7eren paket, standart 20'li paketlere g\\xF6re fiyat-performans avantaj\\u0131 sunar. S\\u0131k t\\xFCketiciler i\\xE7in ideal bir \\xE7\\xF6z\\xFCmd\\xFCr.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Kesintisiz Keyif:\"}),\" Daha uzun \\xF6m\\xFCrl\\xFC paket, s\\u0131k s\\u0131k yeni paket alma ihtiyac\\u0131n\\u0131 ortadan kald\\u0131rarak t\\xFCt\\xFCn keyfinizi kesintisiz s\\xFCrd\\xFCrmenize olanak tan\\u0131r.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"G\\xFCvenilir Tat:\"}),\" Y\\u0131llard\\u0131r de\\u011Fi\\u015Fmeyen klasik Davidoff kalitesi, her sigarada ayn\\u0131 dolgun ve tutarl\\u0131 lezzeti sunar.\"]}),`\n`]}),`\n`,(0,a.jsxs)(e.h2,{id:\"kalite-ve-pratiklik-bir-arada\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kalite-ve-pratiklik-bir-arada\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kalite ve Pratiklik Bir Arada\"]}),`\n`,(0,a.jsxs)(e.p,{children:[\"Superslims Classic Magnum, \",(0,a.jsx)(e.strong,{children:\"0.7 mg nikotin\"}),\" ve \",(0,a.jsx)(e.strong,{children:\"7 mg katran\"}),\" seviyeleriyle g\\xFC\\xE7l\\xFC ve tatmin edici bir i\\xE7ime sahiptir. \\u0130nce ve uzun yap\\u0131s\\u0131, zarif bir duru\\u015F sergilerken, Davidoff'a \\xF6zg\\xFC klasik t\\xFCt\\xFCn kar\\u0131\\u015F\\u0131m\\u0131 her nefeste dolgun bir tat b\\u0131rak\\u0131r. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn\\xFCn geleneksel lezzetini modern ve pratik bir formatta arayanlar i\\xE7in m\\xFCkemmel bir tercihtir.\"]}),`\n`,(0,a.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,a.jsx)(e.p,{children:\"Davidoff Superslims Classic Magnum, \\xF6zellikle \\u015Fu profillere hitap eder:\"}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Gelenekselciler:\"}),\" Al\\u0131\\u015F\\u0131lagelmi\\u015F, dolgun t\\xFCt\\xFCn aromas\\u0131n\\u0131 sevenler.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"S\\u0131k T\\xFCketiciler:\"}),\" Kaliteden \\xF6d\\xFCn vermeden, daha uygun fiyatl\\u0131 ve pratik bir \\xE7\\xF6z\\xFCm arayanlar.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Modern Kullan\\u0131c\\u0131lar:\"}),\" \\u0130nce ve \\u015F\\u0131k tasar\\u0131m\\u0131yla \\xF6ne \\xE7\\u0131kan \\xFCr\\xFCnleri tercih edenler.\"]}),`\n`]}),`\n`,(0,a.jsx)(e.hr,{}),`\n`,(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Davidoff Superslims Classic Magnum\"}),\" ile hem ekonomik hem de kaliteli bir t\\xFCt\\xFCn deneyimine ad\\u0131m at\\u0131n. Daha fazla sigara, daha fazla keyif.\"]}),`\n`,(0,a.jsx)(e.p,{children:(0,a.jsx)(e.em,{children:\"Hemen deneyin ve pratikli\\u011Fin l\\xFCksle nas\\u0131l birle\\u015Fti\\u011Fini g\\xF6r\\xFCn.\"})})]})}function o(i={}){let{wrapper:e}=i.components||{};return e?(0,a.jsx)(e,{...i,children:(0,a.jsx)(c,{...i})}):c(i)}return y(M);})();\n;return Component;"
+  },
+  "_id": "products/11-davidoff-classic-magnum.mdx",
+  "_raw": {
+    "sourceFilePath": "products/11-davidoff-classic-magnum.mdx",
+    "sourceFileName": "11-davidoff-classic-magnum.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/11-davidoff-classic-magnum"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-classic-magnum",
+  "slugAsParams": "davidoff-classic-magnum",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-superslims-classic-magnum-geleneksel-lezzetin-buyuk-hali",
+        "title": "Davidoff Superslims Classic Magnum - Geleneksel Lezzetin Büyük Hali",
+        "items": [
+          {
+            "url": "#magnum-paketin-avantajlari",
+            "title": "Magnum Paketin Avantajları"
+          },
+          {
+            "url": "#kalite-ve-pratiklik-bir-arada",
+            "title": "Kalite ve Pratiklik Bir Arada"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff classic magnum",
+      "href": "/products/davidoff-classic-magnum"
+    }
+  ]
+}

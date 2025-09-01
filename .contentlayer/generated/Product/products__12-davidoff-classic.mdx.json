@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Classic - Zamanın Ötesinde Bir Klasik",
+  "description": "Davidoff Classic, markanın efsanevi tütün harmanını ve geleneksel kalitesini bir araya getiriyor. Zamansız bir deneyim.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Classic",
+  "productName": "Classic",
+  "sku": "DVF-CLASSIC-20",
+  "price": 205,
+  "currency": "TRY",
+  "cover": "/images/davidoff-classic-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-classic-pack.jpg",
+      "alt": "Davidoff Classic paketi",
+      "caption": "Zarafet ve sadeliği yansıtan ikonik ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-classic-detail.jpg",
+      "alt": "Davidoff Classic filtre detayı",
+      "caption": "Markanın imza filtresi",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "White",
+  "nicotineLevel": "0.8 mg",
+  "tarLevel": "8 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "84 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "7.8 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Standart Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Klasik Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Efsanevi Harman",
+      "description": "Yılların deneyimiyle oluşturulmuş, zengin ve dengeli bir lezzet.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Mükemmel Denge",
+      "description": "Ne çok hafif ne de çok yoğun; ideal bir içim gücü.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Zamansız Tasarım",
+      "description": "Markanın mirasını taşıyan ikonik ambalaj estetiği.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": true,
+  "newProduct": false,
+  "tags": [
+    "classic",
+    "davidoff",
+    "premium",
+    "zamansız",
+    "ikonik"
+  ],
+  "sortOrder": 12,
+  "body": {
+    "raw": "\n# Davidoff Classic - Kalite ve Geleneğin Mirası\n\n**Davidoff Classic**, markanın köklü mirasının ve mükemmellik arayışının somut bir yansımasıdır. Yılların deneyimiyle ustaca harmanlanan tütünleri, **zamansız bir zarafet** ve tatmin edici bir deneyim arayanlar için eşsiz bir tercih sunar.\n\n## Zamanın Ötesinde Bir Tütün Deneyimi\n\nClassic'i farklı kılan, her detayıyla özenle düşünülmüş olmasıdır. En iyi tütünlerin bir araya geldiği bu özel harman, hem yumuşak hem de dolgun bir lezzet profili oluşturur. Ne çok hafif, ne de çok yoğun olan yapısı, Davidoff'un imza dengesini en iyi şekilde yansıtır.\n\n## Yenilikçi Özellikler\n\n- **Yüksek Kalite**: Her bir tütün yaprağı, Davidoff'un titiz kalite standartlarına göre seçilir ve işlenir.\n- **Mükemmel Denge**: Ne çok hafif ne de çok yoğun; ideal bir içim gücüyle tütünün gerçek tadını alırsınız.\n- **Geleneksel Boyut**: Standart 84mm uzunluğu ve 7.8mm çapıyla, klasik sigara formu ve konforu sunar.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Classic, kaliteden ödün vermeyen, gelenekselci ve deneyimli tütün kullanıcıları için idealdir.\n* **Geleneksel İçiciler:** Zamanın ötesinde, klasik ve güvenilir bir tat arayanlar.\n* **Kalite Odaklı Tüketiciler:** Markanın mirasına ve üstün işçiliğine önem verenler.\n* **Dengeli Tat Arayanlar:** Ne çok hafif ne de çok ağır, ideal bir lezzet dengesi isteyenler.\n\n---\n\n**Davidoff Classic** ile tütün dünyasının efsanevi tadını deneyimleyin. Bu ürün, Davidoff'un kalite ve geleneğe olan bağlılığının bir kanıtıdır.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var k=Object.create;var r=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),y=(n,e)=>{for(var a in e)r(n,a,{get:e[a],enumerable:!0})},s=(n,e,a,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let l of h(e))!g.call(n,l)&&l!==a&&r(n,l,{get:()=>e[l],enumerable:!(t=f(e,l))||t.enumerable});return n};var p=(n,e,a)=>(a=n!=null?k(u(n)):{},s(e||!n||!n.__esModule?r(a,\"default\",{value:n,enumerable:!0}):a,n)),b=n=>s(r({},\"__esModule\",{value:!0}),n);var c=v((N,d)=>{d.exports=_jsx_runtime});var D={};y(D,{default:()=>m,frontmatter:()=>z});var i=p(c()),z={title:\"Davidoff Classic - Zaman\\u0131n \\xD6tesinde Bir Klasik\",description:\"Davidoff Classic, markan\\u0131n efsanevi t\\xFCt\\xFCn harman\\u0131n\\u0131 ve geleneksel kalitesini bir araya getiriyor. Zamans\\u0131z bir deneyim.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Classic\",productName:\"Classic\",sku:\"DVF-CLASSIC-20\",price:205,currency:\"TRY\",cover:\"/images/davidoff-classic-cover.png\",gallery:[{src:\"/images/davidoff-classic-pack.jpg\",alt:\"Davidoff Classic paketi\",caption:\"Zarafet ve sadeli\\u011Fi yans\\u0131tan ikonik ambalaj\"},{src:\"/images/davidoff-classic-detail.jpg\",alt:\"Davidoff Classic filtre detay\\u0131\",caption:\"Markan\\u0131n imza filtresi\"}],filterColor:\"White\",nicotineLevel:\"0.8 mg\",tarLevel:\"8 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"84 mm\"},{name:\"\\xC7ap\",value:\"7.8 mm\"},{name:\"Filtre Tipi\",value:\"Standart Filtre\"},{name:\"Aroma\",value:\"Klasik T\\xFCt\\xFCn\"}],features:[{title:\"Efsanevi Harman\",description:\"Y\\u0131llar\\u0131n deneyimiyle olu\\u015Fturulmu\\u015F, zengin ve dengeli bir lezzet.\",icon:\"capsule\"},{title:\"M\\xFCkemmel Denge\",description:\"Ne \\xE7ok hafif ne de \\xE7ok yo\\u011Fun; ideal bir i\\xE7im g\\xFCc\\xFC.\",icon:\"flavor-twist\"},{title:\"Zamans\\u0131z Tasar\\u0131m\",description:\"Markan\\u0131n miras\\u0131n\\u0131 ta\\u015F\\u0131yan ikonik ambalaj esteti\\u011Fi.\",icon:\"superslim\"}],inStock:!0,featured:!0,newProduct:!1,tags:[\"classic\",\"davidoff\",\"premium\",\"zamans\\u0131z\",\"ikonik\"],sortOrder:12};function o(n){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(e.h1,{id:\"davidoff-classic---kalite-ve-gelene\\u011Fin-miras\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-classic---kalite-ve-gelene\\u011Fin-miras\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Davidoff Classic - Kalite ve Gelene\\u011Fin Miras\\u0131\"]}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Classic\"}),\", markan\\u0131n k\\xF6kl\\xFC miras\\u0131n\\u0131n ve m\\xFCkemmellik aray\\u0131\\u015F\\u0131n\\u0131n somut bir yans\\u0131mas\\u0131d\\u0131r. Y\\u0131llar\\u0131n deneyimiyle ustaca harmanlanan t\\xFCt\\xFCnleri, \",(0,i.jsx)(e.strong,{children:\"zamans\\u0131z bir zarafet\"}),\" ve tatmin edici bir deneyim arayanlar i\\xE7in e\\u015Fsiz bir tercih sunar.\"]}),`\n`,(0,i.jsxs)(e.h2,{id:\"zaman\\u0131n-\\xF6tesinde-bir-t\\xFCt\\xFCn-deneyimi\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#zaman\\u0131n-\\xF6tesinde-bir-t\\xFCt\\xFCn-deneyimi\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Zaman\\u0131n \\xD6tesinde Bir T\\xFCt\\xFCn Deneyimi\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Classic'i farkl\\u0131 k\\u0131lan, her detay\\u0131yla \\xF6zenle d\\xFC\\u015F\\xFCn\\xFClm\\xFC\\u015F olmas\\u0131d\\u0131r. En iyi t\\xFCt\\xFCnlerin bir araya geldi\\u011Fi bu \\xF6zel harman, hem yumu\\u015Fak hem de dolgun bir lezzet profili olu\\u015Fturur. Ne \\xE7ok hafif, ne de \\xE7ok yo\\u011Fun olan yap\\u0131s\\u0131, Davidoff'un imza dengesini en iyi \\u015Fekilde yans\\u0131t\\u0131r.\"}),`\n`,(0,i.jsxs)(e.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Y\\xFCksek Kalite\"}),\": Her bir t\\xFCt\\xFCn yapra\\u011F\\u0131, Davidoff'un titiz kalite standartlar\\u0131na g\\xF6re se\\xE7ilir ve i\\u015Flenir.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"M\\xFCkemmel Denge\"}),\": Ne \\xE7ok hafif ne de \\xE7ok yo\\u011Fun; ideal bir i\\xE7im g\\xFCc\\xFCyle t\\xFCt\\xFCn\\xFCn ger\\xE7ek tad\\u0131n\\u0131 al\\u0131rs\\u0131n\\u0131z.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Geleneksel Boyut\"}),\": Standart 84mm uzunlu\\u011Fu ve 7.8mm \\xE7ap\\u0131yla, klasik sigara formu ve konforu sunar.\"]}),`\n`]}),`\n`,(0,i.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Davidoff Classic, kaliteden \\xF6d\\xFCn vermeyen, gelenekselci ve deneyimli t\\xFCt\\xFCn kullan\\u0131c\\u0131lar\\u0131 i\\xE7in idealdir.\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Geleneksel \\u0130\\xE7iciler:\"}),\" Zaman\\u0131n \\xF6tesinde, klasik ve g\\xFCvenilir bir tat arayanlar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Kalite Odakl\\u0131 T\\xFCketiciler:\"}),\" Markan\\u0131n miras\\u0131na ve \\xFCst\\xFCn i\\u015F\\xE7ili\\u011Fine \\xF6nem verenler.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Dengeli Tat Arayanlar:\"}),\" Ne \\xE7ok hafif ne de \\xE7ok a\\u011F\\u0131r, ideal bir lezzet dengesi isteyenler.\"]}),`\n`]}),`\n`,(0,i.jsx)(e.hr,{}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Classic\"}),\" ile t\\xFCt\\xFCn d\\xFCnyas\\u0131n\\u0131n efsanevi tad\\u0131n\\u0131 deneyimleyin. Bu \\xFCr\\xFCn, Davidoff'un kalite ve gelene\\u011Fe olan ba\\u011Fl\\u0131l\\u0131\\u011F\\u0131n\\u0131n bir kan\\u0131t\\u0131d\\u0131r.\"]}),`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(n={}){let{wrapper:e}=n.components||{};return e?(0,i.jsx)(e,{...n,children:(0,i.jsx)(o,{...n})}):o(n)}return b(D);})();\n;return Component;"
+  },
+  "_id": "products/12-davidoff-classic.mdx",
+  "_raw": {
+    "sourceFilePath": "products/12-davidoff-classic.mdx",
+    "sourceFileName": "12-davidoff-classic.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/12-davidoff-classic"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-classic",
+  "slugAsParams": "davidoff-classic",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-classic-kalite-ve-gelenegin-mirasi",
+        "title": "Davidoff Classic - Kalite ve Geleneğin Mirası",
+        "items": [
+          {
+            "url": "#zamanin-otesinde-bir-tutun-deneyimi",
+            "title": "Zamanın Ötesinde Bir Tütün Deneyimi"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff classic",
+      "href": "/products/davidoff-classic"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Davidoff Magnum - Cesur Duruş",
+  "description": "Davidoff Magnum, dolgun tütün lezzeti ve güçlü yapısıyla öne çıkıyor. Klasikten vazgeçmeyenlerin tercihi.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Ürün Uzmanları",
+      "role": "Kategori Yöneticisi",
+      "avatar": "/avatars/product-expert.jpg",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Magnum",
+  "cover": "/images/davidoff-superslims-classic-magnum-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-magnum-1.jpg",
+      "alt": "Davidoff Magnum paketi",
+      "caption": "Güçlü ve belirgin ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-magnum-2.jpg",
+      "alt": "Davidoff Magnum detay",
+      "caption": "Dolgun ve tok yapısı",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-magnum-3.jpg",
+      "alt": "Davidoff Magnum lifestyle",
+      "caption": "Geleneksel duruşun simgesi",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Dolgun Lezzet",
+      "description": "Zengin ve yoğun tütün profili",
+      "icon": "full-flavor",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Kalın Kesim",
+      "description": "Geleneksel boyutta güçlü yapı",
+      "icon": "bold-cut",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Güçlü Çekim",
+      "description": "Tok bir deneyim sunar",
+      "icon": "strong",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Premium Kalite",
+      "description": "Seçilmiş tütün harmanı",
+      "icon": "premium",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "targetAudience": "Güçlü ve dolgun lezzetleri tercih eden, gelenekselci ve deneyimli sigara içicileri.",
+  "priceRange": "Premium segment",
+  "body": {
+    "raw": "\n## Cesur ve Dolgun Lezzet\n\nDavidoff Magnum, tütünün en saf ve en güçlü halini sunuyor. **Klasik kalın boyutuyla** geleneksel sigara içimini modern bir dokunuşla yeniden canlandırıyor. Sadece bir sigara değil, tünün gerçek gücünü simgeliyor.\n\n### Neden Davidoff Magnum?\n\n**Tam Gövdeli Tat** - Zengin ve tatmin edici tütün deneyimi\n**Mükemmel Kalite** - Davidoff'un ustalığı ve özenle seçilmiş harman\n**Güven Veren Yapı** - Sağlam ve tok hissettiren boyut\n**Zamansız Duruş** - Klasikten vazgeçmeyenlerin favorisi\n\n## Ürün Detayları\n\nDavidoff Magnum'un **geleneksel kalın tasarımı**, doyurucu bir çekim deneyimi sağlıyor. Yoğun tütün aroması ve **güçlü çekim profiliyle** öne çıkan bu ürün, tütünün zengin karakterini tam olarak yansıtıyor.\n\n### Özel Özellikler\n\n- **Kalın çap** - Geleneksel ve tok bir deneyim için\n- **84mm uzunluk** - Standart ve konforlu boyut\n- **Yoğun harman** - Güçlü ve zengin tütün karışımı\n- **Premium filtre** - Pürüzsüz ve keyifli bir içim için\n\n## Kimler İçin Uygun?\n\nDavidoff Magnum özellikle şu kişiler için tasarlandı:\n\n- **Güçlü lezzet** arayan deneyimli içiciler\n- **Geleneksel** sigara deneyimini tercih edenler\n- **Kalın** ve tok sigara yapısından hoşlananlar\n- **Güvenilir** ve zamansız bir tercih yapmak isteyenler\n\n## Satın Alma Önerileri\n\n### Deneyim Seviyesine Göre\n\n**Yeni Başlayanlar**: Güçlü profili nedeniyle dikkatli tercih edilmeli\n**Deneyimli İçiciler**: Tamamen doyurucu ve tanıdık bir lezzet\n**Klasik Tercih Edenler**: Geleneksel sigara deneyiminin en üst noktası\n\n### Özel Durumlar\n\n- **Rahatlamak** istenen anlar için ideal\n- **Özel buluşmalar** veya keyifli sohbetler\n- **Klasik** bir tercih yapmak istendiğinde\n\n## Fark Yaratan Detaylar\n\nDavidoff Magnum'u özel kılan unsurlar:\n\n1. **İsviçre Kalitesi** - Davidoff'un eşsiz uzmanlığı\n2. **Yoğun Tütün** - Güçlü ve zengin harman\n3. **Tok Duruş** - Elinizde hissedilir sağlamlık\n4. **Zamansız Estetik** - Klasik ve modernin buluşması\n\n---\n\n*Davidoff Magnum ile tütünün gerçek gücünü hissedin. Klasik bir lezzet arayanlara özel.*",
+    "code": "var Component=(()=>{var h=Object.create;var r=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var k=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),v=(i,n)=>{for(var a in n)r(i,a,{get:n[a],enumerable:!0})},t=(i,n,a,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let l of g(n))!f.call(i,l)&&l!==a&&r(i,l,{get:()=>n[l],enumerable:!(s=u(n,l))||s.enumerable});return i};var p=(i,n,a)=>(a=i!=null?h(k(i)):{},t(n||!i||!i.__esModule?r(a,\"default\",{value:i,enumerable:!0}):a,i)),z=i=>t(r({},\"__esModule\",{value:!0}),i);var c=y((G,d)=>{d.exports=_jsx_runtime});var D={};v(D,{default:()=>m,frontmatter:()=>b});var e=p(c()),b={title:\"Davidoff Magnum - Cesur Duru\\u015F\",description:\"Davidoff Magnum, dolgun t\\xFCt\\xFCn lezzeti ve g\\xFC\\xE7l\\xFC yap\\u0131s\\u0131yla \\xF6ne \\xE7\\u0131k\\u0131yor. Klasikten vazge\\xE7meyenlerin tercihi.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"\\xDCr\\xFCn Uzmanlar\\u0131\",role:\"Kategori Y\\xF6neticisi\",avatar:\"/avatars/product-expert.jpg\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Magnum\",cover:\"/images/davidoff-superslims-classic-magnum-cover.png\",gallery:[{src:\"/images/davidoff-magnum-1.jpg\",alt:\"Davidoff Magnum paketi\",caption:\"G\\xFC\\xE7l\\xFC ve belirgin ambalaj\"},{src:\"/images/davidoff-magnum-2.jpg\",alt:\"Davidoff Magnum detay\",caption:\"Dolgun ve tok yap\\u0131s\\u0131\"},{src:\"/images/davidoff-magnum-3.jpg\",alt:\"Davidoff Magnum lifestyle\",caption:\"Geleneksel duru\\u015Fun simgesi\"}],features:[{title:\"Dolgun Lezzet\",description:\"Zengin ve yo\\u011Fun t\\xFCt\\xFCn profili\",icon:\"full-flavor\"},{title:\"Kal\\u0131n Kesim\",description:\"Geleneksel boyutta g\\xFC\\xE7l\\xFC yap\\u0131\",icon:\"bold-cut\"},{title:\"G\\xFC\\xE7l\\xFC \\xC7ekim\",description:\"Tok bir deneyim sunar\",icon:\"strong\"},{title:\"Premium Kalite\",description:\"Se\\xE7ilmi\\u015F t\\xFCt\\xFCn harman\\u0131\",icon:\"premium\"}],targetAudience:\"G\\xFC\\xE7l\\xFC ve dolgun lezzetleri tercih eden, gelenekselci ve deneyimli sigara i\\xE7icileri.\",priceRange:\"Premium segment\",published:!0};function o(i){let n={a:\"a\",em:\"em\",h2:\"h2\",h3:\"h3\",hr:\"hr\",li:\"li\",ol:\"ol\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(n.h2,{id:\"cesur-ve-dolgun-lezzet\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#cesur-ve-dolgun-lezzet\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Cesur ve Dolgun Lezzet\"]}),`\n`,(0,e.jsxs)(n.p,{children:[\"Davidoff Magnum, t\\xFCt\\xFCn\\xFCn en saf ve en g\\xFC\\xE7l\\xFC halini sunuyor. \",(0,e.jsx)(n.strong,{children:\"Klasik kal\\u0131n boyutuyla\"}),\" geleneksel sigara i\\xE7imini modern bir dokunu\\u015Fla yeniden canland\\u0131r\\u0131yor. Sadece bir sigara de\\u011Fil, t\\xFCn\\xFCn ger\\xE7ek g\\xFCc\\xFCn\\xFC simgeliyor.\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"neden-davidoff-magnum\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-davidoff-magnum\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Neden Davidoff Magnum?\"]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Tam G\\xF6vdeli Tat\"}),` - Zengin ve tatmin edici t\\xFCt\\xFCn deneyimi\n`,(0,e.jsx)(n.strong,{children:\"M\\xFCkemmel Kalite\"}),` - Davidoff'un ustal\\u0131\\u011F\\u0131 ve \\xF6zenle se\\xE7ilmi\\u015F harman\n`,(0,e.jsx)(n.strong,{children:\"G\\xFCven Veren Yap\\u0131\"}),` - Sa\\u011Flam ve tok hissettiren boyut\n`,(0,e.jsx)(n.strong,{children:\"Zamans\\u0131z Duru\\u015F\"}),\" - Klasikten vazge\\xE7meyenlerin favorisi\"]}),`\n`,(0,e.jsxs)(n.h2,{id:\"\\xFCr\\xFCn-detaylar\\u0131\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xFCr\\xFCn-detaylar\\u0131\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xDCr\\xFCn Detaylar\\u0131\"]}),`\n`,(0,e.jsxs)(n.p,{children:[\"Davidoff Magnum'un \",(0,e.jsx)(n.strong,{children:\"geleneksel kal\\u0131n tasar\\u0131m\\u0131\"}),\", doyurucu bir \\xE7ekim deneyimi sa\\u011Fl\\u0131yor. Yo\\u011Fun t\\xFCt\\xFCn aromas\\u0131 ve \",(0,e.jsx)(n.strong,{children:\"g\\xFC\\xE7l\\xFC \\xE7ekim profiliyle\"}),\" \\xF6ne \\xE7\\u0131kan bu \\xFCr\\xFCn, t\\xFCt\\xFCn\\xFCn zengin karakterini tam olarak yans\\u0131t\\u0131yor.\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"\\xF6zel-\\xF6zellikler\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-\\xF6zellikler\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xD6zel \\xD6zellikler\"]}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Kal\\u0131n \\xE7ap\"}),\" - Geleneksel ve tok bir deneyim i\\xE7in\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"84mm uzunluk\"}),\" - Standart ve konforlu boyut\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Yo\\u011Fun harman\"}),\" - G\\xFC\\xE7l\\xFC ve zengin t\\xFCt\\xFCn kar\\u0131\\u015F\\u0131m\\u0131\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Premium filtre\"}),\" - P\\xFCr\\xFCzs\\xFCz ve keyifli bir i\\xE7im i\\xE7in\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"kimler-i\\u0307\\xE7in-uygun\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-uygun\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Uygun?\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Davidoff Magnum \\xF6zellikle \\u015Fu ki\\u015Filer i\\xE7in tasarland\\u0131:\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"G\\xFC\\xE7l\\xFC lezzet\"}),\" arayan deneyimli i\\xE7iciler\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Geleneksel\"}),\" sigara deneyimini tercih edenler\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Kal\\u0131n\"}),\" ve tok sigara yap\\u0131s\\u0131ndan ho\\u015Flananlar\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"G\\xFCvenilir\"}),\" ve zamans\\u0131z bir tercih yapmak isteyenler\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"sat\\u0131n-alma-\\xF6nerileri\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sat\\u0131n-alma-\\xF6nerileri\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Sat\\u0131n Alma \\xD6nerileri\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"deneyim-seviyesine-g\\xF6re\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#deneyim-seviyesine-g\\xF6re\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Deneyim Seviyesine G\\xF6re\"]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Yeni Ba\\u015Flayanlar\"}),`: G\\xFC\\xE7l\\xFC profili nedeniyle dikkatli tercih edilmeli\n`,(0,e.jsx)(n.strong,{children:\"Deneyimli \\u0130\\xE7iciler\"}),`: Tamamen doyurucu ve tan\\u0131d\\u0131k bir lezzet\n`,(0,e.jsx)(n.strong,{children:\"Klasik Tercih Edenler\"}),\": Geleneksel sigara deneyiminin en \\xFCst noktas\\u0131\"]}),`\n`,(0,e.jsxs)(n.h3,{id:\"\\xF6zel-durumlar\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-durumlar\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\xD6zel Durumlar\"]}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Rahatlamak\"}),\" istenen anlar i\\xE7in ideal\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"\\xD6zel bulu\\u015Fmalar\"}),\" veya keyifli sohbetler\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Klasik\"}),\" bir tercih yapmak istendi\\u011Finde\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"fark-yaratan-detaylar\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#fark-yaratan-detaylar\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Fark Yaratan Detaylar\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Davidoff Magnum'u \\xF6zel k\\u0131lan unsurlar:\"}),`\n`,(0,e.jsxs)(n.ol,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"\\u0130svi\\xE7re Kalitesi\"}),\" - Davidoff'un e\\u015Fsiz uzmanl\\u0131\\u011F\\u0131\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Yo\\u011Fun T\\xFCt\\xFCn\"}),\" - G\\xFC\\xE7l\\xFC ve zengin harman\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Tok Duru\\u015F\"}),\" - Elinizde hissedilir sa\\u011Flaml\\u0131k\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Zamans\\u0131z Estetik\"}),\" - Klasik ve modernin bulu\\u015Fmas\\u0131\"]}),`\n`]}),`\n`,(0,e.jsx)(n.hr,{}),`\n`,(0,e.jsx)(n.p,{children:(0,e.jsx)(n.em,{children:\"Davidoff Magnum ile t\\xFCt\\xFCn\\xFCn ger\\xE7ek g\\xFCc\\xFCn\\xFC hissedin. Klasik bir lezzet arayanlara \\xF6zel.\"})})]})}function m(i={}){let{wrapper:n}=i.components||{};return n?(0,e.jsx)(n,{...i,children:(0,e.jsx)(o,{...i})}):o(i)}return z(D);})();\n;return Component;"
+  },
+  "_id": "categories/04-davidoff-magnum.mdx",
+  "_raw": {
+    "sourceFilePath": "categories/04-davidoff-magnum.mdx",
+    "sourceFileName": "04-davidoff-magnum.mdx",
+    "sourceFileDir": "categories",
+    "contentType": "mdx",
+    "flattenedPath": "categories/04-davidoff-magnum"
+  },
+  "type": "Category",
+  "slug": "/categories/davidoff-magnum",
+  "slugAsParams": "davidoff-magnum",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#cesur-ve-dolgun-lezzet",
+        "title": "Cesur ve Dolgun Lezzet",
+        "items": [
+          {
+            "url": "#neden-davidoff-magnum",
+            "title": "Neden Davidoff Magnum?"
+          }
+        ]
+      },
+      {
+        "url": "#urun-detaylari",
+        "title": "Ürün Detayları",
+        "items": [
+          {
+            "url": "#ozel-ozellikler",
+            "title": "Özel Özellikler"
+          }
+        ]
+      },
+      {
+        "url": "#kimler-icin-uygun",
+        "title": "Kimler İçin Uygun?"
+      },
+      {
+        "url": "#satin-alma-onerileri",
+        "title": "Satın Alma Önerileri",
+        "items": [
+          {
+            "url": "#deneyim-seviyesine-gore",
+            "title": "Deneyim Seviyesine Göre"
+          },
+          {
+            "url": "#ozel-durumlar",
+            "title": "Özel Durumlar"
+          }
+        ]
+      },
+      {
+        "url": "#fark-yaratan-detaylar",
+        "title": "Fark Yaratan Detaylar"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "categories",
+      "href": "/categories"
+    },
+    {
+      "label": "davidoff magnum",
+      "href": "/categories/davidoff-magnum"
+    }
+  ]
+}

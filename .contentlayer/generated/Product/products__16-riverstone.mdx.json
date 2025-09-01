@@ -1,0 +1,150 @@
+{
+  "title": "Riverstone Original - Saf ve Katkısız",
+  "description": "Riverstone'un imza ürünü, doğadan ilham alan sade ve katkısız tütün deneyimi sunar.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Riverstone",
+  "categoryName": "Riverstone",
+  "productName": "Original",
+  "sku": "RIVER-ORIGINAL-20",
+  "price": 180,
+  "currency": "TRY",
+  "cover": "/images/riverstone-original-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/riverstone-original-pack.jpg",
+      "alt": "Riverstone Original paketi",
+      "caption": "Sade ve şık, geri dönüştürülebilir ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/riverstone-original-detail.jpg",
+      "alt": "Riverstone Original filtre detayı",
+      "caption": "Doğal malzemelerle üretilmiş filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Brown",
+  "nicotineLevel": "0.5 mg",
+  "tarLevel": "5 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "84 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "7.2 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Selüloz Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Sade Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Katkısız Harman",
+      "description": "Hiçbir yapay aroma veya kimyasal katkı maddesi içermez.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Doğal İçim",
+      "description": "Tütünün en saf lezzetini, boğazı yormayan yumuşak bir dokunuşla sunar.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Minimalist Tasarım",
+      "description": "Gereksiz detaylardan arındırılmış, çevre dostu ambalaj.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "riverstone",
+    "doğal",
+    "katkısız",
+    "sade",
+    "minimalist"
+  ],
+  "sortOrder": 17,
+  "body": {
+    "raw": "\n# Riverstone Original - Tütünün En Saf Hali\n\n**Riverstone Original**, tütünün doğal ve sade lezzetini keşfetmek isteyenler için yaratıldı. Hiçbir yapay aroma veya katkı maddesi içermeyen bu ürün, **doğanın sunduğu en saf haliyle** size benzersiz bir deneyim sunar. Sade ve minimalist ambalajıyla da felsefesini her detayda yansıtır.\n\n## Sadeliğin ve Doğallığın Buluşması\n\nPiyasadaki pek çok ürünün aksine, Riverstone'un lezzeti tütünün kendi özünden gelir. Özel harmanı, tütün yapraklarının doğal aromasını koruyacak şekilde işlenir. Bu sayede, boğazı yormayan, pürüzsüz ve ferahlatıcı bir içim sunar. Bu, tütünün en yalın ve en saf haline bir yolculuktur.\n\n## Yenilikçi Özellikler\n\n- **Katkısız Harman:** Tütün, kendi doğal lezzetini koruyarak işlenir.\n- **Doğal İçim:** **5 mg katran** ve **0.5 mg nikotin** seviyeleriyle, hem hafif hem de tatmin edici bir deneyim sunar.\n- **Minimalist Tasarım:** Estetiği ve çevre dostu yapısıyla modern tüketiciye hitap eder.\n\n## Kimler İçin Tasarlandı?\n\nRiverstone Original, sadelik ve doğallığı tercih eden, yapaylıktan uzak duran sigara kullanıcıları için idealdir.\n* **Doğallık Arayanlar:** Katkı maddesiz ve saf bir lezzet deneyimi isteyenler.\n* **Hafif İçim Severler:** Yumuşak ve pürüzsüz içimden hoşlananlar.\n* **Bilinçli Tüketiciler:** Ürünün içeriğine ve markanın değerlerine önem verenler.\n\n---\n\n**Riverstone Original** ile tütünün en saf haliyle tanışın. Bu ürün, basit bir lezzetten daha fazlası olduğunu kanıtlar.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var y=(i,e)=>()=>(e||i((e={exports:{}}).exports,e),e.exports),p=(i,e)=>{for(var a in e)l(i,a,{get:e[a],enumerable:!0})},s=(i,e,a,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of k(e))!g.call(i,r)&&r!==a&&l(i,r,{get:()=>e[r],enumerable:!(t=u(e,r))||t.enumerable});return i};var z=(i,e,a)=>(a=i!=null?h(v(i)):{},s(e||!i||!i.__esModule?l(a,\"default\",{value:i,enumerable:!0}):a,i)),f=i=>s(l({},\"__esModule\",{value:!0}),i);var d=y((j,o)=>{o.exports=_jsx_runtime});var R={};p(R,{default:()=>m,frontmatter:()=>b});var n=z(d()),b={title:\"Riverstone Original - Saf ve Katk\\u0131s\\u0131z\",description:\"Riverstone'un imza \\xFCr\\xFCn\\xFC, do\\u011Fadan ilham alan sade ve katk\\u0131s\\u0131z t\\xFCt\\xFCn deneyimi sunar.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Riverstone\",categoryName:\"Riverstone\",productName:\"Original\",sku:\"RIVER-ORIGINAL-20\",price:180,currency:\"TRY\",cover:\"/images/riverstone-original-cover.jpg\",gallery:[{src:\"/images/riverstone-original-pack.jpg\",alt:\"Riverstone Original paketi\",caption:\"Sade ve \\u015F\\u0131k, geri d\\xF6n\\xFC\\u015Ft\\xFCr\\xFClebilir ambalaj\"},{src:\"/images/riverstone-original-detail.jpg\",alt:\"Riverstone Original filtre detay\\u0131\",caption:\"Do\\u011Fal malzemelerle \\xFCretilmi\\u015F filtre\"}],filterColor:\"Brown\",nicotineLevel:\"0.5 mg\",tarLevel:\"5 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"84 mm\"},{name:\"\\xC7ap\",value:\"7.2 mm\"},{name:\"Filtre Tipi\",value:\"Sel\\xFCloz Filtre\"},{name:\"Aroma\",value:\"Sade T\\xFCt\\xFCn\"}],features:[{title:\"Katk\\u0131s\\u0131z Harman\",description:\"Hi\\xE7bir yapay aroma veya kimyasal katk\\u0131 maddesi i\\xE7ermez.\",icon:\"capsule\"},{title:\"Do\\u011Fal \\u0130\\xE7im\",description:\"T\\xFCt\\xFCn\\xFCn en saf lezzetini, bo\\u011Faz\\u0131 yormayan yumu\\u015Fak bir dokunu\\u015Fla sunar.\",icon:\"flavor-twist\"},{title:\"Minimalist Tasar\\u0131m\",description:\"Gereksiz detaylardan ar\\u0131nd\\u0131r\\u0131lm\\u0131\\u015F, \\xE7evre dostu ambalaj.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"riverstone\",\"do\\u011Fal\",\"katk\\u0131s\\u0131z\",\"sade\",\"minimalist\"],sortOrder:17};function c(i){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...i.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.h1,{id:\"riverstone-original---t\\xFCt\\xFCn\\xFCn-en-saf-hali\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#riverstone-original---t\\xFCt\\xFCn\\xFCn-en-saf-hali\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Riverstone Original - T\\xFCt\\xFCn\\xFCn En Saf Hali\"]}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Riverstone Original\"}),\", t\\xFCt\\xFCn\\xFCn do\\u011Fal ve sade lezzetini ke\\u015Ffetmek isteyenler i\\xE7in yarat\\u0131ld\\u0131. Hi\\xE7bir yapay aroma veya katk\\u0131 maddesi i\\xE7ermeyen bu \\xFCr\\xFCn, \",(0,n.jsx)(e.strong,{children:\"do\\u011Fan\\u0131n sundu\\u011Fu en saf haliyle\"}),\" size benzersiz bir deneyim sunar. Sade ve minimalist ambalaj\\u0131yla da felsefesini her detayda yans\\u0131t\\u0131r.\"]}),`\n`,(0,n.jsxs)(e.h2,{id:\"sadeli\\u011Fin-ve-do\\u011Fall\\u0131\\u011F\\u0131n-bulu\\u015Fmas\\u0131\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sadeli\\u011Fin-ve-do\\u011Fall\\u0131\\u011F\\u0131n-bulu\\u015Fmas\\u0131\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Sadeli\\u011Fin ve Do\\u011Fall\\u0131\\u011F\\u0131n Bulu\\u015Fmas\\u0131\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Piyasadaki pek \\xE7ok \\xFCr\\xFCn\\xFCn aksine, Riverstone'un lezzeti t\\xFCt\\xFCn\\xFCn kendi \\xF6z\\xFCnden gelir. \\xD6zel harman\\u0131, t\\xFCt\\xFCn yapraklar\\u0131n\\u0131n do\\u011Fal aromas\\u0131n\\u0131 koruyacak \\u015Fekilde i\\u015Flenir. Bu sayede, bo\\u011Faz\\u0131 yormayan, p\\xFCr\\xFCzs\\xFCz ve ferahlat\\u0131c\\u0131 bir i\\xE7im sunar. Bu, t\\xFCt\\xFCn\\xFCn en yal\\u0131n ve en saf haline bir yolculuktur.\"}),`\n`,(0,n.jsxs)(e.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Katk\\u0131s\\u0131z Harman:\"}),\" T\\xFCt\\xFCn, kendi do\\u011Fal lezzetini koruyarak i\\u015Flenir.\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Do\\u011Fal \\u0130\\xE7im:\"}),\" \",(0,n.jsx)(e.strong,{children:\"5 mg katran\"}),\" ve \",(0,n.jsx)(e.strong,{children:\"0.5 mg nikotin\"}),\" seviyeleriyle, hem hafif hem de tatmin edici bir deneyim sunar.\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Minimalist Tasar\\u0131m:\"}),\" Esteti\\u011Fi ve \\xE7evre dostu yap\\u0131s\\u0131yla modern t\\xFCketiciye hitap eder.\"]}),`\n`]}),`\n`,(0,n.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,n.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,n.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,n.jsx)(e.p,{children:\"Riverstone Original, sadelik ve do\\u011Fall\\u0131\\u011F\\u0131 tercih eden, yapayl\\u0131ktan uzak duran sigara kullan\\u0131c\\u0131lar\\u0131 i\\xE7in idealdir.\"}),`\n`,(0,n.jsxs)(e.ul,{children:[`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Do\\u011Fall\\u0131k Arayanlar:\"}),\" Katk\\u0131 maddesiz ve saf bir lezzet deneyimi isteyenler.\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Hafif \\u0130\\xE7im Severler:\"}),\" Yumu\\u015Fak ve p\\xFCr\\xFCzs\\xFCz i\\xE7imden ho\\u015Flananlar.\"]}),`\n`,(0,n.jsxs)(e.li,{children:[(0,n.jsx)(e.strong,{children:\"Bilin\\xE7li T\\xFCketiciler:\"}),\" \\xDCr\\xFCn\\xFCn i\\xE7eri\\u011Fine ve markan\\u0131n de\\u011Ferlerine \\xF6nem verenler.\"]}),`\n`]}),`\n`,(0,n.jsx)(e.hr,{}),`\n`,(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Riverstone Original\"}),\" ile t\\xFCt\\xFCn\\xFCn en saf haliyle tan\\u0131\\u015F\\u0131n. Bu \\xFCr\\xFCn, basit bir lezzetten daha fazlas\\u0131 oldu\\u011Funu kan\\u0131tlar.\"]}),`\n`,(0,n.jsx)(e.p,{children:(0,n.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(i={}){let{wrapper:e}=i.components||{};return e?(0,n.jsx)(e,{...i,children:(0,n.jsx)(c,{...i})}):c(i)}return f(R);})();\n;return Component;"
+  },
+  "_id": "products/16-riverstone.mdx",
+  "_raw": {
+    "sourceFilePath": "products/16-riverstone.mdx",
+    "sourceFileName": "16-riverstone.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/16-riverstone"
+  },
+  "type": "Product",
+  "slug": "/products/riverstone",
+  "slugAsParams": "riverstone",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#riverstone-original-tutunun-en-saf-hali",
+        "title": "Riverstone Original - Tütünün En Saf Hali",
+        "items": [
+          {
+            "url": "#sadeligin-ve-dogalligin-bulusmasi",
+            "title": "Sadeliğin ve Doğallığın Buluşması"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "riverstone",
+      "href": "/products/riverstone"
+    }
+  ]
+}

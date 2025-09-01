@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Superslims Magenta - Yenilikçi Lezzet",
+  "description": "Davidoff Superslims Magenta, mentol ve böğürtlen notalarını bir araya getirerek ferah ve eşsiz bir tütün deneyimi sunar.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Superslims",
+  "productName": "Magenta",
+  "sku": "DVF-SSLIMS-MAGENTA-20",
+  "price": 195,
+  "currency": "TRY",
+  "cover": "/images/davidoff-superslims-magenta-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-superslims-magenta-pack.jpg",
+      "alt": "Davidoff Superslims Magenta paketi",
+      "caption": "Canlı ve dikkat çekici magenta rengi",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-magenta-detail.jpg",
+      "alt": "Davidoff Superslims Magenta filtre detayı",
+      "caption": "Tazeleyici kapsül filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Magenta",
+  "nicotineLevel": "0.4 mg",
+  "tarLevel": "4 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.0 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Aroma Kapsüllü Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Mentol ve böğürtlen",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Mentol Kapsül Teknolojisi",
+      "description": "Filtredeki kapsül ile ferahlık seviyesini dilediğiniz gibi ayarlayın.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Çift Aroma Deneyimi",
+      "description": "Hem klasik tütün hem de mentol-böğürtlen aromalarını keşfedin.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Ekstra İnce ve Pratik",
+      "description": "Modern ve zarif tasarımıyla kolay taşınır.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": true,
+  "tags": [
+    "superslims",
+    "magenta",
+    "mentol",
+    "aromalı",
+    "yenilikçi"
+  ],
+  "sortOrder": 8,
+  "body": {
+    "raw": "\n# Davidoff Superslims Magenta - Aromanın ve Zarafetin Buluşması\n\n**Davidoff Superslims Magenta**, geleneksel tütünün ötesinde, yeni ve heyecan verici bir deneyim arayanlar için özel olarak geliştirildi. Bu ürün, **ekstra ince yapısını** can alıcı bir **mentol ve böğürtlen** aromasıyla birleştirerek sigara keyfinize modern bir dokunuş katıyor.\n\n## Benzersiz Çift Aroma Deneyimi\n\nMagenta'yı farklı kılan, filtresinde bulunan **aroma kapsülüdür**. Kapsülü patlatmadan önce pürüzsüz tütün aromasını tadabilir, patlattıktan sonra ise tazeleyici mentol ve tatlı böğürtlen notalarının ferahlatıcı etkisini hissedebilirsiniz. Bu çift katmanlı deneyim, her içimde farklı bir keşif sunar.\n\n## Yenilikçi Özellikler\n\n- **Aroma Kapsülü:** İstediğiniz an aktive edebileceğiniz bu kapsül, sigara içme deneyiminizi kişiselleştirmenizi sağlar.\n- **Ekstra İnce Tasarım:** Zarif ve modern Superslims formatı, hem estetik hem de pratik bir kullanım sunar.\n- **Hafif ve Dengeli:** **4 mg katran** ve **0.4 mg nikotin** seviyeleri, yoğun tat ve ferahlığa rağmen hafif ve pürüzsüz bir içim sağlar.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Superslims Magenta, özellikle yeni tatlar denemeyi seven, modern ve yenilikçi sigara kullanıcıları için idealdir.\n* **Lezzet Kaşifleri:** Alışılmışın dışında bir aroma arayanlar.\n* **Stil Sahipleri:** İnce ve şık bir ürünle tarzını yansıtmak isteyenler.\n* **Mentol Severler:** Klasik mentol deneyimine böğürtlenin tatlılığını eklemek isteyenler.\n\n---\n\n**Davidoff Superslims Magenta** ile hem tütünün kalitesini yaşayın hem de lezzet dolu bir maceraya atılın. Bu ürün, tütün dünyasında zarafet ve yeniliğin en parlak örneğidir.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var g=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),v=(a,e)=>{for(var n in e)l(a,n,{get:e[n],enumerable:!0})},s=(a,e,n,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of k(e))!p.call(a,r)&&r!==n&&l(a,r,{get:()=>e[r],enumerable:!(t=f(e,r))||t.enumerable});return a};var y=(a,e,n)=>(n=a!=null?h(u(a)):{},s(e||!a||!a.__esModule?l(n,\"default\",{value:a,enumerable:!0}):n,a)),z=a=>s(l({},\"__esModule\",{value:!0}),a);var m=g((D,o)=>{o.exports=_jsx_runtime});var M={};v(M,{default:()=>c,frontmatter:()=>b});var i=y(m()),b={title:\"Davidoff Superslims Magenta - Yenilik\\xE7i Lezzet\",description:\"Davidoff Superslims Magenta, mentol ve b\\xF6\\u011F\\xFCrtlen notalar\\u0131n\\u0131 bir araya getirerek ferah ve e\\u015Fsiz bir t\\xFCt\\xFCn deneyimi sunar.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Superslims\",productName:\"Magenta\",sku:\"DVF-SSLIMS-MAGENTA-20\",price:195,currency:\"TRY\",cover:\"/images/davidoff-superslims-magenta-cover.png\",gallery:[{src:\"/images/davidoff-superslims-magenta-pack.jpg\",alt:\"Davidoff Superslims Magenta paketi\",caption:\"Canl\\u0131 ve dikkat \\xE7ekici magenta rengi\"},{src:\"/images/davidoff-superslims-magenta-detail.jpg\",alt:\"Davidoff Superslims Magenta filtre detay\\u0131\",caption:\"Tazeleyici kaps\\xFCl filtre\"}],filterColor:\"Magenta\",nicotineLevel:\"0.4 mg\",tarLevel:\"4 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.0 mm\"},{name:\"Filtre Tipi\",value:\"Aroma Kaps\\xFCll\\xFC Filtre\"},{name:\"Aroma\",value:\"Mentol ve b\\xF6\\u011F\\xFCrtlen\"}],features:[{title:\"Mentol Kaps\\xFCl Teknolojisi\",description:\"Filtredeki kaps\\xFCl ile ferahl\\u0131k seviyesini diledi\\u011Finiz gibi ayarlay\\u0131n.\",icon:\"capsule\"},{title:\"\\xC7ift Aroma Deneyimi\",description:\"Hem klasik t\\xFCt\\xFCn hem de mentol-b\\xF6\\u011F\\xFCrtlen aromalar\\u0131n\\u0131 ke\\u015Ffedin.\",icon:\"flavor-twist\"},{title:\"Ekstra \\u0130nce ve Pratik\",description:\"Modern ve zarif tasar\\u0131m\\u0131yla kolay ta\\u015F\\u0131n\\u0131r.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!0,tags:[\"superslims\",\"magenta\",\"mentol\",\"aromal\\u0131\",\"yenilik\\xE7i\"],sortOrder:8};function d(a){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...a.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(e.h1,{id:\"davidoff-superslims-magenta---aroman\\u0131n-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-superslims-magenta---aroman\\u0131n-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Davidoff Superslims Magenta - Aroman\\u0131n ve Zarafetin Bulu\\u015Fmas\\u0131\"]}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Superslims Magenta\"}),\", geleneksel t\\xFCt\\xFCn\\xFCn \\xF6tesinde, yeni ve heyecan verici bir deneyim arayanlar i\\xE7in \\xF6zel olarak geli\\u015Ftirildi. Bu \\xFCr\\xFCn, \",(0,i.jsx)(e.strong,{children:\"ekstra ince yap\\u0131s\\u0131n\\u0131\"}),\" can al\\u0131c\\u0131 bir \",(0,i.jsx)(e.strong,{children:\"mentol ve b\\xF6\\u011F\\xFCrtlen\"}),\" aromas\\u0131yla birle\\u015Ftirerek sigara keyfinize modern bir dokunu\\u015F kat\\u0131yor.\"]}),`\n`,(0,i.jsxs)(e.h2,{id:\"benzersiz-\\xE7ift-aroma-deneyimi\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#benzersiz-\\xE7ift-aroma-deneyimi\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Benzersiz \\xC7ift Aroma Deneyimi\"]}),`\n`,(0,i.jsxs)(e.p,{children:[\"Magenta'y\\u0131 farkl\\u0131 k\\u0131lan, filtresinde bulunan \",(0,i.jsx)(e.strong,{children:\"aroma kaps\\xFCl\\xFCd\\xFCr\"}),\". Kaps\\xFCl\\xFC patlatmadan \\xF6nce p\\xFCr\\xFCzs\\xFCz t\\xFCt\\xFCn aromas\\u0131n\\u0131 tadabilir, patlatt\\u0131ktan sonra ise tazeleyici mentol ve tatl\\u0131 b\\xF6\\u011F\\xFCrtlen notalar\\u0131n\\u0131n ferahlat\\u0131c\\u0131 etkisini hissedebilirsiniz. Bu \\xE7ift katmanl\\u0131 deneyim, her i\\xE7imde farkl\\u0131 bir ke\\u015Fif sunar.\"]}),`\n`,(0,i.jsxs)(e.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Aroma Kaps\\xFCl\\xFC:\"}),\" \\u0130stedi\\u011Finiz an aktive edebilece\\u011Finiz bu kaps\\xFCl, sigara i\\xE7me deneyiminizi ki\\u015Fiselle\\u015Ftirmenizi sa\\u011Flar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Ekstra \\u0130nce Tasar\\u0131m:\"}),\" Zarif ve modern Superslims format\\u0131, hem estetik hem de pratik bir kullan\\u0131m sunar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Hafif ve Dengeli:\"}),\" \",(0,i.jsx)(e.strong,{children:\"4 mg katran\"}),\" ve \",(0,i.jsx)(e.strong,{children:\"0.4 mg nikotin\"}),\" seviyeleri, yo\\u011Fun tat ve ferahl\\u0131\\u011Fa ra\\u011Fmen hafif ve p\\xFCr\\xFCzs\\xFCz bir i\\xE7im sa\\u011Flar.\"]}),`\n`]}),`\n`,(0,i.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Davidoff Superslims Magenta, \\xF6zellikle yeni tatlar denemeyi seven, modern ve yenilik\\xE7i sigara kullan\\u0131c\\u0131lar\\u0131 i\\xE7in idealdir.\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Lezzet Ka\\u015Fifleri:\"}),\" Al\\u0131\\u015F\\u0131lm\\u0131\\u015F\\u0131n d\\u0131\\u015F\\u0131nda bir aroma arayanlar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Stil Sahipleri:\"}),\" \\u0130nce ve \\u015F\\u0131k bir \\xFCr\\xFCnle tarz\\u0131n\\u0131 yans\\u0131tmak isteyenler.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Mentol Severler:\"}),\" Klasik mentol deneyimine b\\xF6\\u011F\\xFCrtlenin tatl\\u0131l\\u0131\\u011F\\u0131n\\u0131 eklemek isteyenler.\"]}),`\n`]}),`\n`,(0,i.jsx)(e.hr,{}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Superslims Magenta\"}),\" ile hem t\\xFCt\\xFCn\\xFCn kalitesini ya\\u015Fay\\u0131n hem de lezzet dolu bir maceraya at\\u0131l\\u0131n. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn d\\xFCnyas\\u0131nda zarafet ve yenili\\u011Fin en parlak \\xF6rne\\u011Fidir.\"]}),`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,i.jsx)(e,{...a,children:(0,i.jsx)(d,{...a})}):d(a)}return z(M);})();\n;return Component;"
+  },
+  "_id": "products/08-davidoff-superslims-magenta.mdx",
+  "_raw": {
+    "sourceFilePath": "products/08-davidoff-superslims-magenta.mdx",
+    "sourceFileName": "08-davidoff-superslims-magenta.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/08-davidoff-superslims-magenta"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-superslims-magenta",
+  "slugAsParams": "davidoff-superslims-magenta",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-superslims-magenta-aromanin-ve-zarafetin-bulusmasi",
+        "title": "Davidoff Superslims Magenta - Aromanın ve Zarafetin Buluşması",
+        "items": [
+          {
+            "url": "#benzersiz-cift-aroma-deneyimi",
+            "title": "Benzersiz Çift Aroma Deneyimi"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff superslims magenta",
+      "href": "/products/davidoff-superslims-magenta"
+    }
+  ]
+}

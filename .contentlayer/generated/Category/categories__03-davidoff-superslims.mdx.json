@@ -1,0 +1,145 @@
+{
+  "title": "Davidoff Superslims - Zarif Tercih",
+  "description": "İnce çizgileriyle zarafeti yansıtan Davidoff Superslims serisi. Modern yaşamın sofistike tercihlerini keşfedin.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Ürün Uzmanları",
+      "role": "Kategori Yöneticisi",
+      "avatar": "/avatars/product-expert.jpg",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Superslims",
+  "cover": "/images/davidoff-superslims-gold-magnum-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/davidoff-superslims-1.jpg",
+      "alt": "Davidoff Superslims paketi",
+      "caption": "Şık tasarımıyla dikkat çeken ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-2.jpg",
+      "alt": "Davidoff Superslims detay",
+      "caption": "İnce ve zarif yapısı",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-3.jpg",
+      "alt": "Davidoff Superslims lifestyle",
+      "caption": "Modern yaşam tarzının bir parçası",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Ultra İnce Tasarım",
+      "description": "7mm çapıyla mükemmel denge",
+      "icon": "thin-line",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Premium Kalite",
+      "description": "Seçilmiş tütün karışımı",
+      "icon": "premium",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Zarif Görünüm",
+      "description": "Şık ve minimalist estetik",
+      "icon": "elegant",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Yumuşak Çekim",
+      "description": "Pürüzsüz deneyim sunar",
+      "icon": "smooth",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "targetAudience": "Zarafeti ve inceliği tercih eden, modern yaşam tarzına sahip sigara içicileri",
+  "priceRange": "Premium segment",
+  "body": {
+    "raw": "\n## Zarafetin Yeni Boyutu\n\nDavidoff Superslims, inceliği ve zarafeti bir araya getiren özel bir deneyim sunuyor. **7mm ultra ince çapıyla**, modern sigara içicilerinin beklentilerini karşılayan bu ürün, sadece bir tercih değil - bir yaşam tarzı ifadesi.\n\n### Neden Davidoff Superslims?\n\n**Kusursuz Denge** - İnce yapısına rağmen tam bir tat deneyimi\n**Premium Kalite** - Davidoff'un yılların deneyimiyle hazırlanmış karışım  \n**Şık Tasarım** - Her detayıyla özenle tasarlanmış minimalist estetik\n**Pratik Boyut** - Günlük kullanım için ideal ölçüler\n\n## Ürün Detayları\n\nDavidoff Superslims'in **ultra ince tasarımı**, sigara içme deneyimini yeniden tanımlıyor. Geleneksel sigaralara göre %30 daha ince olan bu ürün, **pürüzsüz çekim** ve **yumuşak tat** profiliyle öne çıkıyor.\n\n### Özel Özellikler\n\n- **7mm çap** - Mükemmel denge için optimize edilmiş\n- **84mm uzunluk** - Standart boyutta konfor\n- **Premium filtre** - Gelişmiş filtreleme teknolojisi\n- **Özel kağıt** - Yavaş yanma özelliği\n\n## Kimler İçin Uygun?\n\nDavidoff Superslims özellikle şu kişiler için tasarlandı:\n\n- **Zarafeti** ve **inceliği** tercih edenler\n- **Modern yaşam tarzı** sahipleri  \n- **Premium kalite** arayan deneyimli içiciler\n- **Diskret** tercihler yapan kullanıcılar\n\n## Satın Alma Önerileri\n\n### Deneyim Seviyesine Göre\n\n**Yeni Başlayanlar**: Yumuşak çekim özelliği sayesinde ideal giriş noktası\n**Deneyimli İçiciler**: Premium kalite ve sofistike tat profili  \n**Premium Tercih Edenler**: Davidoff markasının prestiji ve garantisi\n\n### Özel Durumlar\n\n- **İş toplantıları** için ideal diskret seçim\n- **Sosyal etkinlikler** için şık görünüm\n- **Günlük kullanım** için pratik boyut\n\n## Fark Yaratan Detaylar\n\nDavidoff Superslims'i özel kılan unsurlar:\n\n1. **İsviçre Kalitesi** - Davidoff'un geleneksel ustalığı\n2. **Seçkin Tütün** - Özenle seçilmiş yapraklar\n3. **Gelişmiş Teknoloji** - Modern üretim süreçleri\n4. **Estetik Tasarım** - Her açıdan mükemmel görünüm\n\n---\n\n*Davidoff Superslims ile zarafeti keşfedin. İnce çizgileriyle büyük fark yaratan bu özel deneyimi kaçırmayın.*",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var p=(n,i)=>()=>(i||n((i={exports:{}}).exports,i),i.exports),y=(n,i)=>{for(var a in i)l(n,a,{get:i[a],enumerable:!0})},t=(n,i,a,s)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let r of k(i))!g.call(n,r)&&r!==a&&l(n,r,{get:()=>i[r],enumerable:!(s=u(i,r))||s.enumerable});return n};var b=(n,i,a)=>(a=n!=null?h(f(n)):{},t(i||!n||!n.__esModule?l(a,\"default\",{value:n,enumerable:!0}):a,n)),v=n=>t(l({},\"__esModule\",{value:!0}),n);var d=p((S,c)=>{c.exports=_jsx_runtime});var D={};y(D,{default:()=>m,frontmatter:()=>z});var e=b(d()),z={title:\"Davidoff Superslims - Zarif Tercih\",description:\"\\u0130nce \\xE7izgileriyle zarafeti yans\\u0131tan Davidoff Superslims serisi. Modern ya\\u015Fam\\u0131n sofistike tercihlerini ke\\u015Ffedin.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"\\xDCr\\xFCn Uzmanlar\\u0131\",role:\"Kategori Y\\xF6neticisi\",avatar:\"/avatars/product-expert.jpg\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Superslims\",cover:\"/images/davidoff-superslims-gold-magnum-cover.jpg\",gallery:[{src:\"/images/davidoff-superslims-1.jpg\",alt:\"Davidoff Superslims paketi\",caption:\"\\u015E\\u0131k tasar\\u0131m\\u0131yla dikkat \\xE7eken ambalaj\"},{src:\"/images/davidoff-superslims-2.jpg\",alt:\"Davidoff Superslims detay\",caption:\"\\u0130nce ve zarif yap\\u0131s\\u0131\"},{src:\"/images/davidoff-superslims-3.jpg\",alt:\"Davidoff Superslims lifestyle\",caption:\"Modern ya\\u015Fam tarz\\u0131n\\u0131n bir par\\xE7as\\u0131\"}],features:[{title:\"Ultra \\u0130nce Tasar\\u0131m\",description:\"7mm \\xE7ap\\u0131yla m\\xFCkemmel denge\",icon:\"thin-line\"},{title:\"Premium Kalite\",description:\"Se\\xE7ilmi\\u015F t\\xFCt\\xFCn kar\\u0131\\u015F\\u0131m\\u0131\",icon:\"premium\"},{title:\"Zarif G\\xF6r\\xFCn\\xFCm\",description:\"\\u015E\\u0131k ve minimalist estetik\",icon:\"elegant\"},{title:\"Yumu\\u015Fak \\xC7ekim\",description:\"P\\xFCr\\xFCzs\\xFCz deneyim sunar\",icon:\"smooth\"}],targetAudience:\"Zarafeti ve inceli\\u011Fi tercih eden, modern ya\\u015Fam tarz\\u0131na sahip sigara i\\xE7icileri\",priceRange:\"Premium segment\",published:!0};function o(n){let i={a:\"a\",br:\"br\",em:\"em\",h2:\"h2\",h3:\"h3\",hr:\"hr\",li:\"li\",ol:\"ol\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(i.h2,{id:\"zarafetin-yeni-boyutu\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#zarafetin-yeni-boyutu\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Zarafetin Yeni Boyutu\"]}),`\n`,(0,e.jsxs)(i.p,{children:[\"Davidoff Superslims, inceli\\u011Fi ve zarafeti bir araya getiren \\xF6zel bir deneyim sunuyor. \",(0,e.jsx)(i.strong,{children:\"7mm ultra ince \\xE7ap\\u0131yla\"}),\", modern sigara i\\xE7icilerinin beklentilerini kar\\u015F\\u0131layan bu \\xFCr\\xFCn, sadece bir tercih de\\u011Fil - bir ya\\u015Fam tarz\\u0131 ifadesi.\"]}),`\n`,(0,e.jsxs)(i.h3,{id:\"neden-davidoff-superslims\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-davidoff-superslims\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Neden Davidoff Superslims?\"]}),`\n`,(0,e.jsxs)(i.p,{children:[(0,e.jsx)(i.strong,{children:\"Kusursuz Denge\"}),` - \\u0130nce yap\\u0131s\\u0131na ra\\u011Fmen tam bir tat deneyimi\n`,(0,e.jsx)(i.strong,{children:\"Premium Kalite\"}),\" - Davidoff'un y\\u0131llar\\u0131n deneyimiyle haz\\u0131rlanm\\u0131\\u015F kar\\u0131\\u015F\\u0131m\",(0,e.jsx)(i.br,{}),`\n`,(0,e.jsx)(i.strong,{children:\"\\u015E\\u0131k Tasar\\u0131m\"}),` - Her detay\\u0131yla \\xF6zenle tasarlanm\\u0131\\u015F minimalist estetik\n`,(0,e.jsx)(i.strong,{children:\"Pratik Boyut\"}),\" - G\\xFCnl\\xFCk kullan\\u0131m i\\xE7in ideal \\xF6l\\xE7\\xFCler\"]}),`\n`,(0,e.jsxs)(i.h2,{id:\"\\xFCr\\xFCn-detaylar\\u0131\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xFCr\\xFCn-detaylar\\u0131\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"\\xDCr\\xFCn Detaylar\\u0131\"]}),`\n`,(0,e.jsxs)(i.p,{children:[\"Davidoff Superslims'in \",(0,e.jsx)(i.strong,{children:\"ultra ince tasar\\u0131m\\u0131\"}),\", sigara i\\xE7me deneyimini yeniden tan\\u0131ml\\u0131yor. Geleneksel sigaralara g\\xF6re %30 daha ince olan bu \\xFCr\\xFCn, \",(0,e.jsx)(i.strong,{children:\"p\\xFCr\\xFCzs\\xFCz \\xE7ekim\"}),\" ve \",(0,e.jsx)(i.strong,{children:\"yumu\\u015Fak tat\"}),\" profiliyle \\xF6ne \\xE7\\u0131k\\u0131yor.\"]}),`\n`,(0,e.jsxs)(i.h3,{id:\"\\xF6zel-\\xF6zellikler\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-\\xF6zellikler\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"\\xD6zel \\xD6zellikler\"]}),`\n`,(0,e.jsxs)(i.ul,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"7mm \\xE7ap\"}),\" - M\\xFCkemmel denge i\\xE7in optimize edilmi\\u015F\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"84mm uzunluk\"}),\" - Standart boyutta konfor\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Premium filtre\"}),\" - Geli\\u015Fmi\\u015F filtreleme teknolojisi\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"\\xD6zel ka\\u011F\\u0131t\"}),\" - Yava\\u015F yanma \\xF6zelli\\u011Fi\"]}),`\n`]}),`\n`,(0,e.jsxs)(i.h2,{id:\"kimler-i\\u0307\\xE7in-uygun\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-uygun\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Uygun?\"]}),`\n`,(0,e.jsx)(i.p,{children:\"Davidoff Superslims \\xF6zellikle \\u015Fu ki\\u015Filer i\\xE7in tasarland\\u0131:\"}),`\n`,(0,e.jsxs)(i.ul,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Zarafeti\"}),\" ve \",(0,e.jsx)(i.strong,{children:\"inceli\\u011Fi\"}),\" tercih edenler\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Modern ya\\u015Fam tarz\\u0131\"}),\" sahipleri\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Premium kalite\"}),\" arayan deneyimli i\\xE7iciler\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Diskret\"}),\" tercihler yapan kullan\\u0131c\\u0131lar\"]}),`\n`]}),`\n`,(0,e.jsxs)(i.h2,{id:\"sat\\u0131n-alma-\\xF6nerileri\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sat\\u0131n-alma-\\xF6nerileri\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Sat\\u0131n Alma \\xD6nerileri\"]}),`\n`,(0,e.jsxs)(i.h3,{id:\"deneyim-seviyesine-g\\xF6re\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#deneyim-seviyesine-g\\xF6re\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Deneyim Seviyesine G\\xF6re\"]}),`\n`,(0,e.jsxs)(i.p,{children:[(0,e.jsx)(i.strong,{children:\"Yeni Ba\\u015Flayanlar\"}),`: Yumu\\u015Fak \\xE7ekim \\xF6zelli\\u011Fi sayesinde ideal giri\\u015F noktas\\u0131\n`,(0,e.jsx)(i.strong,{children:\"Deneyimli \\u0130\\xE7iciler\"}),\": Premium kalite ve sofistike tat profili\",(0,e.jsx)(i.br,{}),`\n`,(0,e.jsx)(i.strong,{children:\"Premium Tercih Edenler\"}),\": Davidoff markas\\u0131n\\u0131n prestiji ve garantisi\"]}),`\n`,(0,e.jsxs)(i.h3,{id:\"\\xF6zel-durumlar\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\xF6zel-durumlar\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"\\xD6zel Durumlar\"]}),`\n`,(0,e.jsxs)(i.ul,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"\\u0130\\u015F toplant\\u0131lar\\u0131\"}),\" i\\xE7in ideal diskret se\\xE7im\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Sosyal etkinlikler\"}),\" i\\xE7in \\u015F\\u0131k g\\xF6r\\xFCn\\xFCm\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"G\\xFCnl\\xFCk kullan\\u0131m\"}),\" i\\xE7in pratik boyut\"]}),`\n`]}),`\n`,(0,e.jsxs)(i.h2,{id:\"fark-yaratan-detaylar\",children:[(0,e.jsx)(i.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#fark-yaratan-detaylar\",children:(0,e.jsx)(i.span,{className:\"icon icon-link\"})}),\"Fark Yaratan Detaylar\"]}),`\n`,(0,e.jsx)(i.p,{children:\"Davidoff Superslims'i \\xF6zel k\\u0131lan unsurlar:\"}),`\n`,(0,e.jsxs)(i.ol,{children:[`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"\\u0130svi\\xE7re Kalitesi\"}),\" - Davidoff'un geleneksel ustal\\u0131\\u011F\\u0131\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Se\\xE7kin T\\xFCt\\xFCn\"}),\" - \\xD6zenle se\\xE7ilmi\\u015F yapraklar\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Geli\\u015Fmi\\u015F Teknoloji\"}),\" - Modern \\xFCretim s\\xFCre\\xE7leri\"]}),`\n`,(0,e.jsxs)(i.li,{children:[(0,e.jsx)(i.strong,{children:\"Estetik Tasar\\u0131m\"}),\" - Her a\\xE7\\u0131dan m\\xFCkemmel g\\xF6r\\xFCn\\xFCm\"]}),`\n`]}),`\n`,(0,e.jsx)(i.hr,{}),`\n`,(0,e.jsx)(i.p,{children:(0,e.jsx)(i.em,{children:\"Davidoff Superslims ile zarafeti ke\\u015Ffedin. \\u0130nce \\xE7izgileriyle b\\xFCy\\xFCk fark yaratan bu \\xF6zel deneyimi ka\\xE7\\u0131rmay\\u0131n.\"})})]})}function m(n={}){let{wrapper:i}=n.components||{};return i?(0,e.jsx)(i,{...n,children:(0,e.jsx)(o,{...n})}):o(n)}return v(D);})();\n;return Component;"
+  },
+  "_id": "categories/03-davidoff-superslims.mdx",
+  "_raw": {
+    "sourceFilePath": "categories/03-davidoff-superslims.mdx",
+    "sourceFileName": "03-davidoff-superslims.mdx",
+    "sourceFileDir": "categories",
+    "contentType": "mdx",
+    "flattenedPath": "categories/03-davidoff-superslims"
+  },
+  "type": "Category",
+  "slug": "/categories/davidoff-superslims",
+  "slugAsParams": "davidoff-superslims",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#zarafetin-yeni-boyutu",
+        "title": "Zarafetin Yeni Boyutu",
+        "items": [
+          {
+            "url": "#neden-davidoff-superslims",
+            "title": "Neden Davidoff Superslims?"
+          }
+        ]
+      },
+      {
+        "url": "#urun-detaylari",
+        "title": "Ürün Detayları",
+        "items": [
+          {
+            "url": "#ozel-ozellikler",
+            "title": "Özel Özellikler"
+          }
+        ]
+      },
+      {
+        "url": "#kimler-icin-uygun",
+        "title": "Kimler İçin Uygun?"
+      },
+      {
+        "url": "#satin-alma-onerileri",
+        "title": "Satın Alma Önerileri",
+        "items": [
+          {
+            "url": "#deneyim-seviyesine-gore",
+            "title": "Deneyim Seviyesine Göre"
+          },
+          {
+            "url": "#ozel-durumlar",
+            "title": "Özel Durumlar"
+          }
+        ]
+      },
+      {
+        "url": "#fark-yaratan-detaylar",
+        "title": "Fark Yaratan Detaylar"
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "categories",
+      "href": "/categories"
+    },
+    {
+      "label": "davidoff superslims",
+      "href": "/categories/davidoff-superslims"
+    }
+  ]
+}

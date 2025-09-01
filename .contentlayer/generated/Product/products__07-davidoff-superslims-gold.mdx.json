@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Superslims Gold - Altın Dokunuş",
+  "description": "Davidoff Superslims Gold, ekstra ince yapısı ve pürüzsüz içimiyle zarif ve modern bir tütün deneyimi sunar.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Superslims",
+  "productName": "Gold",
+  "sku": "DVF-SSLIMS-GOLD-20",
+  "price": 195,
+  "currency": "TRY",
+  "cover": "/images/davidoff-superslims-gold-magnum-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/davidoff-superslims-gold-pack.jpg",
+      "alt": "Davidoff Superslims Gold paketi",
+      "caption": "İnce, zarif ve altın detaylı tasarım",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-gold-detail.jpg",
+      "alt": "Davidoff Superslims Gold sigara detayı",
+      "caption": "Ekstra ince yapısı",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Sarı",
+  "nicotineLevel": "0.5 mg",
+  "tarLevel": "5 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.0 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Slim Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Ekstra İnce Yapı",
+      "description": "Zarafet ve pratikliği birleştirir",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Yumuşak İçim",
+      "description": "Pürüzsüz ve hafif bir deneyim",
+      "icon": "smooth",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Modern Tasarım",
+      "description": "Şık ve estetik bir paket",
+      "icon": "design",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": true,
+  "newProduct": false,
+  "tags": [
+    "superslims",
+    "gold",
+    "ince",
+    "hafif",
+    "premium"
+  ],
+  "sortOrder": 7,
+  "body": {
+    "raw": "\n# Davidoff Superslims Gold - İnce Çizgi, Güçlü Etki\n\nDavidoff Superslims Gold, **ekstra ince** sigara arayanlar için tasarlandı. Sadece 5 mm çapındaki yapısıyla hem zarif bir duruş sunar hem de rahat bir içim sağlar. Bu ürün, tütünün **dengeli ve pürüzsüz** tadıyla öne çıkar.\n\n## Neden Davidoff Superslims Gold?\n\n### 📏 Ekstra İnce ve Uzun\n\nBenzersiz inceliği, modern ve estetik bir his verir.\n\n### 💨 Hafif ve Pürüzsüz\n\n5 mg katran ve 0.5 mg nikotin seviyeleriyle oldukça hafif bir deneyim sunar.\n\n### 🏅 Altın Kalite\n\nAdı gibi, **altın standartta** bir tütün kalitesi ve dengeli aromaya sahiptir.",
+    "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var h=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var v=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),k=(a,e)=>{for(var n in e)s(a,n,{get:e[n],enumerable:!0})},l=(a,e,n,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!g.call(a,r)&&r!==n&&s(a,r,{get:()=>e[r],enumerable:!(t=f(e,r))||t.enumerable});return a};var z=(a,e,n)=>(n=a!=null?p(h(a)):{},l(e||!a||!a.__esModule?s(n,\"default\",{value:a,enumerable:!0}):n,a)),b=a=>l(s({},\"__esModule\",{value:!0}),a);var d=v((N,o)=>{o.exports=_jsx_runtime});var S={};k(S,{default:()=>m,frontmatter:()=>y});var i=z(d()),y={title:\"Davidoff Superslims Gold - Alt\\u0131n Dokunu\\u015F\",description:\"Davidoff Superslims Gold, ekstra ince yap\\u0131s\\u0131 ve p\\xFCr\\xFCzs\\xFCz i\\xE7imiyle zarif ve modern bir t\\xFCt\\xFCn deneyimi sunar.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Superslims\",productName:\"Gold\",sku:\"DVF-SSLIMS-GOLD-20\",price:195,currency:\"TRY\",cover:\"/images/davidoff-superslims-gold-magnum-cover.jpg\",gallery:[{src:\"/images/davidoff-superslims-gold-pack.jpg\",alt:\"Davidoff Superslims Gold paketi\",caption:\"\\u0130nce, zarif ve alt\\u0131n detayl\\u0131 tasar\\u0131m\"},{src:\"/images/davidoff-superslims-gold-detail.jpg\",alt:\"Davidoff Superslims Gold sigara detay\\u0131\",caption:\"Ekstra ince yap\\u0131s\\u0131\"}],filterColor:\"Sar\\u0131\",nicotineLevel:\"0.5 mg\",tarLevel:\"5 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.0 mm\"},{name:\"Filtre Tipi\",value:\"Slim Filtre\"}],features:[{title:\"Ekstra \\u0130nce Yap\\u0131\",description:\"Zarafet ve pratikli\\u011Fi birle\\u015Ftirir\",icon:\"superslim\"},{title:\"Yumu\\u015Fak \\u0130\\xE7im\",description:\"P\\xFCr\\xFCzs\\xFCz ve hafif bir deneyim\",icon:\"smooth\"},{title:\"Modern Tasar\\u0131m\",description:\"\\u015E\\u0131k ve estetik bir paket\",icon:\"design\"}],inStock:!0,featured:!0,newProduct:!1,tags:[\"superslims\",\"gold\",\"ince\",\"hafif\",\"premium\"],sortOrder:7};function c(a){let e={a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",p:\"p\",span:\"span\",strong:\"strong\",...a.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(e.h1,{id:\"davidoff-superslims-gold---i\\u0307nce-\\xE7izgi-g\\xFC\\xE7l\\xFC-etki\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-superslims-gold---i\\u0307nce-\\xE7izgi-g\\xFC\\xE7l\\xFC-etki\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Davidoff Superslims Gold - \\u0130nce \\xC7izgi, G\\xFC\\xE7l\\xFC Etki\"]}),`\n`,(0,i.jsxs)(e.p,{children:[\"Davidoff Superslims Gold, \",(0,i.jsx)(e.strong,{children:\"ekstra ince\"}),\" sigara arayanlar i\\xE7in tasarland\\u0131. Sadece 5 mm \\xE7ap\\u0131ndaki yap\\u0131s\\u0131yla hem zarif bir duru\\u015F sunar hem de rahat bir i\\xE7im sa\\u011Flar. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn\\xFCn \",(0,i.jsx)(e.strong,{children:\"dengeli ve p\\xFCr\\xFCzs\\xFCz\"}),\" tad\\u0131yla \\xF6ne \\xE7\\u0131kar.\"]}),`\n`,(0,i.jsxs)(e.h2,{id:\"neden-davidoff-superslims-gold\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-davidoff-superslims-gold\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Neden Davidoff Superslims Gold?\"]}),`\n`,(0,i.jsxs)(e.h3,{id:\"-ekstra-i\\u0307nce-ve-uzun\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-ekstra-i\\u0307nce-ve-uzun\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"\\u{1F4CF} Ekstra \\u0130nce ve Uzun\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Benzersiz inceli\\u011Fi, modern ve estetik bir his verir.\"}),`\n`,(0,i.jsxs)(e.h3,{id:\"-hafif-ve-p\\xFCr\\xFCzs\\xFCz\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-hafif-ve-p\\xFCr\\xFCzs\\xFCz\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"\\u{1F4A8} Hafif ve P\\xFCr\\xFCzs\\xFCz\"]}),`\n`,(0,i.jsx)(e.p,{children:\"5 mg katran ve 0.5 mg nikotin seviyeleriyle olduk\\xE7a hafif bir deneyim sunar.\"}),`\n`,(0,i.jsxs)(e.h3,{id:\"-alt\\u0131n-kalite\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-alt\\u0131n-kalite\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"\\u{1F3C5} Alt\\u0131n Kalite\"]}),`\n`,(0,i.jsxs)(e.p,{children:[\"Ad\\u0131 gibi, \",(0,i.jsx)(e.strong,{children:\"alt\\u0131n standartta\"}),\" bir t\\xFCt\\xFCn kalitesi ve dengeli aromaya sahiptir.\"]})]})}function m(a={}){let{wrapper:e}=a.components||{};return e?(0,i.jsx)(e,{...a,children:(0,i.jsx)(c,{...a})}):c(a)}return b(S);})();\n;return Component;"
+  },
+  "_id": "products/07-davidoff-superslims-gold.mdx",
+  "_raw": {
+    "sourceFilePath": "products/07-davidoff-superslims-gold.mdx",
+    "sourceFileName": "07-davidoff-superslims-gold.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/07-davidoff-superslims-gold"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-superslims-gold",
+  "slugAsParams": "davidoff-superslims-gold",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-superslims-gold-ince-cizgi-guclu-etki",
+        "title": "Davidoff Superslims Gold - İnce Çizgi, Güçlü Etki",
+        "items": [
+          {
+            "url": "#neden-davidoff-superslims-gold",
+            "title": "Neden Davidoff Superslims Gold?",
+            "items": [
+              {
+                "url": "#ekstra-ince-ve-uzun",
+                "title": "📏 Ekstra İnce ve Uzun"
+              },
+              {
+                "url": "#hafif-ve-puruzsuz",
+                "title": "💨 Hafif ve Pürüzsüz"
+              },
+              {
+                "url": "#altin-kalite",
+                "title": "🏅 Altın Kalite"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff superslims gold",
+      "href": "/products/davidoff-superslims-gold"
+    }
+  ]
+}

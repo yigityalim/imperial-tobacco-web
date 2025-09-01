@@ -1,0 +1,150 @@
+{
+  "title": "Backwoods Honey Berry - Tatlı ve Meyvemsi",
+  "description": "Backwoods Honey Berry, doğal tütün yaprağına balın tatlılığını ve orman meyvelerinin ferahlığını ekler. Benzersiz ve yumuşak bir lezzet.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Backwoods",
+  "categoryName": "Backwoods Flavors",
+  "productName": "Honey Berry",
+  "sku": "BWS-HONEY-BERRY-5",
+  "price": 150,
+  "currency": "TRY",
+  "cover": "/images/backwoods-honey-berry-cover.jpg",
+  "gallery": [
+    {
+      "src": "/images/backwoods-honey-berry-pack.jpg",
+      "alt": "Backwoods Honey Berry paketi",
+      "caption": "Canlı sarı ve kırmızı tonlarıyla dikkat çeken ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/backwoods-honey-berry-detail.jpg",
+      "alt": "Backwoods Honey Berry puro detayı",
+      "caption": "Doğal yaprak sargısı ve tatlı aroma",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Natural",
+  "nicotineLevel": "N/A",
+  "tarLevel": "N/A",
+  "packSize": 5,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "115 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "10 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Yok",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Bal ve Orman Meyveleri",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Tatlı ve Dengeli Lezzet",
+      "description": "Balın yumuşaklığı ve böğürtlenin ferahlığı bir arada.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Doğal Tütün Sargısı",
+      "description": "Gerçek tütün yaprağıyla sarılarak otantik bir deneyim sunar.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Kolay İçim",
+      "description": "Hafif ve pürüzsüz yapısıyla yeni başlayanlar için idealdir.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": true,
+  "newProduct": false,
+  "tags": [
+    "backwoods",
+    "aromalı",
+    "honeyberry",
+    "meyvemsi",
+    "tatlı"
+  ],
+  "sortOrder": 17,
+  "body": {
+    "raw": "\n# Backwoods Honey Berry - Doğadan Gelen Lezzet\n\n**Backwoods Honey Berry**, tütünün rustik ve doğal lezzetini, doğanın en tatlı hediyeleriyle birleştirir. Balın yumuşaklığı ve orman meyvelerinin ferahlatıcı notaları, otantik tütün yaprağı sargısıyla buluşarak eşsiz ve unutulmaz bir deneyim sunar.\n\n## Tatlılık ve Tazeliğin Mükemmel Uyumu\n\nBu ürün, balın hafif tatlılığını ve böğürtlenin zarif asiditesini bir araya getirerek, içimi son derece keyifli ve dengeli hale getirir. Aroma, tütünün kendi karakterini bastırmaz, aksine onu tamamlayarak her nefeste farklı bir lezzet katmanı keşfetmenizi sağlar.\n\n## Benzersiz ve Lezzetli Deneyim\n\n- **Tatlı ve Ferahlatıcı Aroma:** Tatlılığı ve meyvemsiliği birleştiren zengin bir lezzet profili sunar.\n- **Doğal Tütün Sargısı:** Geleneksel yaprağın kendine has dokusu ve aroması, deneyimi zenginleştirir.\n- **Yumuşak Çekim:** Boğazı yormayan, pürüzsüz bir içim sağlar.\n\n## Kimler İçin Tasarlandı?\n\nBackwoods Honey Berry, tatlı ve meyvemsi lezzetleri seven, aynı zamanda doğal ve otantik bir deneyim arayan kullanıcılar için idealdir.\n* **Lezzet Kaşifleri:** Alışılmışın dışında, tatlı ve meyvemsi bir aroma arayanlar.\n* **Yeni Başlayanlar:** Hafif ve lezzetli bir başlangıç noktası arayanlar.\n* **Doğa Severler:** Açık havada geçireceği anlara lezzet katmak isteyenler.\n\n---\n\n**Backwoods Honey Berry** ile tütünün vahşi lezzeti, doğanın tatlılığıyla buluşuyor. Farklı ve keyifli bir deneyim için ideal bir seçenektir.\n\n*Hemen deneyin ve farkı hissedin.*",
+    "code": "var Component=(()=>{var y=Object.create;var l=Object.defineProperty;var k=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,z=Object.prototype.hasOwnProperty;var v=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),b=(n,e)=>{for(var i in e)l(n,i,{get:e[i],enumerable:!0})},o=(n,e,i,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of h(e))!z.call(n,r)&&r!==i&&l(n,r,{get:()=>e[r],enumerable:!(t=k(e,r))||t.enumerable});return n};var p=(n,e,i)=>(i=n!=null?y(u(n)):{},o(e||!n||!n.__esModule?l(i,\"default\",{value:n,enumerable:!0}):i,n)),g=n=>o(l({},\"__esModule\",{value:!0}),n);var c=v((N,s)=>{s.exports=_jsx_runtime});var B={};b(B,{default:()=>m,frontmatter:()=>f});var a=p(c()),f={title:\"Backwoods Honey Berry - Tatl\\u0131 ve Meyvemsi\",description:\"Backwoods Honey Berry, do\\u011Fal t\\xFCt\\xFCn yapra\\u011F\\u0131na bal\\u0131n tatl\\u0131l\\u0131\\u011F\\u0131n\\u0131 ve orman meyvelerinin ferahl\\u0131\\u011F\\u0131n\\u0131 ekler. Benzersiz ve yumu\\u015Fak bir lezzet.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Backwoods\",categoryName:\"Backwoods Flavors\",productName:\"Honey Berry\",sku:\"BWS-HONEY-BERRY-5\",price:150,currency:\"TRY\",cover:\"/images/backwoods-honey-berry-cover.jpg\",gallery:[{src:\"/images/backwoods-honey-berry-pack.jpg\",alt:\"Backwoods Honey Berry paketi\",caption:\"Canl\\u0131 sar\\u0131 ve k\\u0131rm\\u0131z\\u0131 tonlar\\u0131yla dikkat \\xE7eken ambalaj\"},{src:\"/images/backwoods-honey-berry-detail.jpg\",alt:\"Backwoods Honey Berry puro detay\\u0131\",caption:\"Do\\u011Fal yaprak sarg\\u0131s\\u0131 ve tatl\\u0131 aroma\"}],filterColor:\"Natural\",nicotineLevel:\"N/A\",tarLevel:\"N/A\",packSize:5,specifications:[{name:\"Uzunluk\",value:\"115 mm\"},{name:\"\\xC7ap\",value:\"10 mm\"},{name:\"Filtre Tipi\",value:\"Yok\"},{name:\"Aroma\",value:\"Bal ve Orman Meyveleri\"}],features:[{title:\"Tatl\\u0131 ve Dengeli Lezzet\",description:\"Bal\\u0131n yumu\\u015Fakl\\u0131\\u011F\\u0131 ve b\\xF6\\u011F\\xFCrtlenin ferahl\\u0131\\u011F\\u0131 bir arada.\",icon:\"capsule\"},{title:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131\",description:\"Ger\\xE7ek t\\xFCt\\xFCn yapra\\u011F\\u0131yla sar\\u0131larak otantik bir deneyim sunar.\",icon:\"flavor-twist\"},{title:\"Kolay \\u0130\\xE7im\",description:\"Hafif ve p\\xFCr\\xFCzs\\xFCz yap\\u0131s\\u0131yla yeni ba\\u015Flayanlar i\\xE7in idealdir.\",icon:\"superslim\"}],inStock:!0,featured:!0,newProduct:!1,tags:[\"backwoods\",\"aromal\\u0131\",\"honeyberry\",\"meyvemsi\",\"tatl\\u0131\"],sortOrder:17};function d(n){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...n.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h1,{id:\"backwoods-honey-berry---do\\u011Fadan-gelen-lezzet\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#backwoods-honey-berry---do\\u011Fadan-gelen-lezzet\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Backwoods Honey Berry - Do\\u011Fadan Gelen Lezzet\"]}),`\n`,(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Backwoods Honey Berry\"}),\", t\\xFCt\\xFCn\\xFCn rustik ve do\\u011Fal lezzetini, do\\u011Fan\\u0131n en tatl\\u0131 hediyeleriyle birle\\u015Ftirir. Bal\\u0131n yumu\\u015Fakl\\u0131\\u011F\\u0131 ve orman meyvelerinin ferahlat\\u0131c\\u0131 notalar\\u0131, otantik t\\xFCt\\xFCn yapra\\u011F\\u0131 sarg\\u0131s\\u0131yla bulu\\u015Farak e\\u015Fsiz ve unutulmaz bir deneyim sunar.\"]}),`\n`,(0,a.jsxs)(e.h2,{id:\"tatl\\u0131l\\u0131k-ve-tazeli\\u011Fin-m\\xFCkemmel-uyumu\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tatl\\u0131l\\u0131k-ve-tazeli\\u011Fin-m\\xFCkemmel-uyumu\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Tatl\\u0131l\\u0131k ve Tazeli\\u011Fin M\\xFCkemmel Uyumu\"]}),`\n`,(0,a.jsx)(e.p,{children:\"Bu \\xFCr\\xFCn, bal\\u0131n hafif tatl\\u0131l\\u0131\\u011F\\u0131n\\u0131 ve b\\xF6\\u011F\\xFCrtlenin zarif asiditesini bir araya getirerek, i\\xE7imi son derece keyifli ve dengeli hale getirir. Aroma, t\\xFCt\\xFCn\\xFCn kendi karakterini bast\\u0131rmaz, aksine onu tamamlayarak her nefeste farkl\\u0131 bir lezzet katman\\u0131 ke\\u015Ffetmenizi sa\\u011Flar.\"}),`\n`,(0,a.jsxs)(e.h2,{id:\"benzersiz-ve-lezzetli-deneyim\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#benzersiz-ve-lezzetli-deneyim\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Benzersiz ve Lezzetli Deneyim\"]}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Tatl\\u0131 ve Ferahlat\\u0131c\\u0131 Aroma:\"}),\" Tatl\\u0131l\\u0131\\u011F\\u0131 ve meyvemsili\\u011Fi birle\\u015Ftiren zengin bir lezzet profili sunar.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Do\\u011Fal T\\xFCt\\xFCn Sarg\\u0131s\\u0131:\"}),\" Geleneksel yapra\\u011F\\u0131n kendine has dokusu ve aromas\\u0131, deneyimi zenginle\\u015Ftirir.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Yumu\\u015Fak \\xC7ekim:\"}),\" Bo\\u011Faz\\u0131 yormayan, p\\xFCr\\xFCzs\\xFCz bir i\\xE7im sa\\u011Flar.\"]}),`\n`]}),`\n`,(0,a.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,a.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,a.jsx)(e.p,{children:\"Backwoods Honey Berry, tatl\\u0131 ve meyvemsi lezzetleri seven, ayn\\u0131 zamanda do\\u011Fal ve otantik bir deneyim arayan kullan\\u0131c\\u0131lar i\\xE7in idealdir.\"}),`\n`,(0,a.jsxs)(e.ul,{children:[`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Lezzet Ka\\u015Fifleri:\"}),\" Al\\u0131\\u015F\\u0131lm\\u0131\\u015F\\u0131n d\\u0131\\u015F\\u0131nda, tatl\\u0131 ve meyvemsi bir aroma arayanlar.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Yeni Ba\\u015Flayanlar:\"}),\" Hafif ve lezzetli bir ba\\u015Flang\\u0131\\xE7 noktas\\u0131 arayanlar.\"]}),`\n`,(0,a.jsxs)(e.li,{children:[(0,a.jsx)(e.strong,{children:\"Do\\u011Fa Severler:\"}),\" A\\xE7\\u0131k havada ge\\xE7irece\\u011Fi anlara lezzet katmak isteyenler.\"]}),`\n`]}),`\n`,(0,a.jsx)(e.hr,{}),`\n`,(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Backwoods Honey Berry\"}),\" ile t\\xFCt\\xFCn\\xFCn vah\\u015Fi lezzeti, do\\u011Fan\\u0131n tatl\\u0131l\\u0131\\u011F\\u0131yla bulu\\u015Fuyor. Farkl\\u0131 ve keyifli bir deneyim i\\xE7in ideal bir se\\xE7enektir.\"]}),`\n`,(0,a.jsx)(e.p,{children:(0,a.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(n={}){let{wrapper:e}=n.components||{};return e?(0,a.jsx)(e,{...n,children:(0,a.jsx)(d,{...n})}):d(n)}return g(B);})();\n;return Component;"
+  },
+  "_id": "products/17-backwoods-honey-berry.mdx",
+  "_raw": {
+    "sourceFilePath": "products/17-backwoods-honey-berry.mdx",
+    "sourceFileName": "17-backwoods-honey-berry.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/17-backwoods-honey-berry"
+  },
+  "type": "Product",
+  "slug": "/products/backwoods-honey-berry",
+  "slugAsParams": "backwoods-honey-berry",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#backwoods-honey-berry-dogadan-gelen-lezzet",
+        "title": "Backwoods Honey Berry - Doğadan Gelen Lezzet",
+        "items": [
+          {
+            "url": "#tatlilik-ve-tazeligin-mukemmel-uyumu",
+            "title": "Tatlılık ve Tazeliğin Mükemmel Uyumu"
+          },
+          {
+            "url": "#benzersiz-ve-lezzetli-deneyim",
+            "title": "Benzersiz ve Lezzetli Deneyim"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "backwoods honey berry",
+      "href": "/products/backwoods-honey-berry"
+    }
+  ]
+}

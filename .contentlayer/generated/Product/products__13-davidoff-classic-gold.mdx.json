@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Classic Gold - Altın Standart",
+  "description": "Davidoff Classic Gold, zengin tütün harmanı ve dengeli içim gücüyle tütünün altın standardını sunar. Mükemmeliyetin simgesi.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Classic",
+  "productName": "Gold",
+  "sku": "DVF-CLASSIC-GOLD-20",
+  "price": 205,
+  "currency": "TRY",
+  "cover": "/images/davidoff-classic-gold-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-classic-gold-pack.jpg",
+      "alt": "Davidoff Classic Gold paketi",
+      "caption": "Lüks ve prestiji simgeleyen altın detaylar",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-classic-gold-detail.jpg",
+      "alt": "Davidoff Classic Gold filtre detayı",
+      "caption": "Zenginliği yansıtan altın filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Gold",
+  "nicotineLevel": "0.7 mg",
+  "tarLevel": "7 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "84 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "7.8 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Standart Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Zengin Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Zengin ve Dengeli Harman",
+      "description": "Tütünün en olgun lezzet notalarıyla dolu, mükemmel dengede bir tat.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "İdeal İçim Gücü",
+      "description": "Ne çok hafif, ne çok yoğun; tam olması gerektiği gibi.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Zamansız Tasarım",
+      "description": "Davidoff'un ikonik ambalajında altın dokunuşlar.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": true,
+  "newProduct": false,
+  "tags": [
+    "classic",
+    "gold",
+    "davidoff",
+    "premium",
+    "zengin"
+  ],
+  "sortOrder": 13,
+  "body": {
+    "raw": "\n# Davidoff Classic Gold - Tütün Sanatının Zirvesi\n\n**Davidoff Classic Gold**, markanın mirasından aldığı gücü, zenginlik ve dengeyle harmanlayarak tütün dünyasının \"altın standardını\" belirler. Bu ürün, hem sofistike bir lezzet arayanları hem de klasik tütün deneyiminin en üst seviyesini yaşamak isteyenleri kendine çeker.\n\n## Altın Standartta Bir Deneyim\n\nGold, her bir tütün yaprağının en olgun ve dolgun lezzetini barındıran özel harmanıyla öne çıkar. İçim esnasında hissedilen zengin ve kompleks tat profili, boğazı yormayan yumuşak bir çekimle birleşir. Ne çok hafif ne de çok yoğun olan bu ideal denge, Davidoff'un kaliteye olan bağlılığını kanıtlar.\n\n## Yenilikçi Özellikler\n\n- **Zengin ve Dengeli Harman:** Yüksek kaliteli tütünlerin ustaca karışımı, kalıcı ve tatmin edici bir lezzet sunar.\n- **İdeal İçim Gücü:** **7 mg katran** ve **0.7 mg nikotin** seviyeleri, tütünün gerçek tadını almak için en uygun dengeyi sağlar.\n- **Lüks Estetik:** Ambalajındaki altın detaylar ve filtredeki gold rengi, ürünün üstün kalitesini ve prestijini vurgular.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Classic Gold, kaliteden ödün vermeyen, klasik lezzetleri modern bir yaklaşımla deneyimlemek isteyenler için idealdir.\n* **Tütün Uzmanları:** Tütünün en saf ve zengin halini takdir edenler.\n* **Dengeli Tat Arayanlar:** Ne çok hafif ne de çok ağır, ideal bir içim gücü isteyenler.\n* **Statü Sahipleri:** Zarafeti ve lüksü günlük hayatına taşımak isteyenler.\n\n---\n\n**Davidoff Classic Gold** ile tütünün gerçek gücünü ve zarafetini keşfedin. Bu ürün, tütün dünyasında mükemmeliyetin somut halidir.\n\n*Hemen deneyin ve farkı hissedin.*\n",
+    "code": "var Component=(()=>{var k=Object.create;var r=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var v=(i,n)=>()=>(n||i((n={exports:{}}).exports,n),n.exports),y=(i,n)=>{for(var a in n)r(i,a,{get:n[a],enumerable:!0})},s=(i,n,a,t)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let l of h(n))!u.call(i,l)&&l!==a&&r(i,l,{get:()=>n[l],enumerable:!(t=g(n,l))||t.enumerable});return i};var p=(i,n,a)=>(a=i!=null?k(f(i)):{},s(n||!i||!i.__esModule?r(a,\"default\",{value:i,enumerable:!0}):a,i)),b=i=>s(r({},\"__esModule\",{value:!0}),i);var o=v((G,d)=>{d.exports=_jsx_runtime});var D={};y(D,{default:()=>m,frontmatter:()=>z});var e=p(o()),z={title:\"Davidoff Classic Gold - Alt\\u0131n Standart\",description:\"Davidoff Classic Gold, zengin t\\xFCt\\xFCn harman\\u0131 ve dengeli i\\xE7im g\\xFCc\\xFCyle t\\xFCt\\xFCn\\xFCn alt\\u0131n standard\\u0131n\\u0131 sunar. M\\xFCkemmeliyetin simgesi.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Classic\",productName:\"Gold\",sku:\"DVF-CLASSIC-GOLD-20\",price:205,currency:\"TRY\",cover:\"/images/davidoff-classic-gold-cover.png\",gallery:[{src:\"/images/davidoff-classic-gold-pack.jpg\",alt:\"Davidoff Classic Gold paketi\",caption:\"L\\xFCks ve prestiji simgeleyen alt\\u0131n detaylar\"},{src:\"/images/davidoff-classic-gold-detail.jpg\",alt:\"Davidoff Classic Gold filtre detay\\u0131\",caption:\"Zenginli\\u011Fi yans\\u0131tan alt\\u0131n filtre\"}],filterColor:\"Gold\",nicotineLevel:\"0.7 mg\",tarLevel:\"7 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"84 mm\"},{name:\"\\xC7ap\",value:\"7.8 mm\"},{name:\"Filtre Tipi\",value:\"Standart Filtre\"},{name:\"Aroma\",value:\"Zengin T\\xFCt\\xFCn\"}],features:[{title:\"Zengin ve Dengeli Harman\",description:\"T\\xFCt\\xFCn\\xFCn en olgun lezzet notalar\\u0131yla dolu, m\\xFCkemmel dengede bir tat.\",icon:\"capsule\"},{title:\"\\u0130deal \\u0130\\xE7im G\\xFCc\\xFC\",description:\"Ne \\xE7ok hafif, ne \\xE7ok yo\\u011Fun; tam olmas\\u0131 gerekti\\u011Fi gibi.\",icon:\"flavor-twist\"},{title:\"Zamans\\u0131z Tasar\\u0131m\",description:\"Davidoff'un ikonik ambalaj\\u0131nda alt\\u0131n dokunu\\u015Flar.\",icon:\"superslim\"}],inStock:!0,featured:!0,newProduct:!1,tags:[\"classic\",\"gold\",\"davidoff\",\"premium\",\"zengin\"],sortOrder:13};function c(i){let n={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...i.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(n.h1,{id:\"davidoff-classic-gold---t\\xFCt\\xFCn-sanat\\u0131n\\u0131n-zirvesi\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-classic-gold---t\\xFCt\\xFCn-sanat\\u0131n\\u0131n-zirvesi\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Davidoff Classic Gold - T\\xFCt\\xFCn Sanat\\u0131n\\u0131n Zirvesi\"]}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Davidoff Classic Gold\"}),', markan\\u0131n miras\\u0131ndan ald\\u0131\\u011F\\u0131 g\\xFCc\\xFC, zenginlik ve dengeyle harmanlayarak t\\xFCt\\xFCn d\\xFCnyas\\u0131n\\u0131n \"alt\\u0131n standard\\u0131n\\u0131\" belirler. Bu \\xFCr\\xFCn, hem sofistike bir lezzet arayanlar\\u0131 hem de klasik t\\xFCt\\xFCn deneyiminin en \\xFCst seviyesini ya\\u015Famak isteyenleri kendine \\xE7eker.']}),`\n`,(0,e.jsxs)(n.h2,{id:\"alt\\u0131n-standartta-bir-deneyim\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#alt\\u0131n-standartta-bir-deneyim\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Alt\\u0131n Standartta Bir Deneyim\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Gold, her bir t\\xFCt\\xFCn yapra\\u011F\\u0131n\\u0131n en olgun ve dolgun lezzetini bar\\u0131nd\\u0131ran \\xF6zel harman\\u0131yla \\xF6ne \\xE7\\u0131kar. \\u0130\\xE7im esnas\\u0131nda hissedilen zengin ve kompleks tat profili, bo\\u011Faz\\u0131 yormayan yumu\\u015Fak bir \\xE7ekimle birle\\u015Fir. Ne \\xE7ok hafif ne de \\xE7ok yo\\u011Fun olan bu ideal denge, Davidoff'un kaliteye olan ba\\u011Fl\\u0131l\\u0131\\u011F\\u0131n\\u0131 kan\\u0131tlar.\"}),`\n`,(0,e.jsxs)(n.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Zengin ve Dengeli Harman:\"}),\" Y\\xFCksek kaliteli t\\xFCt\\xFCnlerin ustaca kar\\u0131\\u015F\\u0131m\\u0131, kal\\u0131c\\u0131 ve tatmin edici bir lezzet sunar.\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"\\u0130deal \\u0130\\xE7im G\\xFCc\\xFC:\"}),\" \",(0,e.jsx)(n.strong,{children:\"7 mg katran\"}),\" ve \",(0,e.jsx)(n.strong,{children:\"0.7 mg nikotin\"}),\" seviyeleri, t\\xFCt\\xFCn\\xFCn ger\\xE7ek tad\\u0131n\\u0131 almak i\\xE7in en uygun dengeyi sa\\u011Flar.\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"L\\xFCks Estetik:\"}),\" Ambalaj\\u0131ndaki alt\\u0131n detaylar ve filtredeki gold rengi, \\xFCr\\xFCn\\xFCn \\xFCst\\xFCn kalitesini ve prestijini vurgular.\"]}),`\n`]}),`\n`,(0,e.jsxs)(n.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,e.jsx)(n.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,e.jsx)(n.p,{children:\"Davidoff Classic Gold, kaliteden \\xF6d\\xFCn vermeyen, klasik lezzetleri modern bir yakla\\u015F\\u0131mla deneyimlemek isteyenler i\\xE7in idealdir.\"}),`\n`,(0,e.jsxs)(n.ul,{children:[`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"T\\xFCt\\xFCn Uzmanlar\\u0131:\"}),\" T\\xFCt\\xFCn\\xFCn en saf ve zengin halini takdir edenler.\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Dengeli Tat Arayanlar:\"}),\" Ne \\xE7ok hafif ne de \\xE7ok a\\u011F\\u0131r, ideal bir i\\xE7im g\\xFCc\\xFC isteyenler.\"]}),`\n`,(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.strong,{children:\"Stat\\xFC Sahipleri:\"}),\" Zarafeti ve l\\xFCks\\xFC g\\xFCnl\\xFCk hayat\\u0131na ta\\u015F\\u0131mak isteyenler.\"]}),`\n`]}),`\n`,(0,e.jsx)(n.hr,{}),`\n`,(0,e.jsxs)(n.p,{children:[(0,e.jsx)(n.strong,{children:\"Davidoff Classic Gold\"}),\" ile t\\xFCt\\xFCn\\xFCn ger\\xE7ek g\\xFCc\\xFCn\\xFC ve zarafetini ke\\u015Ffedin. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn d\\xFCnyas\\u0131nda m\\xFCkemmeliyetin somut halidir.\"]}),`\n`,(0,e.jsx)(n.p,{children:(0,e.jsx)(n.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function m(i={}){let{wrapper:n}=i.components||{};return n?(0,e.jsx)(n,{...i,children:(0,e.jsx)(c,{...i})}):c(i)}return b(D);})();\n;return Component;"
+  },
+  "_id": "products/13-davidoff-classic-gold.mdx",
+  "_raw": {
+    "sourceFilePath": "products/13-davidoff-classic-gold.mdx",
+    "sourceFileName": "13-davidoff-classic-gold.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/13-davidoff-classic-gold"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-classic-gold",
+  "slugAsParams": "davidoff-classic-gold",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-classic-gold-tutun-sanatinin-zirvesi",
+        "title": "Davidoff Classic Gold - Tütün Sanatının Zirvesi",
+        "items": [
+          {
+            "url": "#altin-standartta-bir-deneyim",
+            "title": "Altın Standartta Bir Deneyim"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff classic gold",
+      "href": "/products/davidoff-classic-gold"
+    }
+  ]
+}

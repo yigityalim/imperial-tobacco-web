@@ -1,0 +1,150 @@
+{
+  "title": "Davidoff Superslims White - Saf ve Pürüzsüz Deneyim",
+  "description": "Davidoff Superslims White, yalın ve hafif tütün harmanıyla, sade ve pürüzsüz bir içim sunar. Zarafetin en saf hali.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Superslims",
+  "productName": "White",
+  "sku": "DVF-SSLIMS-WHITE-20",
+  "price": 195,
+  "currency": "TRY",
+  "cover": "/images/davidoff-superslims-white-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-superslims-white-pack.jpg",
+      "alt": "Davidoff Superslims White paketi",
+      "caption": "Minimalist ve temiz beyaz ambalaj",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-superslims-white-detail.jpg",
+      "alt": "Davidoff Superslims White filtre detayı",
+      "caption": "Özel beyaz filtre ve kağıt",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "White",
+  "nicotineLevel": "0.3 mg",
+  "tarLevel": "3 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.0 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Yumuşak Filtre",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Sade Tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Ultra Hafif Harman",
+      "description": "Seçkin tütünlerin en hafif ve yumuşak karışımı.",
+      "icon": "capsule",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Minimalist Tasarım",
+      "description": "Sade ve modern çizgilerle zarif bir estetik.",
+      "icon": "flavor-twist",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Pürüzsüz İçim",
+      "description": "Boğazı yormayan, son derece rahat bir deneyim.",
+      "icon": "superslim",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "superslims",
+    "white",
+    "hafif",
+    "sade",
+    "minimalist"
+  ],
+  "sortOrder": 9,
+  "body": {
+    "raw": "\n# Davidoff Superslims White - Sadeliğin ve Zarafetin Buluşması\n\n**Davidoff Superslims White**, yalın ve saf bir tütün deneyimi arayanlar için tasarlandı. Bu ürün, **ekstra ince yapısıyla** modern bir duruş sergilerken, Davidoff'un benzersiz kalitesini **hafif ve pürüzsüz bir içimle** sunar. Zarafetin en saf hali, her nefeste hissedilir.\n\n## Saf ve Pürüzsüz Tütün Deneyimi\n\nDavidoff Superslims White, tütünün kendi doğal lezzetine odaklanır. İçerisinde yapay aroma veya tatlandırıcı bulunmaz. Böylece, Davidoff'un ustaca seçilmiş harmanının rafine ve zarif tadını doğrudan deneyimleyebilirsiniz. Bu sadelik, en yüksek kalitedeki tütünün kendi başına ne kadar mükemmel olabileceğini kanıtlar.\n\n## Yenilikçi Özellikler\n\n- **Ultra Hafif Harman:** Boğazı rahatsız etmeyen, zarif ve dengeli bir tat profili sunar.\n- **Ekstra İnce Tasarım:** Zarif ve modern Superslims formatı, hem estetik hem de pratik bir kullanım sunar.\n- **Hafif ve Dengeli:** **3 mg katran** ve **0.3 mg nikotin** seviyeleri, yoğun lezzet arayışında olmayanlar için idealdir.\n\n## Kimler İçin Tasarlandı?\n\nDavidoff Superslims White, sadeliği ve kaliteyi tercih eden, minimalist yaşam tarzına sahip sigara kullanıcıları için idealdir.\n* **Minimalist Tüketiciler:** Yapaylıktan uzak, sade ve doğal bir lezzet arayanlar.\n* **Hafif İçim Severler:** Yüksek nikotin ve katran seviyelerinden kaçınanlar.\n* **Stil Sahipleri:** İnce ve şık bir ürünle tarzını yansıtmak isteyenler.\n\n---\n\n**Davidoff Superslims White** ile hem tütünün kalitesini yaşayın hem de sadeliğin gücünü keşfedin. Bu ürün, tütün dünyasında zarafet ve saflığın en parlak örneğidir.\n\n*Hemen deneyin ve farkı hissedin.*\n",
+    "code": "var Component=(()=>{var h=Object.create;var l=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,k=Object.prototype.hasOwnProperty;var v=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),y=(a,e)=>{for(var n in e)l(a,n,{get:e[n],enumerable:!0})},s=(a,e,n,t)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of u(e))!k.call(a,r)&&r!==n&&l(a,r,{get:()=>e[r],enumerable:!(t=f(e,r))||t.enumerable});return a};var z=(a,e,n)=>(n=a!=null?h(p(a)):{},s(e||!a||!a.__esModule?l(n,\"default\",{value:a,enumerable:!0}):n,a)),g=a=>s(l({},\"__esModule\",{value:!0}),a);var m=v((W,d)=>{d.exports=_jsx_runtime});var S={};y(S,{default:()=>c,frontmatter:()=>b});var i=z(m()),b={title:\"Davidoff Superslims White - Saf ve P\\xFCr\\xFCzs\\xFCz Deneyim\",description:\"Davidoff Superslims White, yal\\u0131n ve hafif t\\xFCt\\xFCn harman\\u0131yla, sade ve p\\xFCr\\xFCzs\\xFCz bir i\\xE7im sunar. Zarafetin en saf hali.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Superslims\",productName:\"White\",sku:\"DVF-SSLIMS-WHITE-20\",price:195,currency:\"TRY\",cover:\"/images/davidoff-superslims-white-cover.png\",gallery:[{src:\"/images/davidoff-superslims-white-pack.jpg\",alt:\"Davidoff Superslims White paketi\",caption:\"Minimalist ve temiz beyaz ambalaj\"},{src:\"/images/davidoff-superslims-white-detail.jpg\",alt:\"Davidoff Superslims White filtre detay\\u0131\",caption:\"\\xD6zel beyaz filtre ve ka\\u011F\\u0131t\"}],filterColor:\"White\",nicotineLevel:\"0.3 mg\",tarLevel:\"3 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.0 mm\"},{name:\"Filtre Tipi\",value:\"Yumu\\u015Fak Filtre\"},{name:\"Aroma\",value:\"Sade T\\xFCt\\xFCn\"}],features:[{title:\"Ultra Hafif Harman\",description:\"Se\\xE7kin t\\xFCt\\xFCnlerin en hafif ve yumu\\u015Fak kar\\u0131\\u015F\\u0131m\\u0131.\",icon:\"capsule\"},{title:\"Minimalist Tasar\\u0131m\",description:\"Sade ve modern \\xE7izgilerle zarif bir estetik.\",icon:\"flavor-twist\"},{title:\"P\\xFCr\\xFCzs\\xFCz \\u0130\\xE7im\",description:\"Bo\\u011Faz\\u0131 yormayan, son derece rahat bir deneyim.\",icon:\"superslim\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"superslims\",\"white\",\"hafif\",\"sade\",\"minimalist\"],sortOrder:9};function o(a){let e={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",hr:\"hr\",li:\"li\",p:\"p\",span:\"span\",strong:\"strong\",ul:\"ul\",...a.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(e.h1,{id:\"davidoff-superslims-white---sadeli\\u011Fin-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-superslims-white---sadeli\\u011Fin-ve-zarafetin-bulu\\u015Fmas\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Davidoff Superslims White - Sadeli\\u011Fin ve Zarafetin Bulu\\u015Fmas\\u0131\"]}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Superslims White\"}),\", yal\\u0131n ve saf bir t\\xFCt\\xFCn deneyimi arayanlar i\\xE7in tasarland\\u0131. Bu \\xFCr\\xFCn, \",(0,i.jsx)(e.strong,{children:\"ekstra ince yap\\u0131s\\u0131yla\"}),\" modern bir duru\\u015F sergilerken, Davidoff'un benzersiz kalitesini \",(0,i.jsx)(e.strong,{children:\"hafif ve p\\xFCr\\xFCzs\\xFCz bir i\\xE7imle\"}),\" sunar. Zarafetin en saf hali, her nefeste hissedilir.\"]}),`\n`,(0,i.jsxs)(e.h2,{id:\"saf-ve-p\\xFCr\\xFCzs\\xFCz-t\\xFCt\\xFCn-deneyimi\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#saf-ve-p\\xFCr\\xFCzs\\xFCz-t\\xFCt\\xFCn-deneyimi\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Saf ve P\\xFCr\\xFCzs\\xFCz T\\xFCt\\xFCn Deneyimi\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Davidoff Superslims White, t\\xFCt\\xFCn\\xFCn kendi do\\u011Fal lezzetine odaklan\\u0131r. \\u0130\\xE7erisinde yapay aroma veya tatland\\u0131r\\u0131c\\u0131 bulunmaz. B\\xF6ylece, Davidoff'un ustaca se\\xE7ilmi\\u015F harman\\u0131n\\u0131n rafine ve zarif tad\\u0131n\\u0131 do\\u011Frudan deneyimleyebilirsiniz. Bu sadelik, en y\\xFCksek kalitedeki t\\xFCt\\xFCn\\xFCn kendi ba\\u015F\\u0131na ne kadar m\\xFCkemmel olabilece\\u011Fini kan\\u0131tlar.\"}),`\n`,(0,i.jsxs)(e.h2,{id:\"yenilik\\xE7i-\\xF6zellikler\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#yenilik\\xE7i-\\xF6zellikler\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Yenilik\\xE7i \\xD6zellikler\"]}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Ultra Hafif Harman:\"}),\" Bo\\u011Faz\\u0131 rahats\\u0131z etmeyen, zarif ve dengeli bir tat profili sunar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Ekstra \\u0130nce Tasar\\u0131m:\"}),\" Zarif ve modern Superslims format\\u0131, hem estetik hem de pratik bir kullan\\u0131m sunar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Hafif ve Dengeli:\"}),\" \",(0,i.jsx)(e.strong,{children:\"3 mg katran\"}),\" ve \",(0,i.jsx)(e.strong,{children:\"0.3 mg nikotin\"}),\" seviyeleri, yo\\u011Fun lezzet aray\\u0131\\u015F\\u0131nda olmayanlar i\\xE7in idealdir.\"]}),`\n`]}),`\n`,(0,i.jsxs)(e.h2,{id:\"kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:[(0,i.jsx)(e.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#kimler-i\\u0307\\xE7in-tasarland\\u0131\",children:(0,i.jsx)(e.span,{className:\"icon icon-link\"})}),\"Kimler \\u0130\\xE7in Tasarland\\u0131?\"]}),`\n`,(0,i.jsx)(e.p,{children:\"Davidoff Superslims White, sadeli\\u011Fi ve kaliteyi tercih eden, minimalist ya\\u015Fam tarz\\u0131na sahip sigara kullan\\u0131c\\u0131lar\\u0131 i\\xE7in idealdir.\"}),`\n`,(0,i.jsxs)(e.ul,{children:[`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Minimalist T\\xFCketiciler:\"}),\" Yapayl\\u0131ktan uzak, sade ve do\\u011Fal bir lezzet arayanlar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Hafif \\u0130\\xE7im Severler:\"}),\" Y\\xFCksek nikotin ve katran seviyelerinden ka\\xE7\\u0131nanlar.\"]}),`\n`,(0,i.jsxs)(e.li,{children:[(0,i.jsx)(e.strong,{children:\"Stil Sahipleri:\"}),\" \\u0130nce ve \\u015F\\u0131k bir \\xFCr\\xFCnle tarz\\u0131n\\u0131 yans\\u0131tmak isteyenler.\"]}),`\n`]}),`\n`,(0,i.jsx)(e.hr,{}),`\n`,(0,i.jsxs)(e.p,{children:[(0,i.jsx)(e.strong,{children:\"Davidoff Superslims White\"}),\" ile hem t\\xFCt\\xFCn\\xFCn kalitesini ya\\u015Fay\\u0131n hem de sadeli\\u011Fin g\\xFCc\\xFCn\\xFC ke\\u015Ffedin. Bu \\xFCr\\xFCn, t\\xFCt\\xFCn d\\xFCnyas\\u0131nda zarafet ve safl\\u0131\\u011F\\u0131n en parlak \\xF6rne\\u011Fidir.\"]}),`\n`,(0,i.jsx)(e.p,{children:(0,i.jsx)(e.em,{children:\"Hemen deneyin ve fark\\u0131 hissedin.\"})})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,i.jsx)(e,{...a,children:(0,i.jsx)(o,{...a})}):o(a)}return g(S);})();\n;return Component;"
+  },
+  "_id": "products/09-davidoff-superslims-white.mdx",
+  "_raw": {
+    "sourceFilePath": "products/09-davidoff-superslims-white.mdx",
+    "sourceFileName": "09-davidoff-superslims-white.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/09-davidoff-superslims-white"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-superslims-white",
+  "slugAsParams": "davidoff-superslims-white",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-superslims-white-sadeligin-ve-zarafetin-bulusmasi",
+        "title": "Davidoff Superslims White - Sadeliğin ve Zarafetin Buluşması",
+        "items": [
+          {
+            "url": "#saf-ve-puruzsuz-tutun-deneyimi",
+            "title": "Saf ve Pürüzsüz Tütün Deneyimi"
+          },
+          {
+            "url": "#yenilikci-ozellikler",
+            "title": "Yenilikçi Özellikler"
+          },
+          {
+            "url": "#kimler-icin-tasarlandi",
+            "title": "Kimler İçin Tasarlandı?"
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff superslims white",
+      "href": "/products/davidoff-superslims-white"
+    }
+  ]
+}

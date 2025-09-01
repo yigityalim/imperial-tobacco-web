@@ -1,0 +1,156 @@
+{
+  "title": "Davidoff Slims Classic - Zamansız Klasik",
+  "description": "Davidoff Slims Classic, geleneksel tütün lezzetini ince ve modern bir formatla sunarak, klasik sevenlerin vazgeçilmezi olur.",
+  "date": "2024-01-22T00:00:00.000Z",
+  "authors": [
+    {
+      "name": "Mehmet Yigit Yalim",
+      "role": "Content Creator",
+      "avatar": "/avatars/mehmetyigityalim.png",
+      "type": "AuthorsProperties",
+      "_raw": {}
+    }
+  ],
+  "published": true,
+  "toc": true,
+  "brandName": "Davidoff",
+  "categoryName": "Davidoff Slims",
+  "productName": "Classic",
+  "sku": "DVF-SLIMS-CLASSIC-20",
+  "price": 190,
+  "currency": "TRY",
+  "cover": "/images/davidoff-slims-classic-cover.png",
+  "gallery": [
+    {
+      "src": "/images/davidoff-slims-classic-pack.jpg",
+      "alt": "Davidoff Slims Classic paketi",
+      "caption": "Siyah ve gümüş renkli, klasik tasarım",
+      "type": "GalleryImage",
+      "_raw": {}
+    },
+    {
+      "src": "/images/davidoff-slims-classic-detail.jpg",
+      "alt": "Davidoff Slims Classic ürün detayı",
+      "caption": "Geleneksel lezzet için özel filtre",
+      "type": "GalleryImage",
+      "_raw": {}
+    }
+  ],
+  "filterColor": "Beyaz",
+  "nicotineLevel": "0.7 mg",
+  "tarLevel": "8 mg",
+  "packSize": 20,
+  "specifications": [
+    {
+      "name": "Uzunluk",
+      "value": "100 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Çap",
+      "value": "5.5 mm",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Aroma",
+      "value": "Güçlü ve klasik tütün",
+      "type": "ProductSpec",
+      "_raw": {}
+    },
+    {
+      "name": "Filtre Tipi",
+      "value": "Standart",
+      "type": "ProductSpec",
+      "_raw": {}
+    }
+  ],
+  "features": [
+    {
+      "title": "Geleneksel Lezzet",
+      "description": "Klasik bir sigaradan beklenen dolgun tat",
+      "icon": "classic",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "İnce ve Pratik",
+      "description": "İnce yapısıyla kolay taşınabilirlik",
+      "icon": "compact",
+      "type": "ProductFeature",
+      "_raw": {}
+    },
+    {
+      "title": "Tutarlı Kalite",
+      "description": "Her zaman aynı, güvenilir deneyim",
+      "icon": "quality",
+      "type": "ProductFeature",
+      "_raw": {}
+    }
+  ],
+  "inStock": true,
+  "featured": false,
+  "newProduct": false,
+  "tags": [
+    "slims",
+    "klasik",
+    "classic",
+    "güçlü",
+    "premium"
+  ],
+  "sortOrder": 6,
+  "body": {
+    "raw": "\n# Davidoff Slims Classic - Zamansız ve Güvenilir\n\nDavidoff Slims Classic, **geleneksel tütün aromasını** ince bir sigaranın rahatlığıyla birleştirir. Eğer dolgun ve tanıdık bir tat arıyorsanız, bu ürün tam size göre. Klasik siyah-gümüş ambalajı, zamansız kalitesini vurgular.\n\n## Neden Davidoff Slims Classic?\n\n### 💨 Dolgun Lezzet\n\n7 mg nikotin ve 8 mg katran seviyeleriyle güçlü bir içim sunar.\n\n### ⏱️ Güvenilir Deneyim\n\nHer pakette aynı tutarlı ve tatmin edici kaliteyi sunar.\n\n### 🚶 Pratik Tasarım\n\nİnce yapısı cebinizde veya çantanızda kolayca taşınır.",
+    "code": "var Component=(()=>{var f=Object.create;var l=Object.defineProperty;var h=Object.getOwnPropertyDescriptor;var v=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,k=Object.prototype.hasOwnProperty;var u=(e,a)=>()=>(a||e((a={exports:{}}).exports,a),a.exports),p=(e,a)=>{for(var n in a)l(e,n,{get:a[n],enumerable:!0})},t=(e,a,n,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let s of v(a))!k.call(e,s)&&s!==n&&l(e,s,{get:()=>a[s],enumerable:!(r=h(a,s))||r.enumerable});return e};var z=(e,a,n)=>(n=e!=null?f(g(e)):{},t(a||!e||!e.__esModule?l(n,\"default\",{value:e,enumerable:!0}):n,e)),y=e=>t(l({},\"__esModule\",{value:!0}),e);var o=u((D,c)=>{c.exports=_jsx_runtime});var S={};p(S,{default:()=>d,frontmatter:()=>b});var i=z(o()),b={title:\"Davidoff Slims Classic - Zamans\\u0131z Klasik\",description:\"Davidoff Slims Classic, geleneksel t\\xFCt\\xFCn lezzetini ince ve modern bir formatla sunarak, klasik sevenlerin vazge\\xE7ilmezi olur.\",date:\"2024-01-22T00:00:00.000Z\",authors:[{name:\"Mehmet Yigit Yalim\",role:\"Content Creator\",avatar:\"/avatars/mehmetyigityalim.png\"}],brandName:\"Davidoff\",categoryName:\"Davidoff Slims\",productName:\"Classic\",sku:\"DVF-SLIMS-CLASSIC-20\",price:190,currency:\"TRY\",cover:\"/images/davidoff-slims-classic-cover.png\",gallery:[{src:\"/images/davidoff-slims-classic-pack.jpg\",alt:\"Davidoff Slims Classic paketi\",caption:\"Siyah ve g\\xFCm\\xFC\\u015F renkli, klasik tasar\\u0131m\"},{src:\"/images/davidoff-slims-classic-detail.jpg\",alt:\"Davidoff Slims Classic \\xFCr\\xFCn detay\\u0131\",caption:\"Geleneksel lezzet i\\xE7in \\xF6zel filtre\"}],filterColor:\"Beyaz\",nicotineLevel:\"0.7 mg\",tarLevel:\"8 mg\",packSize:20,specifications:[{name:\"Uzunluk\",value:\"100 mm\"},{name:\"\\xC7ap\",value:\"5.5 mm\"},{name:\"Aroma\",value:\"G\\xFC\\xE7l\\xFC ve klasik t\\xFCt\\xFCn\"},{name:\"Filtre Tipi\",value:\"Standart\"}],features:[{title:\"Geleneksel Lezzet\",description:\"Klasik bir sigaradan beklenen dolgun tat\",icon:\"classic\"},{title:\"\\u0130nce ve Pratik\",description:\"\\u0130nce yap\\u0131s\\u0131yla kolay ta\\u015F\\u0131nabilirlik\",icon:\"compact\"},{title:\"Tutarl\\u0131 Kalite\",description:\"Her zaman ayn\\u0131, g\\xFCvenilir deneyim\",icon:\"quality\"}],inStock:!0,featured:!1,newProduct:!1,tags:[\"slims\",\"klasik\",\"classic\",\"g\\xFC\\xE7l\\xFC\",\"premium\"],sortOrder:6};function m(e){let a={a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",p:\"p\",span:\"span\",strong:\"strong\",...e.components};return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsxs)(a.h1,{id:\"davidoff-slims-classic---zamans\\u0131z-ve-g\\xFCvenilir\",children:[(0,i.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#davidoff-slims-classic---zamans\\u0131z-ve-g\\xFCvenilir\",children:(0,i.jsx)(a.span,{className:\"icon icon-link\"})}),\"Davidoff Slims Classic - Zamans\\u0131z ve G\\xFCvenilir\"]}),`\n`,(0,i.jsxs)(a.p,{children:[\"Davidoff Slims Classic, \",(0,i.jsx)(a.strong,{children:\"geleneksel t\\xFCt\\xFCn aromas\\u0131n\\u0131\"}),\" ince bir sigaran\\u0131n rahatl\\u0131\\u011F\\u0131yla birle\\u015Ftirir. E\\u011Fer dolgun ve tan\\u0131d\\u0131k bir tat ar\\u0131yorsan\\u0131z, bu \\xFCr\\xFCn tam size g\\xF6re. Klasik siyah-g\\xFCm\\xFC\\u015F ambalaj\\u0131, zamans\\u0131z kalitesini vurgular.\"]}),`\n`,(0,i.jsxs)(a.h2,{id:\"neden-davidoff-slims-classic\",children:[(0,i.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#neden-davidoff-slims-classic\",children:(0,i.jsx)(a.span,{className:\"icon icon-link\"})}),\"Neden Davidoff Slims Classic?\"]}),`\n`,(0,i.jsxs)(a.h3,{id:\"-dolgun-lezzet\",children:[(0,i.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-dolgun-lezzet\",children:(0,i.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u{1F4A8} Dolgun Lezzet\"]}),`\n`,(0,i.jsx)(a.p,{children:\"7 mg nikotin ve 8 mg katran seviyeleriyle g\\xFC\\xE7l\\xFC bir i\\xE7im sunar.\"}),`\n`,(0,i.jsxs)(a.h3,{id:\"\\uFE0F-g\\xFCvenilir-deneyim\",children:[(0,i.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#\\uFE0F-g\\xFCvenilir-deneyim\",children:(0,i.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u23F1\\uFE0F G\\xFCvenilir Deneyim\"]}),`\n`,(0,i.jsx)(a.p,{children:\"Her pakette ayn\\u0131 tutarl\\u0131 ve tatmin edici kaliteyi sunar.\"}),`\n`,(0,i.jsxs)(a.h3,{id:\"-pratik-tasar\\u0131m\",children:[(0,i.jsx)(a.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-pratik-tasar\\u0131m\",children:(0,i.jsx)(a.span,{className:\"icon icon-link\"})}),\"\\u{1F6B6} Pratik Tasar\\u0131m\"]}),`\n`,(0,i.jsx)(a.p,{children:\"\\u0130nce yap\\u0131s\\u0131 cebinizde veya \\xE7antan\\u0131zda kolayca ta\\u015F\\u0131n\\u0131r.\"})]})}function d(e={}){let{wrapper:a}=e.components||{};return a?(0,i.jsx)(a,{...e,children:(0,i.jsx)(m,{...e})}):m(e)}return y(S);})();\n;return Component;"
+  },
+  "_id": "products/06-davidoff-slims-classic.mdx",
+  "_raw": {
+    "sourceFilePath": "products/06-davidoff-slims-classic.mdx",
+    "sourceFileName": "06-davidoff-slims-classic.mdx",
+    "sourceFileDir": "products",
+    "contentType": "mdx",
+    "flattenedPath": "products/06-davidoff-slims-classic"
+  },
+  "type": "Product",
+  "slug": "/products/davidoff-slims-classic",
+  "slugAsParams": "davidoff-slims-classic",
+  "tableOfContents": {
+    "items": [
+      {
+        "url": "#davidoff-slims-classic-zamansiz-ve-guvenilir",
+        "title": "Davidoff Slims Classic - Zamansız ve Güvenilir",
+        "items": [
+          {
+            "url": "#neden-davidoff-slims-classic",
+            "title": "Neden Davidoff Slims Classic?",
+            "items": [
+              {
+                "url": "#dolgun-lezzet",
+                "title": "💨 Dolgun Lezzet"
+              },
+              {
+                "url": "#guvenilir-deneyim",
+                "title": "⏱️ Güvenilir Deneyim"
+              },
+              {
+                "url": "#pratik-tasarim",
+                "title": "🚶 Pratik Tasarım"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "breadcrumb": [
+    {
+      "label": "products",
+      "href": "/products"
+    },
+    {
+      "label": "davidoff slims classic",
+      "href": "/products/davidoff-slims-classic"
+    }
+  ]
+}
