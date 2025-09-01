@@ -38,7 +38,7 @@ export function middleware(request: NextRequest) {
     // ✅ SADECE production (veya FORCE_ONBOARDING dev modda true iken) çalışır
 
     // Protected path kontrolü
-    if (isProtectedPath(pathname)) {
+    /*if (isProtectedPath(pathname)) {
         const isCompleted = isOnboardingCompleted(request);
 
         if (!isCompleted) {
@@ -48,16 +48,16 @@ export function middleware(request: NextRequest) {
             console.log(`🚀 Redirecting to onboarding: ${onboardingUrl.pathname}`);
             return NextResponse.redirect(onboardingUrl);
         }
-    }
+    } */
 
     // Onboarding sayfasına erişim kontrolü
-    if (pathname.includes("/onboarding") && isOnboardingCompleted(request)) {
+    /*if (pathname.includes("/onboarding") && isOnboardingCompleted(request)) {
         const locale = pathname.split("/")[1] || "tr";
         const homeUrl = new URL(`/${locale}`, request.url);
 
         console.log(`✅ Onboarding completed, redirecting to: ${homeUrl.pathname}`);
         return NextResponse.redirect(homeUrl);
-    }
+    } */
 
     return response;
 }

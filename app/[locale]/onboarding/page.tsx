@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: OnboardingPageProps) {
 
 export default async function OnboardingPage({ params }: OnboardingPageProps) {
 	const { locale } = await params;
-	const isBypassedInDev = await forceBypassOnboarding();
+	/*const isBypassedInDev = await forceBypassOnboarding();
 
 	if (isBypassedInDev) {
 		console.log("🔧 DEV MODE: Redirecting from onboarding page to home");
@@ -33,7 +33,7 @@ export default async function OnboardingPage({ params }: OnboardingPageProps) {
 	if (isCompleted) {
 		console.log("✅ Onboarding completed, redirecting to home");
 		redirect(`/${locale}`);
-	}
+	} */
 
 	const t = await getTranslations("onboarding");
 
