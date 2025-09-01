@@ -1,6 +1,7 @@
 import { allBrands } from "contentlayer/generated";
 import type { Metadata } from "next";
 import { BrandCard } from "@/components/catalog/brand-card";
+import { QrcodeGenerator } from "@/components/qrcode-generator";
 
 export const metadata: Metadata = {
 	title: "Markalarımız | Tütün Ürün Kataloğu",
