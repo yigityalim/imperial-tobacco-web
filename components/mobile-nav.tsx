@@ -3,8 +3,6 @@
 import { X } from "lucide-react";
 import { motion } from "motion/react";
 import Image from "next/image";
-import { redirect } from "next/navigation";
-import { Link } from "next-view-transitions";
 import { ThemeButton } from "@/components/theme-switch";
 import {
 	Drawer,
@@ -16,6 +14,7 @@ import {
 	DrawerTitle,
 	DrawerTrigger,
 } from "@/components/ui/drawer";
+import { Link } from "@/i18n/navigation";
 import { getMenuItems } from "@/lib/menu";
 import { clearOnboardingStatus } from "@/lib/onboarding";
 import { useMenu } from "@/state/menu";

@@ -3,7 +3,6 @@
 import type { Brand, Category, Post, Product } from "contentlayer/generated";
 import { BookOpen } from "lucide-react";
 import * as React from "react";
-import useDimensions from "use-element-dimensions";
 import { TableOfContents } from "@/components/table-of-contents";
 import {
 	Accordion,
@@ -57,16 +56,6 @@ export function CategoryToc({
 	position = "fixed",
 }: Readonly<CategoryTocProps>) {
 	const [isOpen, setIsOpen] = React.useState<string | undefined>(undefined);
-	const [{ height }, triggerRef] = useDimensions();
-
-	React.useEffect(() => {
-		if (height) {
-			window.document.documentElement.style.setProperty(
-				"--toc-height",
-				`${height}px`,
-			);
-		}
-	}, [height]);
 
 	// Check if document exists first
 	if (!document) {
@@ -95,7 +84,7 @@ export function CategoryToc({
 				onValueChange={setIsOpen}
 			>
 				<AccordionItem value="item-1">
-					<AccordionTrigger className="px-4" ref={triggerRef}>
+					<AccordionTrigger className="px-4">
 						<div className="flex items-center">
 							<BookOpen className="mr-2 size-4 icon-base" />
 							<span className="text-sm font-medium">

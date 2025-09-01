@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { Link } from "next-view-transitions";
 import { DesktopNav } from "@/components/desktop-nav";
 import { MobileNav } from "@/components/mobile-nav";
+import { Link } from "@/i18n/navigation";
 import { cn } from "@/lib/utils";
 
 export function Header(): React.JSX.Element {
