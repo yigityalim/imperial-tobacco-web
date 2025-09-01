@@ -6,6 +6,7 @@ import { FeatureList } from "@/components/catalog/feature-list";
 import { ProductCard } from "@/components/catalog/product-card";
 import { CategoryLayout } from "@/components/content-layout";
 import { Mdx } from "@/components/mdx-components";
+import { QrcodeGenerator } from "@/components/qrcode-generator";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ImageGallery } from "@/components/ui/image-gallery";
 
@@ -69,6 +70,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
 	return (
 		<CategoryLayout category={category} tocPosition="fixed">
+			<QrcodeGenerator />
 			<div className="container mx-auto px-4 py-8">
 				{/*<Breadcrumb items={category.breadcrumb} /> */}
 

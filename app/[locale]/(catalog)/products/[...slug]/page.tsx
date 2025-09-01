@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { FeatureList } from "@/components/catalog/feature-list";
 import { SpecificationTable } from "@/components/catalog/specification-table";
 import { Mdx } from "@/components/mdx-components";
+import { QrcodeGenerator } from "@/components/qrcode-generator";
 import { Badge } from "@/components/ui/badge";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ImageGallery } from "@/components/ui/image-gallery";
@@ -52,7 +53,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
 	return (
 		<div className="container mx-auto px-4 py-8">
-			<Breadcrumb items={product.breadcrumb} />
+			<QrcodeGenerator />
+			{/*<Breadcrumb items={product.breadcrumb} />*/}
 
 			{/* Product Header */}
 			<div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">

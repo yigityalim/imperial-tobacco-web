@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { CategoryCard } from "@/components/catalog/category-card";
 import { BrandLayout } from "@/components/content-layout";
 import { Mdx } from "@/components/mdx-components";
+import { QrcodeGenerator } from "@/components/qrcode-generator";
 import { Breadcrumb } from "@/components/ui/breadcrumb";
 import { ImageGallery } from "@/components/ui/image-gallery";
 
@@ -60,6 +61,7 @@ export default async function BrandPage({ params }: BrandPageProps) {
 
 	return (
 		<BrandLayout brand={brand} showToc={true} tocPosition="fixed">
+			<QrcodeGenerator />
 			<div className="container mx-auto px-4 py-8">
 				<Breadcrumb items={brand.breadcrumb} />
 
