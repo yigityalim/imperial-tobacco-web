@@ -8,6 +8,7 @@ import {
 	Star,
 	TrendingUp,
 } from "lucide-react";
+import type { Metadata } from "next";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { BrandCard } from "@/components/brand-card";
@@ -55,6 +56,7 @@ export default async function Home() {
 
 	return (
 		<div className="min-h-screen">
+			<QrcodeGenerator />
 			{/* Hero Section */}
 			<section className="relative">
 				<div className="absolute inset-0 bg-foreground" />

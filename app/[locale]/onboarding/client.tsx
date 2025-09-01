@@ -1,7 +1,7 @@
 "use client";
 
 import { ArrowLeft } from "lucide-react";
-import { AnimatePresence, motion } from "motion/react";
+import { AnimatePresence, motion, type Variants } from "motion/react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
@@ -98,7 +98,7 @@ export function OnboardingClient({
 			},
 		},
 		tap: { scale: 0.98 },
-	};
+	} as Variants;
 
 	const containerVariants = {
 		hidden: { opacity: 0, y: 20 },
@@ -117,7 +117,7 @@ export function OnboardingClient({
 				duration: 0.3,
 			},
 		},
-	};
+	} as Variants;
 
 	return (
 		<div className="min-h-screen flex flex-col p-4">

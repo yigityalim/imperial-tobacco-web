@@ -4,7 +4,6 @@ import "../globals.css";
 import { notFound } from "next/navigation";
 import { hasLocale } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
-import { ViewTransitions } from "next-view-transitions";
 import type React from "react";
 import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
@@ -41,12 +40,10 @@ export const generateStaticParams = () =>
 
 export default async function RootLayout({
 	children,
-	modal,
 	params,
 }: Readonly<
 	React.PropsWithChildren<{
-		params: Promise<{ locale: Locale }>;
-		modal: React.ReactNode;
+		params: Promise<{ locale: string }>;
 	}>
 >) {
 	const [{ locale }, messages] = await Promise.all([params, getMessages()]);
@@ -57,23 +54,20 @@ export default async function RootLayout({
 	setRequestLocale(locale);
 
 	return (
-		<ViewTransitions>
-			<html lang={locale} suppressHydrationWarning>
-				<ReactScan scan={false} />
-				<body
-					suppressHydrationWarning
-					className={cn(
-						"bg-cream-100/20 text-offgray dark:text-offgray-300 relative min-h-screen w-screen overflow-x-hidden dark:bg-[hsl(218,_13%,_8%)]",
-						lora.variable,
-					)}
-				>
-					<Providers locale={locale} messages={messages}>
-						{children}
-						{modal}
-						<ScrollTopButton />
-					</Providers>
-				</body>
-			</html>
-		</ViewTransitions>
+		<html lang={locale} suppressHydrationWarning>
+			<ReactScan scan={false} />
+			<body
+				suppressHydrationWarning
+				className={cn(
+					"bg-cream-100/20 text-offgray dark:text-offgray-300 relative min-h-screen w-screen overflow-x-hidden dark:bg-[hsl(218,_13%,_8%)]",
+					lora.variable,
+				)}
+			>
+				<Providers locale={locale} messages={messages}>
+					{children}
+					<ScrollTopButton />
+				</Providers>
+			</body>
+		</html>
 	);
 }

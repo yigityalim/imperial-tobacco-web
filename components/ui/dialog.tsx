@@ -50,11 +50,9 @@ function DialogContent({
 	className,
 	removeClose,
 	...props
-}: React.ComponentProps<
-	typeof DialogPrimitive.Content & {
-		removeClose?: boolean;
-	}
->) {
+}: React.ComponentProps<typeof DialogPrimitive.Content> & {
+	removeClose?: boolean;
+}) {
 	return (
 		<DialogPortal>
 			<DialogOverlay />
@@ -93,11 +91,9 @@ function DialogTitle({
 	className,
 	removeStyles,
 	...props
-}: React.ComponentProps<
-	typeof DialogPrimitive.Title & {
-		removeStyles?: boolean;
-	}
->) {
+}: React.ComponentProps<typeof DialogPrimitive.Title> & {
+	removeStyles?: boolean;
+}) {
 	return (
 		<DialogPrimitive.Title
 			data-slot="dialog-title"

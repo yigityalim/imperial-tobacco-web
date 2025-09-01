@@ -40,9 +40,9 @@ function AccordionTrigger({
 	children,
 	removeIcon,
 	...props
-}: React.ComponentProps<
-	typeof AccordionPrimitive.Trigger & { removeIcon?: boolean }
->) {
+}: React.ComponentProps<typeof AccordionPrimitive.Trigger> & {
+	removeIcon?: boolean;
+}) {
 	return (
 		<AccordionPrimitive.Trigger
 			data-slot="accordion-trigger"
