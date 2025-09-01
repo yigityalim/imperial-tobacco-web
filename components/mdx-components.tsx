@@ -3,9 +3,9 @@
 import { Hash } from "lucide-react";
 import NextImage, { type ImageProps } from "next/image";
 import { useMDXComponent } from "next-contentlayer2/hooks";
-import { Link } from "next-view-transitions";
 import React from "react";
 import slugify from "slugify";
+import { Link } from "@/i18n/navigation";
 import { cn } from "@/lib/utils";
 
 export const components = {
